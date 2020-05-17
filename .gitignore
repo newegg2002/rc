@@ -12,6 +12,7 @@
 #vim
 /.vim/**/.git/
 !/.vim/
+!/.vim_bak/
 !/.vimrc
 
 #rime
