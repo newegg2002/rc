@@ -13,3 +13,6 @@
 /.vim/**/.git/
 !/.vim/
 !/.vimrc
+
+#rime
+!/.rime/

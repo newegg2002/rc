@@ -1,0 +1,8 @@
+distribution_code_name: "fcitx-rime"
+distribution_name: Rime
+distribution_version: 0.2.3
+install_time: "Tue Apr 28 21:12:15 2020"
+#installation_id: "5ce71afd-d7e7-4b94-8d69-99886b3a8d6f"
+installation_id: "linux"
+sync_dir: '/home/jasper/.rime/sync'
+rime_version: 1.4.0

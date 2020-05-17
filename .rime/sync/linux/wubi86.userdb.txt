@@ -1,0 +1,6008 @@
+# Rime user dictionary
+#@/db_name	wubi86.userdb
+#@/db_type	userdb
+#@/rime_version	1.4.0
+#@/tick	7634
+#@/user_id	linux
+a 	工	c=1 d=1 t=5939
+aaa 	工	c=10 d=1.34605 t=7042
+aaaa 	工	c=1 d=1 t=531
+aahw 	工具	c=2 d=1.64082 t=2792
+aajf 	工时	c=1 d=1 t=7514
+aarp 	工控	c=1 d=0.134605 t=7043
+aawt 	工作	c=15 d=3.0338 t=7577
+ab 	节	c=4 d=1.55573 t=7376
+abhk 	节点	c=8 d=1.5263 t=7285
+adgf 	基于	c=2 d=1.00238 t=2056
+adk 	若	c=2 d=1.47951 t=4813
+adm 	项	c=15 d=1.00156 t=6751
+adpu 	其实	c=2 d=1.01859 t=4646
+adw 	其	c=14 d=3.00976 t=7348
+adwb 	其他	c=12 d=1.00001 t=7176
+adwe 	期	c=4 d=1.98021 t=7421
+adwn 	甚	c=1 d=1 t=5549
+afs 	某	c=13 d=1.00052 t=7177
+agn 	七	c=1 d=1 t=5634
+agnn 	巧	c=1 d=1 t=5635
+ailf 	范围	c=1 d=1 t=5033
+ajwv 	划分	c=2 d=1.93707 t=5527
+ak 	或	c=1 d=1 t=7175
+akft 	或者	c=12 d=1.27425 t=6310
+alce 	功能	c=4 d=1 t=7113
+amw 	黄	c=4 d=2.0255 t=7560
+amyg 	英语	c=1 d=1 t=5856
+an 	世	c=1 d=1 t=5102
+aqaa 	警戒	c=5 d=1.60856 t=5734
+aqbc 	获取	c=8 d=2.59162 t=4154
+aqfa 	区域	c=1 d=1 t=5735
+aqsg 	匹配	c=1 d=1 t=3043
+aqtj 	获得	c=1 d=1 t=3662
+aquj 	区间	c=1 d=1 t=62
+avrq 	切换	c=1 d=1 t=2481
+aw 	共	c=2 d=1.78663 t=7584
+awx 	花	c=1 d=1 t=7210
+awyb 	共享	c=12 d=4.56034 t=6484
+b 	了	c=44 d=2.97767 t=7478
+bb 	子	c=3 d=1 t=7618
+bc 	取	c=2 d=1.90937 t=194
+bdjf 	随时	c=1 d=1 t=7387
+bduj 	随意	c=1 d=1 t=2733
+biov 	函数	c=28 d=1.29505 t=6614
+bm 	出	c=22 d=2.84148 t=7522
+bn 	也	c=18 d=1.83896 t=7401
+bnqe 	了解	c=2 d=1.09778 t=7203
+boff 	防火墙	c=1 d=1 t=6502
+bve 	限	c=1 d=1 t=1721
+bvrm 	限制	c=1 d=1 t=6506
+bw 	队	c=2 d=1 t=7228
+bwty 	除	c=1 d=1 t=1699
+bwwd 	阶段	c=3 d=1.00586 t=6634
+by 	防	c=1 d=1 t=4417
+c 	以	c=69 d=3.06836 t=7534
+cafc 	驱动	c=9 d=4.76879 t=2293
+cbdm 	预	c=1 d=1 t=5201
+ccc 	又	c=5 d=1 t=4275
+cd 	参	c=1 d=1 t=7628
+cdmq 	参见	c=1 d=1 t=7374
+cdov 	参数	c=7 d=2.67223 t=2174
+ce 	能	c=23 d=1.03843 t=7296
+cep 	通	c=36 d=2.85719 t=6783
+cewy 	通信	c=1 d=0.179075 t=6769
+cf 	对	c=36 d=1.46088 t=7621
+cfyi 	对应	c=3 d=1.00001 t=7465
+ck 	台	c=24 d=5.02459 t=6985
+cmpw 	观察	c=2 d=1.85642 t=6054
+cp 	驼	c=2 d=1 t=5433
+cqyt 	允许	c=1 d=1 t=2114
+d 	在	c=83 d=1.32431 t=7613
+dc 	友	c=1 d=1 t=5564
+dd 	大	c=3 d=1.00011 t=6004
+ddds 	大厅	c=1 d=1 t=7627
+ddgc 	大致	c=4 d=1.99776 t=5521
+dfd 	圧	c=1 d=1 t=2207
+dg 	三	c=1 d=1 t=2831
+dgjq 	硬	c=2 d=1.956 t=7607
+dgpe 	厂家	c=1 d=1 t=6105
+dgwr 	硬件	c=6 d=1.00329 t=3288
+dhb 	存	c=10 d=1.00123 t=7612
+dhwy 	存储	c=2 d=1.46533 t=4581
+dm 	面	c=16 d=2.72779 t=5640
+dmj 	而	c=14 d=2.24192 t=5302
+dmsr 	面板	c=3 d=2.29869 t=1584
+dmtm 	面向	c=1 d=1 t=4596
+dmu 	页	c=2 d=1.7827 t=7586
+dn 	成	c=23 d=1.00057 t=7583
+dna 	碾	c=1 d=1 t=5472
+dnad 	尤其	c=3 d=1.00027 t=4407
+dnal 	成功	c=9 d=1.7981 t=6424
+dnkm 	成员	c=1 d=1 t=4366
+dp 	达	c=33 d=5.33233 t=5918
+dqe 	确	c=1 d=1 t=6462
+dqpg 	确定	c=7 d=1.02806 t=7179
+dqpu 	确实	c=1 d=1 t=5887
+dqwk 	确保	c=6 d=1 t=7069
+dqyw 	确认	c=8 d=3.4432 t=6466
+dr 	原	c=1 d=1 t=4127
+drld 	原因	c=6 d=1.0523 t=6122
+dty 	故	c=1 d=1 t=5552
+duo 	碰	c=1 d=1 t=7362
+e 	有	c=87 d=3.44252 t=7512
+edm 	须	c=1 d=1 t=3228
+eee 	月	c=2 d=1.90937 t=7501
+eeee 	月	c=1 d=1 t=7438
+eeyq 	月底	c=1 d=1 t=7448
+efcb 	脚	c=2 d=1.27527 t=1633
+eg 	且	c=7 d=1.34996 t=7160
+egl 	助	c=1 d=1 t=3484
+epc 	受	c=1 d=1 t=1755
+epwh 	逐个	c=1 d=1 t=3233
+er 	遥	c=1 d=1 t=6976
+eset 	采用	c=2 d=1.31037 t=4802
+et 	用	c=6 d=1.00001 t=6389
+etif 	用法	c=1 d=1 t=7614
+etyn 	用户	c=10 d=1.48187 t=6486
+eud 	腾	c=2 d=1.52205 t=7626
+eudc 	腾	c=1 d=1 t=7541
+ey 	及	c=24 d=3.50417 t=7533
+f 	地	c=1 d=1 t=2208
+fafd 	塔城	c=1 d=1 t=15
+fal 	载	c=1 d=1 t=6152
+falt 	截图	c=2 d=1.1836 t=7527
+faty 	载入	c=1 d=1 t=1656
+faw 	截	c=1 d=1 t=2250
+fb 	地	c=7 d=1.12562 t=6601
+fbfh 	地址	c=2 d=1.00002 t=6312
+fbhk 	地点	c=1 d=1 t=7517
+fbyy 	地方	c=3 d=1 t=7322
+fcb 	却	c=2 d=1.00242 t=6210
+fcl 	动	c=2 d=1.14734 t=4567
+fcrf 	支持	c=8 d=1 t=7574
+fctf 	运行	c=14 d=2.19114 t=7130
+fcu 	去	c=4 d=1 t=4405
+fcwt 	动作	c=1 d=1 t=4342
+fdsg 	城西	c=1 d=1 t=1399
+fdsv 	需要	c=31 d=1.89938 t=6718
+ffyc 	填充	c=1 d=1 t=4493
+fg 	二	c=5 d=1.0009 t=4100
+fgi 	坏	c=1 d=1 t=3607
+fhf 	直	c=1 d=1 t=4968
+fhn 	起	c=4 d=1 t=5645
+fhpu 	真实	c=2 d=1.00133 t=4957
+fhru 	直接	c=5 d=1.67706 t=6150
+fhvk 	超	c=2 d=1.50662 t=1931
+fii 	未	c=3 d=1 t=7620
+fikh 	过滤嘴	c=1 d=1 t=6552
+fiu 	示	c=6 d=1.887 t=7006
+fiy 	求	c=2 d=1.01441 t=3483
+fjdk 	朝右	c=2 d=1.00764 t=1004
+fjfh 	韩	c=2 d=1.91393 t=7497
+fjp 	进	c=4 d=1 t=5732
+fjtf 	进行	c=17 d=2.88586 t=7123
+fjtk 	进程	c=2 d=1.03474 t=3455
+fjty 	进入	c=9 d=1.23388 t=5890
+fleg 	协助	c=1 d=1 t=7545
+flf 	雷	c=34 d=5.33234 t=5917
+flfl 	靐	c=1 d=1 t=575
+flwt 	协作	c=1 d=1 t=3707
+flyy 	协议	c=2 d=1 t=6363
+fn 	志	c=1 d=1 t=6
+fnog 	专业	c=1 d=1 t=6846
+fp 	过	c=38 d=1.19938 t=6784
+fpqa 	过错	c=1 d=1 t=2429
+fptk 	过程	c=8 d=1.00057 t=7091
+fq 	无	c=12 d=1.80503 t=5888
+fqgx 	元素	c=2 d=1.88692 t=2131
+fqp 	远	c=2 d=1 t=7580
+fqtk 	远程	c=4 d=1 t=6293
+fqu 	均	c=4 d=1.00677 t=3809
+ft 	才	c=2 d=1.00011 t=3803
+ftak 	考勤	c=3 d=2.52051 t=7484
+ftj 	者	c=4 d=1.35996 t=4101
+ftjb 	都	c=15 d=1.0006 t=7461
+ftkj 	二重唱	c=1 d=1 t=5266
+ftx 	老	c=5 d=3.22474 t=7377
+fwmj 	规则	c=2 d=1 t=7605
+g 	一	c=79 d=2.86798 t=7380
+ga 	开	c=5 d=1 t=5573
+gae 	形	c=1 d=1 t=5153
+gavc 	开始	c=7 d=2.59327 t=4976
+gayn 	开启	c=1 d=1 t=2593
+gayt 	开放	c=1 d=1 t=6482
+gbmq 	互联网	c=1 d=1 t=4500
+gc 	到	c=59 d=4.69095 t=7447
+gcf 	至	c=10 d=1.56654 t=7065
+gcfj 	到	c=1 d=1 t=1239
+gcft 	致	c=4 d=1 t=6498
+gchx 	至此	c=1 d=1 t=7021
+gd 	天	c=1 d=1 t=7615
+ge 	表	c=4 d=1.00001 t=7486
+gefi 	表示	c=4 d=0.458868 t=5128
+gest 	表格	c=1 d=1 t=7452
+gf 	于	c=25 d=1.86683 t=7163
+gg 	五	c=2 d=1 t=7086
+ggfu 	环境	c=1 d=1 t=2676
+ggg 	王	c=1 d=1 t=7402
+gh 	下	c=47 d=2.01296 t=7381
+ghd 	正	c=1 d=1 t=5186
+ghdm 	下面	c=2 d=0.455371 t=5640
+ghdq 	正确	c=8 d=1.77433 t=6760
+ghip 	正常	c=15 d=2.60173 t=6798
+gi 	不	c=1 d=1 t=1859
+gik 	否	c=28 d=4.91221 t=6797
+gimj 	否则	c=2 d=1.00075 t=3557
+gip 	还	c=10 d=1.00158 t=7439
+gjh 	惠	c=1 d=1 t=3834
+gjkh 	理路	c=1 d=1 t=1825
+gjq 	更	c=3 d=1 t=7143
+gjsh 	理想	c=1 d=1 t=3852
+gjus 	更新	c=3 d=2.77293 t=386
+gk 	事	c=2 d=1.00006 t=5631
+gkih 	整	c=1 d=1 t=158
+gkmj 	融	c=1 d=1 t=3555
+gkph 	带	c=1 d=1 t=3904
+gkwg 	融合	c=2 d=1.90032 t=435
+gkwh 	整个	c=8 d=1.00008 t=7025
+gkwr 	事件	c=6 d=4.84504 t=2434
+gldm 	画面	c=1 d=1 t=6052
+gmf 	再	c=16 d=1.1268 t=7426
+gmfn 	现场	c=1 d=1 t=7573
+gmq 	现	c=20 d=1.34599 t=6642
+gmqj 	现象	c=1 d=1 t=4255
+gmww 	两	c=5 d=1 t=7394
+gn 	与	c=22 d=1.04956 t=7576
+go 	来	c=17 d=1.00467 t=7464
+goi 	来	c=1 d=1 t=1674
+goi 	灭	c=3 d=1.66715 t=1909
+gqj 	列	c=2 d=1.02788 t=7462
+gqsy 	赘述	c=2 d=1.00002 t=3509
+gqx 	死	c=2 d=1.63763 t=4249
+gu 	平	c=31 d=2.29011 t=7500
+gwhg 	不念旧恶	c=1 d=1 t=1667
+gx 	互	c=3 d=2.06116 t=4339
+gxi 	素	c=1 d=1 t=4251
+gxqi 	互锁	c=1 d=1.00937 t=4340
+gyt 	班	c=2 d=1.48432 t=233
+h 	上	c=55 d=3.3153 t=7398
+hd 	睚	c=1 d=1 t=4021
+hepg 	肯定	c=3 d=1.0041 t=5171
+hh 	止	c=1 d=1 t=64
+hhsf 	目标	c=28 d=1.01223 t=6994
+hhu 	卡	c=6 d=2.4972 t=7507
+hhue 	目前	c=4 d=1 t=6775
+hhvi 	目录	c=14 d=1.01219 t=7606
+hi 	步	c=13 d=1.01831 t=7052
+hicb 	步骤	c=11 d=1.97545 t=7244
+hitx 	频繁	c=1 d=1 t=6089
+hj 	旧	c=1 d=1 t=5531
+hko 	点	c=11 d=2.04908 t=7249
+ho 	眯	c=1 d=1 t=5011
+ht 	睡	c=1 d=1 t=3804
+hw 	具	c=1 d=1 t=3108
+hwws 	具体	c=10 d=1.00002 t=5825
+hx 	此	c=14 d=1.00554 t=7173
+hxf 	些	c=4 d=1.01474 t=2582
+i 	不	c=54 d=1.47831 t=7611
+iajd 	漠	c=1 d=1 t=14
+idr 	源	c=3 d=1 t=3147
+if 	法	c=1 d=1 t=5563
+ifc 	法	c=5 d=1.54983 t=5889
+ifj 	潮	c=1 d=1 t=4000
+igjs 	清晰	c=1 d=1 t=925
+iglk 	添加	c=3 d=1.84078 t=5874
+igss 	清楚	c=2 d=1 t=7320
+ih 	小	c=4 d=2.02691 t=7587
+ihc 	波	c=1 d=1 t=7543
+ihey 	涉及	c=3 d=1 t=4338
+ii 	水	c=2 d=1.90484 t=623
+iiii 	水	c=1 d=1 t=5844
+iith 	消息	c=32 d=1.31499 t=6997
+ijx 	混	c=2 d=1.98511 t=5846
+im 	没	c=20 d=1.06888 t=7472
+imj 	测	c=19 d=5.4574 t=5467
+imkh 	测距	c=2 d=1.49316 t=5486
+ipkh 	常	c=3 d=1 t=7261
+iprn 	掌握	c=1 d=1 t=1313
+ipya 	尝试	c=2 d=1.00002 t=5679
+it 	少	c=4 d=1.17967 t=7084
+iv 	当	c=10 d=1.11168 t=4931
+ivue 	当前	c=10 d=1.61302 t=6235
+iwwg 	举例	c=1 d=1 t=4027
+iy 	注	c=1 d=1 t=6774
+iycq 	流	c=1 d=1 t=5855
+iyjt 	浏览	c=1 d=1 t=5687
+iymm 	注册	c=7 d=1 t=7624
+iytk 	流程	c=16 d=1.34883 t=7026
+iyuj 	注意	c=4 d=1 t=6544
+iywf 	流传	c=1 d=1 t=7081
+j 	是	c=138 d=1.75305 t=7617
+jb 	最	c=11 d=1.60424 t=7074
+je 	明	c=6 d=1.12448 t=6708
+jegd 	明天	c=1 d=1 t=326
+jexl 	明细	c=1 d=1 t=7485
+jf 	时	c=36 d=1.00006 t=7588
+jfd 	里	c=27 d=2.69924 t=6742
+jfuj 	时间	c=10 d=3.3368 t=7508
+jfwh 	时候	c=4 d=1.15044 t=4684
+jg 	量	c=2 d=1.0006 t=2949
+jh 	早	c=3 d=1 t=7360
+jjad 	日期	c=1 d=1 t=7505
+jjfn 	日志	c=2 d=1.10076 t=7287
+jm 	遇	c=2 d=1.00102 t=5659
+jmgc 	遇到	c=3 d=0.10002 t=5660
+jn 	电	c=5 d=1.74968 t=2568
+jney 	电脑	c=12 d=1.47719 t=7060
+jnid 	电源	c=1 d=1 t=1293
+jnjg 	电量	c=5 d=2.79374 t=3298
+jofi 	显示	c=12 d=1 t=5325
+jqr 	易	c=1 d=1 t=1748
+jtgd 	昨天	c=3 d=1.45612 t=7359
+jtim 	监测	c=1 d=1 t=1461
+jtjf 	临时	c=2 d=1.86502 t=7077
+jtrp 	监控	c=1 d=1 t=1384
+kdyc 	顺序	c=3 d=1 t=7174
+kgn 	号	c=4 d=1.0002 t=7418
+kh 	中	c=53 d=1.7424 t=7539
+khan 	距	c=19 d=5.46601 t=5468
+khj 	踢	c=2 d=1.41895 t=831
+khkh 	跟踪	c=4 d=2.27107 t=863
+khmh 	路由	c=1 d=1 t=2618
+khny 	中心	c=2 d=1.85859 t=2610
+khq 	跑	c=1 d=1 t=5101
+khtc 	路径	c=15 d=1.03741 t=7622
+khu 	足	c=4 d=1.00185 t=2979
+khuj 	中间	c=1 d=1 t=6792
+khyb 	距离	c=3 d=1.78145 t=858
+khyy 	中文	c=6 d=3.93091 t=7596
+kkd 	器	c=40 d=1.00663 t=6990
+kl 	另	c=2 d=1.02612 t=4449
+km 	员	c=1 d=1 t=1860
+kmu 	员	c=3 d=1.44305 t=7011
+krh 	听	c=1 d=1 t=4014
+ktu 	呼	c=1 d=1 t=7435
+ktyi 	响应	c=1 d=1 t=2643
+kv 	哪	c=6 d=1.00938 t=4310
+kw 	只	c=20 d=1.01361 t=7603
+ky 	嘛	c=1 d=1 t=5938
+lcsw 	轻松	c=1 d=1 t=5405
+ld 	因	c=13 d=1.10989 t=5380
+ldpg 	固定	c=1 d=1 t=2313
+lfhf 	置	c=1 d=1 t=2857
+lfn 	转	c=4 d=1.09482 t=1497
+lfrq 	转换	c=1 d=0.148842 t=1498
+lfyw 	默认	c=1 d=1 t=2116
+lg 	车	c=2 d=1 t=7227
+lgbw 	车队	c=3 d=1.04649 t=7228
+lgeg 	辅助	c=1 d=1 t=2531
+lh 	四	c=3 d=1.08086 t=7531
+lkd 	回	c=6 d=1.00056 t=6927
+lkfa 	加载	c=2 d=1.96079 t=2294
+lktj 	回复	c=3 d=0.1 t=6928
+ln 	思	c=1 d=1 t=387
+lnkh 	思路	c=3 d=1 t=7280
+lpfq 	边远	c=1 d=1 t=5473
+lpk 	连	c=1 d=1 t=283
+lpru 	连接	c=15 d=1.96973 t=4624
+lqlk 	逻辑	c=2 d=1 t=6006
+lqwr 	软件	c=6 d=1.91842 t=6971
+lrj 	暂	c=1 d=1 t=4299
+lrjf 	暂	c=1 d=1 t=4216
+ls 	困	c=5 d=4.95037 t=7634
+ltk 	略	c=4 d=2.63807 t=2753
+ltth 	图片	c=10 d=1.60387 t=6894
+ltu 	图	c=5 d=1 t=6166
+luq 	较	c=3 d=1.00336 t=6739
+lwbm 	输出	c=1 d=1 t=6263
+lwif 	办法	c=5 d=1.96561 t=7282
+lwx 	轮	c=1 d=1 t=2261
+m 	同	c=13 d=1.15034 t=7051
+meik 	崩溃	c=1 d=1 t=2127
+mfk 	周	c=1 d=1 t=1911
+mga 	赋	c=1 d=1 t=6657
+mh 	由	c=5 d=1.00207 t=5829
+mj 	则	c=14 d=1.26081 t=6624
+mm 	册	c=1 d=1 t=2446
+mp 	迪	c=1 d=1 t=5187
+mqb 	见	c=2 d=1 t=7262
+mqq 	网	c=9 d=3.45345 t=3369
+mr 	贩	c=1 d=1 t=1773
+mt 	几	c=4 d=1.00213 t=6748
+mw 	内	c=2 d=1.01105 t=5034
+mwpw 	内容	c=2 d=1 t=6409
+mwsy 	内核	c=6 d=4.63514 t=2126
+n 	民	c=1 d=1 t=4046
+na 	民	c=1 d=1 t=6975
+nae 	展	c=6 d=1.88842 t=7005
+nahi 	异步	c=1 d=1 t=999
+naip 	异常	c=8 d=1.00213 t=7138
+ndtj 	恢复	c=1 d=1 t=3372
+nf 	导	c=1 d=1 t=3319
+nfgc 	导致	c=4 d=1 t=5842
+nguk 	情况	c=19 d=1.08677 t=7206
+nh 	收	c=20 d=1.74568 t=6987
+nhwy 	收集	c=1 d=1 t=6802
+nkqk 	避免	c=1 d=1 t=7076
+nngk 	快速	c=1 d=1 t=7164
+nnnn 	已	c=2 d=1.00971 t=3731
+nnrg 	快捷	c=1 d=1 t=2442
+nnxc 	已经	c=4 d=1 t=4925
+nr 	怕	c=2 d=1.00018 t=7104
+nted 	必须	c=3 d=1.50272 t=2109
+ntg 	性	c=1 d=1 t=1913
+ntnt 	属性	c=2 d=1.00232 t=2861
+nty 	改	c=3 d=1.00002 t=4566
+ny 	心	c=3 d=2.59881 t=2610
+o 	为	c=36 d=1.55477 t=6778
+oaib 	粪池	c=1 d=1 t=1759
+od 	类	c=17 d=1.00011 t=6504
+odga 	类型	c=1 d=1 t=3040
+odwn 	类似	c=6 d=1.00104 t=6092
+ogtl 	业务	c=5 d=1.90773 t=2391
+ol 	烟	c=1 d=1 t=7103
+onr 	断	c=3 d=1.00207 t=7111
+oooq 	火焰	c=1 d=1 t=7186
+oqi 	烁	c=6 d=3.6098 t=1907
+osh 	灯	c=11 d=2.89524 t=1887
+ovhh 	数目	c=1 d=1 t=2099
+ovrn 	数据	c=21 d=1.12302 t=6399
+ovt 	数	c=1 d=1 t=7515
+ovxe 	数组	c=5 d=2.22475 t=4579
+p 	这	c=91 d=4.76003 t=7468
+pb 	字	c=1 d=1 t=1459
+pbwd 	字段	c=4 d=3.13463 t=6458
+pdc 	宏	c=2 d=1.96079 t=2144
+pe 	家	c=2 d=1 t=7538
+pfq 	完	c=25 d=1.00109 t=7582
+pg 	定	c=3 d=1.00592 t=5410
+pgjf 	定时	c=1 d=1 t=1793
+pgn 	写	c=2 d=1 t=7214
+pgwu 	定位	c=7 d=2.07259 t=7279
+pgyq 	定义	c=2 d=1.07847 t=2103
+pndc 	密码	c=3 d=1.47895 t=6489
+pp 	之	c=11 d=1.33285 t=7404
+pubf 	实际	c=3 d=1.00002 t=3863
+pug 	袜	c=1 d=1 t=1772
+pugm 	实现	c=7 d=1.00002 t=5543
+puh 	补	c=1 d=1 t=4825
+puhc 	被	c=6 d=1 t=6654
+purf 	实质	c=1 d=1 t=1421
+puuk 	实况	c=1 d=1 t=6051
+puv 	初	c=1 d=1 t=1267
+puvc 	初始	c=4 d=2.13618 t=3066
+puwg 	实例	c=5 d=2.49891 t=4414
+pvuf 	安装	c=1 d=1 t=2239
+pwa 	空	c=4 d=1 t=6623
+px 	它	c=10 d=2.40485 t=4630
+q 	我	c=33 d=1.53263 t=7629
+qaj 	错	c=3 d=1.00053 t=4759
+qayk 	错误	c=2 d=1.75957 t=3063
+qc 	色	c=2 d=1.956 t=1548
+qd 	然	c=1 d=1 t=5327
+qdka 	桀犬吠尧	c=2 d=1.956 t=5001
+qdrg 	然后	c=15 d=1.05272 t=7180
+qdyn 	希望	c=1 d=1 t=7295
+qejy 	触	c=7 d=1.03491 t=5769
+qesr 	解析	c=5 d=1.12779 t=6934
+qeun 	解决	c=6 d=1.00105 t=7281
+qev 	解	c=1 d=1 t=4474
+qeya 	角度	c=1 d=1 t=489
+qfcf 	针对	c=2 d=1 t=5269
+qh 	外	c=4 d=1.02612 t=4450
+qim 	锁	c=4 d=1.00982 t=5409
+qk 	名	c=4 d=1.48135 t=6487
+qkd 	句	c=4 d=1.0004 t=6703
+qkpb 	名字	c=1 d=1 t=2197
+qkqq 	够	c=2 d=1.00016 t=4686
+qktq 	名称	c=2 d=1 t=6578
+qlru 	链接	c=2 d=1.956 t=7608
+qn 	包	c=5 d=2.91209 t=7602
+qnrt 	包括	c=4 d=1.00623 t=7357
+qnwy 	包含	c=6 d=1.01652 t=7604
+qq 	多	c=6 d=1.00109 t=7095
+qqq 	鑫	c=1 d=1 t=7562
+qqwt 	多余	c=1 d=1 t=4650
+qsh 	钉	c=4 d=1.99501 t=7524
+qt 	儿	c=1 d=1 t=316
+qvfp 	键	c=5 d=1 t=5095
+qwy 	锥	c=1 d=1 t=2436
+qy 	久	c=3 d=1.90937 t=7499
+qyug 	留美	c=1 d=1 t=7498
+r 	的	c=296 d=6.95451 t=7466
+rasy 	描述	c=5 d=1.93636 t=6680
+rbaq 	报警	c=9 d=1 t=5774
+rbc 	报	c=14 d=2.39896 t=6992
+rbwq 	摄像	c=33 d=5.63048 t=6103
+rcf 	择	c=1 d=1 t=1381
+rclk 	返回	c=4 d=1 t=6607
+rcn 	把	c=1 d=1 t=7453
+rcqn 	反馈	c=2 d=1.79852 t=6844
+rdrh 	拓扑	c=1 d=1 t=2513
+rdsj 	排查	c=2 d=1.85642 t=6750
+rffa 	挂载	c=7 d=4.0686 t=6423
+rffg 	挂	c=1 d=1 t=6151
+rfm 	质	c=1 d=1 t=7476
+rfmh 	拷贝	c=1 d=1 t=3154
+rfq 	抚	c=1 d=1 t=1033
+rfxf 	持续	c=2 d=1 t=4967
+rg 	后	c=47 d=1.2104 t=7535
+rh 	年	c=1 d=1 t=5
+rhbw 	掉队	c=1 d=1 t=978
+rhf 	看	c=22 d=1.71756 t=7379
+rhfn 	年志	c=1 d=1 t=16
+rhj 	掉	c=2 d=1.03223 t=3465
+rj 	提	c=1 d=1 t=7324
+rjbm 	提出	c=1 d=1 t=7388
+rjsg 	提醒	c=1 d=1 t=7008
+rjuq 	提交	c=9 d=1.88431 t=7474
+rjym 	提高	c=1 d=1 t=7153
+rkm 	损	c=1 d=1 t=3605
+rkwt 	操作	c=8 d=1.00049 t=7009
+rmnw 	缺	c=1 d=1 t=3005
+rmqj 	抽象	c=2 d=1.34994 t=1579
+rn 	所	c=38 d=2.08298 t=7256
+rp 	近	c=1 d=1 t=787
+rpim 	探测	c=37 d=1.0052 t=6989
+rpjv 	按照	c=1 d=1 t=2518
+rpqv 	按键	c=21 d=0.651298 t=5095
+rprm 	控制	c=17 d=2.63893 t=6059
+rpv 	按	c=16 d=1.27312 t=7441
+rpw 	控	c=1 d=1 t=533
+rpwa 	控	c=9 d=1.34605 t=7043
+rqm 	换	c=5 d=1.00409 t=2616
+rrg 	拍	c=15 d=1.32562 t=6891
+rrhy 	抓	c=18 d=1.32487 t=6890
+rrrb 	拍摄	c=1 d=1 t=927
+rry 	拆	c=1 d=1 t=172
+rs 	打	c=11 d=3.33257 t=7506
+rshh 	打卡	c=2 d=1.22823 t=7525
+rsqg 	打印	c=18 d=1.20223 t=7288
+rsqn 	打包	c=2 d=1.88692 t=6961
+rsrd 	打扰	c=1 d=1 t=45
+rsxf 	打结	c=1 d=1 t=7221
+rt 	手	c=3 d=1.00046 t=7399
+rug 	拉	c=1 d=1 t=132
+rukk 	接口	c=13 d=1.00059 t=6372
+ruv 	接	c=9 d=1.36145 t=6850
+rvk 	招	c=1 d=1 t=7433
+rvtf 	执行	c=15 d=1.15329 t=6066
+rw 	失	c=1 d=1 t=3006
+rwgk 	携带	c=1 d=1 t=3751
+rwmt 	失败	c=15 d=1.25155 t=6120
+rxfm 	指南	c=3 d=1 t=7222
+rxj 	指	c=1 d=1 t=1790
+rxrp 	指挥	c=5 d=4.27157 t=2608
+ryna 	扩展	c=2 d=1.98511 t=1718
+s 	要	c=35 d=1.55008 t=7247
+saaa 	模式	c=11 d=1.80712 t=7142
+saf 	柑	c=1 d=1 t=1389
+safn 	模块	c=21 d=1.31664 t=6770
+sarn 	模拟	c=2 d=1.8825 t=3644
+saxe 	模组	c=1 d=1 t=7619
+scbv 	权限	c=6 d=3.7123 t=3081
+sfou 	材料	c=2 d=1.72979 t=7477
+sfuw 	标准	c=1 d=1 t=2044
+sfyn 	标记	c=1 d=1 t=1889
+sg 	本	c=12 d=1.95433 t=6633
+sglf 	配置	c=13 d=1.9465 t=5708
+sgmw 	柄	c=1 d=1 t=4149
+sgt 	栈	c=1 d=1 t=4306
+shcf 	相对	c=3 d=1.14268 t=1296
+shiv 	相当	c=1 d=1 t=3680
+shn 	想	c=1 d=1 t=84
+shud 	相关	c=10 d=1.43557 t=7259
+shwy 	相信	c=2 d=1.74826 t=7397
+sjra 	查找	c=1 d=1 t=3107
+sjrh 	查看	c=5 d=1.03002 t=7609
+sk 	可	c=44 d=3.74391 t=7148
+sm 	机	c=6 d=1.53301 t=2780
+sqsh 	构想	c=1 d=1 t=1270
+sqtf 	构造	c=13 d=5.02041 t=4410
+src 	板	c=11 d=1.34605 t=7044
+staa 	格式	c=1 d=1 t=6411
+stiw 	枚举	c=1 d=1 t=1458
+stug 	覆盖	c=1 d=1 t=2734
+su 	样	c=20 d=1.53421 t=6245
+sucw 	校验	c=11 d=4.08385 t=5415
+svfi 	要求	c=1 d=1 t=1927
+svrn 	根据	c=7 d=1.00011 t=7200
+swgi 	检	c=8 d=1.00017 t=5432
+swsj 	检查	c=14 d=2.42281 t=6762
+synw 	核	c=2 d=1.47711 t=1254
+syp 	述	c=5 d=1.81482 t=6479
+t 	和	c=6 d=1.42683 t=7457
+ta 	长	c=3 d=1 t=7561
+taxe 	升级	c=1 d=1 t=2068
+tc 	么	c=8 d=1.7659 t=5311
+tcy 	私	c=1 d=1 t=7079
+tdut 	知道	c=2 d=1.92774 t=28
+telf 	盘	c=1 d=1 t=2328
+temc 	般	c=5 d=1.68194 t=6008
+teyo 	航迹	c=13 d=1.00471 t=6996
+teyu 	笈	c=1 d=1 t=6995
+tf 	行	c=4 d=1.00971 t=6787
+tfc 	丢	c=1 d=1 t=4042
+tffu 	等	c=10 d=2.55575 t=7294
+tffy 	待	c=2 d=1.05813 t=7136
+tfq 	先	c=10 d=1.51685 t=7310
+tfrc 	选择	c=7 d=1.00025 t=2771
+tftf 	等待	c=3 d=1.04836 t=3575
+tg 	生	c=2 d=1.76338 t=2389
+tgdn 	生成	c=4 d=1 t=6790
+tgj 	重	c=1 d=1 t=4530
+tgrf 	秉持	c=1 d=1 t=4390
+tgsv 	重要	c=1 d=1 t=1284
+tgtj 	重复	c=2 d=1 t=6679
+tgus 	重新	c=12 d=1.88804 t=6960
+th 	处	c=3 d=1.81465 t=5873
+tha 	算	c=3 d=1 t=3805
+thd 	自	c=14 d=1.51152 t=5431
+thfc 	自动	c=3 d=1.81465 t=5490
+thgj 	处理	c=28 d=1.39077 t=7274
+thgn 	片	c=1 d=1 t=6167
+thif 	算法	c=2 d=1 t=5400
+thnn 	自己	c=2 d=1 t=3759
+thp 	延	c=1 d=1 t=4386
+thqd 	自然	c=2 d=1 t=3934
+thrg 	延后	c=2 d=0.1 t=4387
+thsg 	版本	c=3 d=1 t=7078
+thsw 	自检	c=1 d=0.100036 t=5432
+tj 	得	c=5 d=1 t=5406
+tjh 	利	c=2 d=1 t=7162
+tjsy 	复核	c=2 d=1 t=6510
+tjt 	复	c=4 d=1 t=6928
+tk 	各	c=14 d=1.02024 t=7237
+tkh 	种	c=15 d=1.00518 t=6715
+tkyc 	程序	c=19 d=3.08081 t=7137
+tmd 	身	c=1 d=1 t=3791
+tmdf 	射	c=2 d=1 t=4518
+tmgt 	微	c=1 d=1 t=7542
+tmk 	向	c=15 d=1.67033 t=6627
+tmww 	身份	c=2 d=1.97531 t=3688
+tpgj 	管理	c=26 d=5.05967 t=6983
+tqbm 	移出	c=1 d=1 t=4358
+tqfc 	移动	c=2 d=1.67368 t=5038
+tqpg 	稳定	c=1 d=1 t=2062
+tqq 	移	c=4 d=3.8497 t=4349
+trgg 	循环	c=1 d=1 t=4872
+trpg 	特定	c=1 d=1 t=2411
+tsu 	条	c=6 d=2.08769 t=4642
+tuuj 	简单	c=4 d=1.08521 t=6745
+tve 	很	c=4 d=1.09267 t=6736
+tx 	第	c=17 d=1.26549 t=7530
+txg 	每	c=7 d=1.93707 t=7255
+txgq 	系列	c=1 d=1 t=5462
+txxy 	系统	c=17 d=2.55795 t=7229
+ty 	入	c=20 d=3.70696 t=5761
+tykk 	入口	c=1 d=1 t=1010
+tyna 	篇	c=4 d=2.88302 t=7395
+ua 	并	c=25 d=3.08498 t=7159
+ud 	关	c=2 d=1 t=7250
+uddy 	状态	c=24 d=1.42544 t=7303
+udg 	减	c=1 d=1 t=7083
+udi 	头	c=32 d=5.63048 t=6104
+udiy 	关注	c=1 d=1 t=5646
+udon 	判断	c=4 d=1.18919 t=7127
+udp 	送	c=11 d=1.00002 t=6940
+udqv 	关键	c=1 d=1 t=7284
+udtx 	关系	c=2 d=1.00107 t=5259
+udw 	凑	c=1 d=1 t=5633
+ue 	前	c=4 d=1.00008 t=7405
+uf 	半	c=1 d=1 t=2959
+uj 	间	c=4 d=1 t=5137
+ujab 	章节	c=1 d=1 t=2360
+ujj 	章	c=1 d=1 t=7532
+ujqt 	单独	c=1 d=1 t=994
+ukb 	部	c=5 d=1 t=7019
+ukd 	问	c=1 d=1 t=46
+ukjg 	问题	c=23 d=2.30489 t=7370
+uklf 	部署	c=1 d=1 t=2677
+ukn 	总	c=2 d=1.53526 t=7528
+ukq 	况	c=1 d=1 t=7213
+ukxf 	总结	c=1 d=1 t=7087
+umkk 	端口	c=1 d=1 t=5713
+uq 	交	c=2 d=1 t=2615
+uqa 	阍	c=1 d=1 t=6522
+uqf 	将	c=26 d=2.97405 t=7041
+uqgx 	交互	c=1 d=1 t=1282
+uqjs 	效果	c=1 d=1 t=6037
+uqru 	交接	c=2 d=1 t=7578
+uqt 	效	c=7 d=1.00005 t=7513
+uqw 	次	c=7 d=1.00001 t=7469
+uqwm 	资	c=1 d=1 t=7408
+uqyq 	咨询	c=1 d=1 t=6100
+uqyx 	效率	c=1 d=1 t=7158
+us 	亲	c=1 d=1 t=1743
+usjv 	遵照	c=2 d=1.86502 t=2573
+usr 	新	c=4 d=1 t=7075
+utbm 	产出	c=1 d=1 t=7460
+utkk 	产品	c=1 d=1 t=2508
+uttf 	首先	c=10 d=1.33506 t=6652
+uuuu 	立	c=1 d=1 t=398
+uuvc 	立即	c=1 d=1 t=7150
+uw 	闪	c=6 d=3.17059 t=1891
+uwoq 	闪烁	c=3 d=2.8676 t=1868
+uwtl 	准备	c=1 d=1 t=2499
+uy 	六	c=1 d=1 t=2006
+v 	发	c=42 d=1.51012 t=6939
+vb 	好	c=2 d=1.01716 t=843
+vbn 	她	c=1 d=1 t=7429
+vcb 	即	c=11 d=1.95902 t=5488
+vep 	退	c=1 d=1 t=5427
+vfb 	那	c=14 d=1.26292 t=6704
+vfhp 	建	c=1 d=1 t=3158
+vfra 	寻找	c=1 d=1 t=3704
+vfyy 	建议	c=2 d=1 t=7040
+vk 	如	c=5 d=1.00013 t=7135
+vkgh 	如下	c=19 d=2.07139 t=6954
+vkjs 	如果	c=45 d=3.01482 t=6699
+vnsf 	鼠标	c=1 d=1 t=2329
+vyp 	婷	c=2 d=1.99005 t=44
+w 	人	c=7 d=1.19825 t=7407
+wadc 	代码	c=25 d=3.11691 t=7167
+wb 	他	c=1 d=1 t=228
+wbvf 	创建	c=6 d=1 t=7597
+wbxl 	仔细	c=1 d=1 t=2730
+wcw 	俊	c=2 d=1.99005 t=43
+wcy 	仅	c=6 d=1 t=7600
+wdm 	段	c=2 d=1.00027 t=7509
+wdt 	做	c=3 d=1 t=3696
+wdtf 	优先	c=1 d=1 t=2601
+wdwx 	优化	c=1 d=1 t=4660
+wdyf 	估计	c=1 d=1 t=383
+we 	仍	c=2 d=1 t=6776
+wf 	会	c=65 d=2.1794 t=7467
+wfhg 	值	c=5 d=1.7788 t=6658
+wflw 	传输	c=2 d=1.96561 t=4557
+wfny 	传	c=1 d=1 t=6171
+wftc 	什么	c=7 d=1.72816 t=7383
+wfv 	佞	c=1 d=1 t=2016
+wg 	全	c=1 d=1 t=4013
+wget 	使用	c=16 d=1.80724 t=7139
+wgjq 	便	c=1 d=1 t=5838
+wgk 	合	c=10 d=1.01129 t=4164
+wgkb 	命	c=4 d=2.01421 t=6443
+wgkj 	合唱	c=1 d=1 t=2717
+wgkq 	使	c=1 d=1 t=7616
+wgkr 	拿	c=1 d=1 t=4020
+wgq 	例	c=1 d=1 t=1511
+wgvi 	登录	c=10 d=2.43833 t=5970
+wgyn 	登记	c=1 d=1 t=4131
+wh 	个	c=48 d=4.09231 t=7451
+whkr 	侦听	c=1 d=1 t=4635
+whnt 	修改	c=10 d=1.26714 t=7046
+whov 	个数	c=1 d=1 t=2108
+whtf 	候选	c=1 d=1 t=5224
+whtn 	悠	c=2 d=1.00097 t=4551
+wjg 	但	c=11 d=1.39581 t=6199
+wkqy 	保留	c=1 d=1 t=6777
+wkrf 	保持	c=2 d=1 t=7073
+wks 	保	c=1 d=1 t=919
+wkyg 	保证	c=2 d=1 t=4678
+wl 	佃	c=1 d=1 t=3999
+wmj 	侧	c=1 d=1 t=2580
+wmtr 	佩特	c=1 d=1 t=6114
+wnhc 	假	c=1 d=1 t=3874
+wnym 	假设	c=1 d=1 t=3911
+wq 	你	c=5 d=1.99007 t=7424
+wqa 	低	c=3 d=2.38677 t=1643
+wqj 	像	c=1 d=1 t=5306
+wrh 	件	c=1 d=1 t=3700
+wsbm 	分析出	c=1 d=1 t=3109
+wsg 	体	c=1 d=1 t=2142
+wsgm 	体现	c=1 d=1 t=872
+wt 	作	c=2 d=1.04138 t=1386
+wtgk 	叙事	c=1 d=1 t=2715
+wtif 	作法	c=1 d=1 t=1983
+wttl 	任务	c=2 d=1.74082 t=7519
+wtuj 	任意	c=1 d=1 t=5085
+wtws 	任何	c=1 d=1 t=5142
+wu 	们	c=15 d=1.00658 t=7430
+wuf 	伴	c=1 d=1 t=6952
+wulf 	位置	c=13 d=1.003 t=5457
+wv 	分	c=7 d=1 t=7020
+wvfc 	分支	c=2 d=1.00019 t=7610
+wvia 	分洪	c=1 d=1 t=34
+wvp 	侵	c=7 d=1.85214 t=5762
+wvsr 	分析	c=3 d=1 t=7372
+ww 	从	c=26 d=5.93598 t=4834
+wwv 	份	c=2 d=1.90937 t=7502
+wx 	化	c=9 d=2.63178 t=4415
+wxf 	华	c=3 d=2.15535 t=7625
+wy 	信	c=4 d=1.79057 t=6769
+wyc 	令	c=3 d=2.01421 t=6444
+wye 	依	c=1 d=1 t=2565
+wygd 	今天	c=5 d=2.88725 t=7419
+wygg 	住	c=1 d=1 t=1201
+wygk 	依赖	c=2 d=1.03143 t=3286
+wykg 	信号	c=6 d=2.97516 t=4522
+wyna 	偏	c=1 d=1 t=3851
+wyp 	停	c=4 d=2.88558 t=4300
+wyth 	信息	c=7 d=1.07382 t=6965
+wyuq 	依次	c=2 d=1.08142 t=2623
+xag 	红	c=1 d=1 t=1538
+xc 	经	c=3 d=1.91393 t=5218
+xeg 	组	c=1 d=1 t=2501
+xfgk 	结束	c=4 d=2.91969 t=7038
+xfjs 	结果	c=11 d=3.65392 t=7001
+xfn 	续	c=3 d=1.00072 t=4656
+xfsq 	结构	c=1 d=1 t=2141
+xfwg 	结合	c=3 d=1.00019 t=7100
+xgtk 	线程	c=3 d=1.01642 t=1963
+xh 	引	c=2 d=1 t=5644
+xobd 	继承	c=1 d=1 t=2972
+xqa 	纸	c=1 d=1 t=7475
+xtk 	络	c=6 d=3.4032 t=3370
+xtu 	终	c=3 d=1 t=6958
+xtuk 	疑问	c=1 d=1 t=7385
+xtum 	终端	c=21 d=1.47719 t=7061
+xvi 	绿	c=1 d=1 t=1547
+xw 	给	c=12 d=2.04882 t=7427
+xxlu 	比较	c=1 d=1 t=5372
+xxvk 	比如	c=2 d=1.01317 t=2326
+xxyy 	比方	c=1 d=1 t=57
+xylk 	编辑	c=1 d=1 t=394
+xyyc 	编译	c=5 d=3.01888 t=2810
+y 	主	c=40 d=2.50343 t=7246
+ya 	度	c=7 d=3.21666 t=6027
+yaa 	试	c=22 d=1.87182 t=7572
+yanf 	谨慎	c=1 d=1 t=2745
+ybm 	离	c=2 d=1.90032 t=783
+ybto 	熟悉	c=1 d=1 t=7166
+yca 	弃	c=1 d=1 t=4043
+yckg 	序号	c=2 d=1 t=7504
+yckh 	充足	c=2 d=1.87372 t=3299
+yfbc 	读取	c=4 d=2.55698 t=3283
+yfh 	计	c=1 d=1 t=7529
+yfj 	讲	c=1 d=1 t=4837
+yfth 	计算	c=3 d=1 t=3734
+yfvk 	诸如	c=1 d=1 t=2986
+yg 	主	c=1 d=1 t=6551
+yge 	请	c=12 d=4.06422 t=7373
+ygfi 	请求	c=4 d=2.54115 t=6650
+ygyy 	语言	c=1 d=1 t=7594
+yh 	让	c=1 d=1 t=203
+yi 	就	c=45 d=1.78091 t=6898
+yid 	应	c=2 d=1.00002 t=7085
+yiet 	应用	c=2 d=1.13134 t=2444
+yiyy 	应该	c=4 d=1.0003 t=7400
+yket 	误用	c=1 d=1 t=2454
+ykgd 	误	c=1 d=1 t=3167
+ykkk 	调味品	c=1 d=1 t=740
+ykkl 	识别	c=20 d=4.3519 t=7000
+ylk 	库	c=2 d=1.98511 t=7070
+ym 	高	c=1 d=1 t=1637
+ymc 	设	c=1 d=1 t=3875
+ymet 	调用	c=17 d=1.63172 t=6370
+ymf 	调	c=1 d=1 t=5937
+ymfk 	调	c=26 d=1.87295 t=7571
+ymlf 	设置	c=4 d=1.79852 t=6661
+ymnf 	高层	c=2 d=1.956 t=2473
+ympg 	设定	c=2 d=1 t=5458
+ymtl 	设备	c=60 d=2.65301 t=5273
+ymya 	调度	c=1 d=1 t=6058
+ymyf 	设计	c=7 d=1.01298 t=5539
+yn 	记	c=1 d=1 t=1199
+ynaq 	盲区	c=1 d=1 t=795
+ynfc 	启动	c=21 d=1.00007 t=6761
+ynvi 	记录	c=1 d=1 t=1856
+yoc 	变	c=3 d=1.9609 t=2308
+yop 	迹	c=3 d=2.09784 t=5209
+ypm 	亮	c=5 d=1.99062 t=1908
+yqj 	询	c=1 d=1 t=2262
+ysod 	麻烦	c=1 d=1 t=7423
+ysuu 	订阅	c=1 d=1 t=2380
+ytd 	话	c=2 d=1.01804 t=5984
+ytyc 	放弃	c=1 d=1 t=6626
+yu 	说	c=8 d=1.12452 t=6707
+yuje 	说明	c=9 d=1.32731 t=7413
+yukk 	畜产品	c=1 d=1 t=6852
+yusy 	详述	c=1 d=1 t=7225
+yw 	认	c=1 d=1 t=4118
+ywx 	论	c=2 d=1.16948 t=3986
+yyaa 	方式	c=2 d=1 t=6779
+yygy 	文	c=2 d=1.87372 t=1994
+yyif 	方法	c=2 d=1.12124 t=6670
+yynw 	该	c=21 d=2.04262 t=6609
+yypv 	方案	c=2 d=1.0034 t=1552
+yysi 	文档	c=4 d=2.41858 t=7396
+yyuk 	访问	c=3 d=1 t=6705
+yywg 	方便	c=1 d=1 t=5834
+yywr 	文件	c=10 d=1.00419 t=6793
+yyyy 	言	c=2 d=1.00043 t=4608
+encaaaf 	警戒区域	c=0 d=0.1 t=5735
+encaarp 	工控	c=0 d=0.1 t=2697
+encaasa 	警戒模式	c=0 d=0.1 t=5501
+encaawa 	或其他某	c=0 d=0.1 t=7177
+encaawb 	或其他	c=0 d=0.1 t=7176
+encabbn 	甚了了	c=0 d=0.1 t=5551
+encabey 	获取用户	c=0 d=0.1 t=2271
+encabgc 	获取到	c=0 d=0.1 t=4155
+encabgg 	获取不到	c=0 d=0.1 t=3424
+encabgi 	获取不	c=0 d=0.1 t=3423
+encabgr 	获取到的	c=0 d=0.1 t=4156
+encabrn 	节所	c=0 d=0.1 t=6665
+encabuq 	节将	c=0 d=0.1 t=1328
+encabwl 	获取位置	c=0 d=0.1 t=3959
+encacri 	某对探测	c=0 d=0.1 t=5079
+encacrk 	功能损	c=0 d=0.1 t=3605
+encadbn 	甚了	c=0 d=0.1 t=5550
+encadde 	项有	c=0 d=0.1 t=5253
+encadfi 	项未	c=0 d=0.1 t=3241
+encadgi 	项不	c=0 d=0.1 t=3036
+encadkh 	其中	c=0 d=0.1 t=7349
+encadld 	其原因	c=0 d=0.1 t=5370
+encadlj 	其原因是	c=0 d=0.1 t=5371
+encadnt 	期性	c=0 d=0.1 t=1913
+encadrh 	其掉	c=0 d=0.1 t=3465
+encadrm 	项缺	c=0 d=0.1 t=3005
+encadrp 	若按	c=0 d=0.1 t=4667
+encadrq 	其的	c=0 d=0.1 t=7183
+encadtf 	项等	c=0 d=0.1 t=3200
+encadtx 	若第	c=0 d=0.1 t=4814
+encaduj 	期间	c=0 d=0.1 t=5137
+encaduq 	项有效	c=0 d=0.1 t=5242
+encaduy 	项有效就	c=0 d=0.1 t=5243
+encadwh 	项个	c=0 d=0.1 t=5223
+encadwy 	其停	c=0 d=0.1 t=4225
+encadyg 	其主	c=0 d=0.1 t=5541
+encaewh 	项逐个	c=0 d=0.1 t=3233
+encafaw 	或者其他	c=0 d=0.1 t=3058
+encafay 	或者共享	c=0 d=0.1 t=6311
+encafce 	项未通	c=0 d=0.1 t=3242
+encafcf 	某对	c=0 d=0.1 t=5078
+encafcf 	项未通过	c=0 d=0.1 t=3243
+encafhx 	某些	c=0 d=0.1 t=2582
+encafiy 	或者尝试	c=0 d=0.1 t=3462
+encafog 	或者类型	c=0 d=0.1 t=3040
+encafqy 	或者错误	c=0 d=0.1 t=3008
+encaftg 	或者管理	c=0 d=0.1 t=6044
+encafwh 	某个	c=0 d=0.1 t=5653
+encagdd 	项不存在	c=0 d=0.1 t=3038
+encagdh 	项不存	c=0 d=0.1 t=3037
+encagtr 	基于选择	c=0 d=0.1 t=849
+encahac 	某些功能	c=0 d=0.1 t=2583
+encahft 	某些过程	c=0 d=0.1 t=1738
+encahft 	节点进行	c=0 d=0.1 t=7123
+encahjg 	节点是	c=0 d=0.1 t=2351
+encahjg 	节点是否	c=0 d=0.1 t=2352
+encahqt 	节点名称	c=0 d=0.1 t=2304
+encahrq 	节点的	c=0 d=0.1 t=7286
+encahuq 	工具将	c=0 d=0.1 t=2704
+encahyk 	节点序号	c=0 d=0.1 t=2281
+encajov 	工时数	c=0 d=0.1 t=7515
+encakbn 	其中也	c=0 d=0.1 t=7350
+encakys 	其中详述	c=0 d=0.1 t=7225
+encalmj 	范围内是	c=0 d=0.1 t=5035
+encalmw 	范围内	c=0 d=0.1 t=5034
+encamrh 	黄看	c=0 d=0.1 t=7379
+encamta 	黄长	c=0 d=0.1 t=7561
+encamtf 	黄先	c=0 d=0.1 t=7310
+encapjd 	其实是有	c=0 d=0.1 t=4648
+encapjg 	其实是	c=0 d=0.1 t=4647
+encapjw 	其实是偏	c=0 d=0.1 t=3851
+encargg 	黄看一	c=0 d=0.1 t=7380
+encargg 	黄看一下	c=0 d=0.1 t=7381
+encarik 	某探测器	c=0 d=0.1 t=4453
+encarim 	某探测	c=0 d=0.1 t=4452
+encariu 	若按当前	c=0 d=0.1 t=4668
+encarrs 	节所描述	c=0 d=0.1 t=6666
+encarrw 	项缺失	c=0 d=0.1 t=3006
+encarsc 	工控板通	c=0 d=0.1 t=6768
+encarsh 	工控板上	c=0 d=0.1 t=7045
+encarsr 	工控板	c=0 d=0.1 t=7044
+encarss 	工控板本	c=0 d=0.1 t=6158
+encarsw 	工控板会	c=0 d=0.1 t=6361
+encaruq 	其提交	c=0 d=0.1 t=6526
+encarux 	其提交给	c=0 d=0.1 t=6527
+encaryp 	其的这	c=0 d=0.1 t=7184
+encastf 	其构造	c=0 d=0.1 t=1604
+encatbn 	获得了	c=1 d=1 t=3669
+encatbp 	获得了它	c=0 d=0.1 t=3670
+encatgg 	若第一	c=0 d=0.1 t=4815
+encatgu 	若第一次	c=0 d=0.1 t=4816
+encatqd 	其自然	c=0 d=0.1 t=1023
+encatqq 	黄长鑫	c=0 d=0.1 t=7562
+encatqy 	其自然就	c=0 d=0.1 t=1024
+encatrg 	黄先看一	c=0 d=0.1 t=7312
+encatrh 	黄先看	c=0 d=0.1 t=7311
+encaudj 	某状态时	c=0 d=0.1 t=1443
+encaudy 	某状态	c=0 d=0.1 t=1442
+encaurh 	区间打止	c=0 d=0.1 t=64
+encaurs 	区间打	c=0 d=0.1 t=63
+encawaf 	其他某	c=0 d=0.1 t=7177
+encawbn 	花了	c=0 d=0.1 t=7211
+encawda 	其停在某	c=0 d=0.1 t=4227
+encawdh 	其停在	c=0 d=0.1 t=4226
+encawdl 	其他原因	c=0 d=0.1 t=3046
+encawfh 	工作地点	c=0 d=0.1 t=7517
+encawfq 	其他均	c=0 d=0.1 t=3809
+encawfy 	其他均为	c=0 d=0.1 t=3810
+encawfy 	某个地方	c=0 d=0.1 t=4182
+encawgf 	工作于	c=0 d=0.1 t=2028
+encawgi 	工作不	c=0 d=0.1 t=2341
+encawgi 	工作正常	c=0 d=0.1 t=5727
+encawod 	某个类	c=0 d=0.1 t=4326
+encawor 	某个类的	c=0 d=0.1 t=4327
+encawqy 	其他错误	c=0 d=0.1 t=3063
+encawri 	其他探测	c=0 d=0.1 t=4583
+encawrq 	其他的	c=0 d=0.1 t=2324
+encawrw 	某个摄像	c=0 d=0.1 t=5654
+encawsl 	某个配置	c=0 d=0.1 t=3181
+encawud 	工作状态	c=0 d=0.1 t=5920
+encawuk 	其他部	c=0 d=0.1 t=1288
+encawur 	工作交接	c=0 d=0.1 t=7578
+encawuw 	其他部分	c=0 d=0.1 t=1289
+encawwf 	其他值	c=0 d=0.1 t=3590
+encawwg 	其他值一	c=0 d=0.1 t=3591
+encawwt 	工作任务	c=0 d=0.1 t=7519
+encawwt 	项个候选	c=0 d=0.1 t=5224
+encawya 	工作方式	c=0 d=0.1 t=2355
+encawyl 	划分为	c=0 d=0.1 t=5515
+encawyt 	某个设备	c=0 d=0.1 t=3600
+encawyy 	划分为这	c=0 d=0.1 t=5516
+encayff 	共享地址	c=0 d=0.1 t=6312
+encayhv 	共享目录	c=0 d=0.1 t=6485
+encaykl 	其识别	c=0 d=0.1 t=205
+encaykt 	共享路径	c=0 d=0.1 t=6328
+encaysv 	其主要	c=0 d=0.1 t=5542
+encayyu 	共享访问	c=0 d=0.1 t=2687
+encbarp 	了工控	c=0 d=0.1 t=6156
+encbars 	了工控板	c=0 d=0.1 t=6157
+encbawb 	了其他	c=0 d=0.1 t=2323
+encbawr 	了其他的	c=0 d=0.1 t=2324
+encbayb 	了共享	c=0 d=0.1 t=6484
+encbbgh 	防出现此	c=0 d=0.1 t=4420
+encbbgm 	防出现	c=0 d=0.1 t=4419
+encbdbv 	了有限	c=0 d=0.1 t=1721
+encbdow 	也有类似	c=0 d=0.1 t=4543
+encbfrf 	除支持	c=0 d=0.1 t=1700
+encbfry 	除支持亮	c=0 d=0.1 t=1701
+encbgbn 	出现了	c=0 d=0.1 t=4318
+encbgcy 	出来对应	c=0 d=0.1 t=7465
+encbgho 	出现此类	c=0 d=0.1 t=4421
+encbghx 	出现此	c=0 d=0.1 t=4420
+encbgld 	出现因	c=0 d=0.1 t=3306
+encbgow 	出现类似	c=0 d=0.1 t=6092
+encbgpw 	出现定位	c=0 d=0.1 t=5368
+encbguj 	出现问题	c=0 d=0.1 t=5934
+encbguk 	了一部	c=0 d=0.1 t=75
+encbguw 	了一部分	c=0 d=0.1 t=76
+encbgyy 	了不应该	c=0 d=0.1 t=3195
+encbgyy 	出现该	c=0 d=0.1 t=3346
+encbhsr 	了上述的	c=0 d=0.1 t=6438
+encbhsy 	了上述	c=0 d=0.1 t=6437
+encbide 	也没有	c=0 d=0.1 t=5258
+encbith 	出消息	c=0 d=0.1 t=3742
+encbjdh 	也是在	c=0 d=0.1 t=6613
+encbjrb 	随时提出	c=0 d=0.1 t=7388
+encblbw 	了车队	c=0 d=0.1 t=7228
+encblin 	也较少发	c=0 d=0.1 t=5602
+encblit 	也较少	c=0 d=0.1 t=5601
+encbltg 	取图片至	c=0 d=0.1 t=177
+encblth 	取图片	c=0 d=0.1 t=176
+encbmgm 	出现	c=0 d=0.1 t=6091
+encbmgo 	出来	c=0 d=0.1 t=7464
+encbmhh 	也同上	c=0 d=0.1 t=6673
+encbmmt 	出几	c=0 d=0.1 t=6748
+encbmqa 	出错	c=0 d=0.1 t=3095
+encbmqs 	出钉	c=0 d=0.1 t=7523
+encbmwh 	出个	c=0 d=0.1 t=7451
+encbmwh 	出几个	c=0 d=0.1 t=6749
+encbnaa 	了工	c=0 d=0.1 t=6155
+encbnbn 	了了	c=0 d=0.1 t=5551
+encbnde 	也有	c=0 d=0.1 t=4542
+encbnde 	了有	c=0 d=0.1 t=1720
+encbngg 	了一	c=0 d=0.1 t=74
+encbngi 	也不	c=0 d=0.1 t=5546
+encbngi 	了不	c=0 d=0.1 t=3194
+encbngn 	了与	c=0 d=0.1 t=4570
+encbnhh 	了上	c=0 d=0.1 t=6436
+encbnim 	也没	c=0 d=0.1 t=5257
+encbnjb 	了最	c=0 d=0.1 t=4561
+encbnjg 	也是	c=0 d=0.1 t=6612
+encbnkw 	也只	c=0 d=0.1 t=4632
+encbnlg 	了车	c=0 d=0.1 t=7227
+encbnlu 	也较	c=0 d=0.1 t=5600
+encbnmg 	也同	c=0 d=0.1 t=6672
+encbnty 	了篇	c=0 d=0.1 t=7216
+encbnvc 	也即	c=0 d=0.1 t=5447
+encbnwf 	也会	c=0 d=0.1 t=2333
+encbnww 	了从	c=0 d=0.1 t=4718
+encbnyg 	了主	c=0 d=0.1 t=4762
+encbnyi 	也就	c=0 d=0.1 t=6604
+encbnyp 	了这	c=0 d=0.1 t=7393
+encbofp 	防火墙之	c=0 d=0.1 t=6503
+encbogo 	函数来	c=0 d=0.1 t=2379
+encbogq 	函数互锁	c=0 d=0.1 t=4321
+encbogq 	函数死	c=0 d=0.1 t=4249
+encbogq 	函数死锁	c=0 d=0.1 t=4160
+encboja 	函数是工	c=0 d=0.1 t=571
+encbojg 	函数是	c=0 d=0.1 t=1012
+encbokc 	函数中又	c=0 d=0.1 t=4275
+encbokh 	函数中	c=0 d=0.1 t=6615
+encbokp 	函数中被	c=0 d=0.1 t=1787
+encbokt 	函数中移	c=0 d=0.1 t=4334
+encbomg 	函数由于	c=0 d=0.1 t=5830
+encbomh 	函数由	c=0 d=0.1 t=5829
+encbopd 	函数完成	c=0 d=0.1 t=2916
+encbopf 	函数完	c=0 d=0.1 t=2915
+encbora 	函数的某	c=0 d=0.1 t=3627
+encborq 	函数的	c=0 d=0.1 t=3626
+encbowf 	函数会	c=0 d=0.1 t=4529
+encbowt 	函数会重	c=0 d=0.1 t=4530
+encboye 	函数调用	c=0 d=0.1 t=2450
+encbpjf 	了定时	c=0 d=0.1 t=1793
+encbpjk 	了定时器	c=0 d=0.1 t=1794
+encbqgc 	了解到	c=0 d=0.1 t=7204
+encbqgr 	了解到的	c=0 d=0.1 t=7205
+encbqli 	了解较少	c=0 d=0.1 t=6740
+encbqlu 	了解较	c=0 d=0.1 t=6739
+encbqqs 	出钉钉	c=0 d=0.1 t=7524
+encbqrq 	出错的	c=0 d=0.1 t=3096
+encbrtf 	限制等	c=0 d=0.1 t=6507
+encbstf 	了构造	c=0 d=0.1 t=4319
+encbsud 	出相关	c=0 d=0.1 t=6367
+encbsxe 	子模组	c=0 d=0.1 t=7619
+encbtgg 	了管理平	c=0 d=0.1 t=6175
+encbtgj 	了管理	c=0 d=0.1 t=6174
+encbtwr 	了身份的	c=0 d=0.1 t=3689
+encbtww 	了身份	c=0 d=0.1 t=3688
+encbtxy 	子系统	c=0 d=0.1 t=2490
+encbtxy 	队系统	c=0 d=0.1 t=7229
+encbukk 	队产品	c=0 d=0.1 t=2508
+encbusu 	随意覆盖	c=0 d=0.1 t=2734
+encbvfs 	也即需要	c=0 d=0.1 t=5448
+encbwgs 	出个表格	c=0 d=0.1 t=7452
+encbwim 	阶段常见	c=0 d=0.1 t=2922
+encbwip 	阶段常	c=0 d=0.1 t=2921
+encbwnt 	也会发	c=0 d=0.1 t=2334
+encbwnt 	也会发生	c=0 d=0.1 t=2335
+encbwnt 	也会改	c=0 d=0.1 t=2307
+encbwny 	也会改变	c=0 d=0.1 t=2308
+encbwrq 	阶段的	c=0 d=0.1 t=5607
+encbwyg 	了保证	c=0 d=0.1 t=4678
+encbwyt 	了从设备	c=0 d=0.1 t=4719
+encbwyw 	了保证从	c=0 d=0.1 t=4679
+encbybm 	防出	c=0 d=0.1 t=4418
+encbygm 	了这两	c=0 d=0.1 t=7394
+encbygt 	了这两篇	c=0 d=0.1 t=7395
+encbyjg 	也就是	c=0 d=0.1 t=6605
+encbyjr 	也就是的	c=0 d=0.1 t=6606
+encbyjs 	也就是本	c=0 d=0.1 t=3713
+encbyjy 	也就是说	c=0 d=0.1 t=4259
+encbytb 	也就算了	c=0 d=0.1 t=353
+encbyth 	也就算	c=0 d=0.1 t=352
+encbyyt 	了主设备	c=0 d=0.1 t=4763
+encccwv 	又分	c=0 d=0.1 t=162
+enccddh 	能存在	c=0 d=0.1 t=791
+enccdfp 	驼有过	c=0 d=0.1 t=5438
+enccdko 	对成员类	c=0 d=0.1 t=4379
+enccdng 	台在收到	c=0 d=0.1 t=6988
+enccdnh 	台在收	c=0 d=0.1 t=6987
+enccdqq 	能有多	c=0 d=0.1 t=1589
+enccdqw 	能有多个	c=0 d=0.1 t=1590
+enccede 	能有	c=0 d=0.1 t=1588
+enccedh 	能存	c=0 d=0.1 t=790
+enccefp 	通过	c=0 d=0.1 t=6784
+encceip 	通常	c=0 d=0.1 t=4689
+enccejg 	能是	c=0 d=0.1 t=3588
+encceqk 	能够	c=0 d=0.1 t=4686
+enccerh 	能看	c=0 d=0.1 t=4997
+enccerp 	能按	c=0 d=0.1 t=56
+enccerq 	能的	c=0 d=0.1 t=3134
+enccerq 	通的	c=0 d=0.1 t=3451
+enccewf 	能会	c=0 d=0.1 t=3829
+enccewy 	通信	c=0 d=0.1 t=3993
+enccfcp 	通过观察	c=0 d=0.1 t=6023
+enccfdh 	通过在	c=0 d=0.1 t=6042
+enccffr 	通过直接	c=0 d=0.1 t=6150
+enccfft 	通过进行	c=0 d=0.1 t=1405
+enccfgf 	对于	c=0 d=0.1 t=7133
+enccfgg 	对一	c=0 d=0.1 t=1045
+enccflf 	驱动加载	c=0 d=0.1 t=2294
+enccflr 	通过连接	c=0 d=0.1 t=2613
+enccflw 	通过轮	c=0 d=0.1 t=2261
+enccfly 	通过轮询	c=0 d=0.1 t=2262
+enccfqe 	通过触	c=0 d=0.1 t=672
+enccfqn 	通过触发	c=0 d=0.1 t=673
+enccfrd 	驱动所在	c=0 d=0.1 t=2223
+enccfrf 	对支持	c=0 d=0.1 t=1609
+enccfrg 	通过后	c=0 d=0.1 t=3571
+enccfrn 	驱动所	c=0 d=0.1 t=2222
+enccfrq 	通过的	c=0 d=0.1 t=5442
+enccfrr 	对抓	c=0 d=0.1 t=6890
+enccfrr 	对支持的	c=0 d=0.1 t=1610
+enccfsf 	驱动模块	c=0 d=0.1 t=2048
+enccfsl 	通过配置	c=0 d=0.1 t=1653
+enccfsr 	通过查看	c=0 d=0.1 t=6785
+enccfsv 	能需要	c=0 d=0.1 t=2082
+enccftf 	台运行	c=0 d=0.1 t=3473
+enccftm 	对向	c=0 d=0.1 t=1544
+enccftm 	通过向	c=0 d=0.1 t=3331
+enccftt 	台运行等	c=0 d=0.1 t=3474
+enccfvg 	通过如下	c=0 d=0.1 t=6337
+enccfwc 	驱动仅	c=0 d=0.1 t=2091
+enccfwd 	通过代码	c=0 d=0.1 t=1309
+enccfwv 	驱动创建	c=0 d=0.1 t=2265
+enccfxu 	通过终端	c=0 d=0.1 t=2218
+enccfye 	通过调用	c=0 d=0.1 t=2909
+enccfyp 	对亮	c=0 d=0.1 t=1673
+enccfyt 	通过计算	c=0 d=0.1 t=836
+enccgaf 	对于某	c=0 d=0.1 t=1736
+enccgah 	对于某些	c=0 d=0.1 t=1737
+enccgdq 	能正确	c=0 d=0.1 t=2642
+enccgfd 	对于雷达	c=0 d=0.1 t=3494
+enccgfi 	能表示	c=0 d=0.1 t=1727
+enccgfl 	对于雷	c=0 d=0.1 t=3493
+enccgfr 	能表示的	c=0 d=0.1 t=1728
+enccgtw 	对于每个	c=0 d=0.1 t=1661
+enccgtx 	对于每	c=0 d=0.1 t=1660
+enccgyg 	对于主	c=0 d=0.1 t=4628
+encchrb 	台上报	c=0 d=0.1 t=1218
+encchrq 	台上的	c=0 d=0.1 t=6048
+encchsf 	对目标	c=0 d=0.1 t=1086
+encchsr 	对目标的	c=0 d=0.1 t=1066
+enccitr 	通常我	c=0 d=0.1 t=4690
+enccitw 	通常我们	c=0 d=0.1 t=4691
+enccjaw 	能是其他	c=0 d=0.1 t=3589
+enccjey 	台电脑	c=0 d=0.1 t=6756
+enccjgd 	对昨天	c=0 d=0.1 t=7359
+enccjgg 	台是否下	c=0 d=0.1 t=6433
+enccjgi 	台是否	c=0 d=0.1 t=6432
+enccjgj 	对昨天早	c=0 d=0.1 t=7360
+encckdh 	台在	c=0 d=0.1 t=6986
+encckhh 	台上	c=0 d=0.1 t=6047
+encckjg 	台是	c=0 d=0.1 t=6431
+encckmg 	台同	c=0 d=0.1 t=185
+enccktc 	对路径	c=0 d=0.1 t=7622
+encclwd 	台软件在	c=0 d=0.1 t=6319
+encclwr 	台软件	c=0 d=0.1 t=6971
+enccmsm 	台同机	c=0 d=0.1 t=186
+enccner 	台民遥	c=0 d=0.1 t=6979
+enccogf 	参数表示	c=0 d=0.1 t=2175
+enccosr 	参数根据	c=0 d=0.1 t=901
+enccoyl 	参数为	c=0 d=0.1 t=1453
+enccoys 	参数为要	c=0 d=0.1 t=1454
+enccpbf 	对实际	c=0 d=0.1 t=1501
+enccpde 	驼有	c=1 d=1 t=5437
+enccprw 	观察摄像	c=0 d=0.1 t=6024
+enccqda 	能够成功	c=0 d=0.1 t=4687
+enccqwy 	又包含	c=0 d=0.1 t=1666
+enccrdl 	能的原因	c=0 d=0.1 t=3135
+enccrgc 	能看到	c=0 d=0.1 t=4998
+enccrgt 	能看到第	c=0 d=0.1 t=4999
+enccrik 	对探测器	c=0 d=0.1 t=5080
+enccrim 	对探测	c=0 d=0.1 t=5079
+enccrnu 	通的情况	c=0 d=0.1 t=3452
+enccrrg 	对抓拍到	c=0 d=0.1 t=6892
+enccrrr 	对抓拍	c=0 d=0.1 t=6891
+enccrwq 	对摄像	c=0 d=0.1 t=5991
+enccrwu 	对摄像头	c=0 d=0.1 t=5992
+encctgj 	预处理	c=0 d=0.1 t=5202
+encctgr 	预处理后	c=0 d=0.1 t=5203
+encctul 	又重新回	c=0 d=0.1 t=1196
+encctus 	又重新	c=0 d=0.1 t=1195
+encctyt 	对向设备	c=0 d=0.1 t=1545
+enccwdh 	能会在	c=0 d=0.1 t=3613
+enccwjg 	能会是	c=0 d=0.1 t=3830
+enccwjn 	能会是以	c=0 d=0.1 t=3831
+enccwng 	能会导致	c=0 d=0.1 t=2122
+enccwrn 	通信所	c=0 d=0.1 t=4588
+enccwsf 	通信模块	c=0 d=0.1 t=6770
+enccyeb 	又调用了	c=0 d=0.1 t=4277
+enccyet 	又调用	c=0 d=0.1 t=4276
+enccygo 	对亮来	c=0 d=0.1 t=1674
+enccyre 	对应的脚	c=0 d=0.1 t=1633
+enccyrq 	对应的	c=0 d=0.1 t=7466
+enccyrw 	对应的会	c=0 d=0.1 t=7467
+enccyuk 	能访问	c=0 d=0.1 t=2985
+enccywe 	允许使用	c=0 d=0.1 t=2115
+encdabc 	在获取	c=0 d=0.1 t=3958
+encdabc 	有获取	c=0 d=0.1 t=3931
+encdabg 	有获取到	c=0 d=0.1 t=3932
+encdabn 	成功了	c=1 d=1 t=6234
+encdajd 	尤其是在	c=0 d=0.1 t=4409
+encdajg 	尤其是	c=0 d=0.1 t=4408
+encdapd 	成功完成	c=0 d=0.1 t=5485
+encdapf 	成功完	c=0 d=0.1 t=5484
+encdarp 	在工控	c=0 d=0.1 t=6253
+encdarq 	成功的	c=1 d=1 t=6198
+encdars 	在工控板	c=0 d=0.1 t=6254
+encdast 	在其构造	c=0 d=0.1 t=1604
+encdawh 	在某个	c=0 d=0.1 t=4228
+encdawo 	在某个类	c=0 d=0.1 t=4229
+encdawt 	达工作	c=0 d=0.1 t=5919
+encdawv 	成功登录	c=1 d=1 t=5982
+encdayn 	尤其谨慎	c=0 d=0.1 t=2745
+encdbgm 	而出现	c=0 d=0.1 t=2994
+encdbof 	有防火墙	c=0 d=0.1 t=6502
+encdbok 	在函数中	c=0 d=0.1 t=6615
+encdbov 	在函数	c=0 d=0.1 t=6614
+encdbyg 	有了这两	c=0 d=0.1 t=7394
+encdbyp 	有了这	c=0 d=0.1 t=7393
+encdcgf 	而对于	c=0 d=0.1 t=4627
+encdcgy 	而对于主	c=0 d=0.1 t=4628
+encdchs 	成对目标	c=0 d=0.1 t=1065
+encdcrw 	在对摄像	c=0 d=0.1 t=913
+encdcrw 	成对摄像	c=0 d=0.1 t=1040
+encddgg 	存在一	c=0 d=0.1 t=3886
+encddgm 	存在两	c=0 d=0.1 t=3261
+encddgw 	存在一个	c=0 d=0.1 t=3887
+encddgw 	存在两个	c=0 d=0.1 t=3262
+encddjg 	大量	c=0 d=0.1 t=2949
+encddrq 	大的	c=0 d=0.1 t=6005
+encddwf 	而确保二	c=0 d=0.1 t=4100
+encddwk 	而确保	c=0 d=0.1 t=4099
+encddwk 	达确保	c=0 d=0.1 t=3447
+encddws 	达确保可	c=0 d=0.1 t=3448
+encddyg 	存在主	c=0 d=0.1 t=4711
+encddyp 	存在这	c=0 d=0.1 t=4121
+encddys 	存在这样	c=0 d=0.1 t=4122
+encdebn 	有了	c=0 d=0.1 t=7392
+encdebv 	有限	c=0 d=0.1 t=1721
+encdeeg 	有且	c=0 d=0.1 t=4615
+encdeey 	有及	c=0 d=0.1 t=7258
+encdegg 	有一	c=0 d=0.1 t=6131
+encdehh 	有上	c=0 d=0.1 t=5297
+encdehk 	有点	c=0 d=0.1 t=4649
+encdenh 	有收	c=0 d=0.1 t=5140
+encdeny 	有以	c=0 d=0.1 t=2965
+encdeos 	有灯	c=0 d=0.1 t=1887
+encdeqq 	有多	c=0 d=0.1 t=1589
+encdern 	有所	c=0 d=0.1 t=4536
+encderq 	有的	c=0 d=0.1 t=5207
+encderr 	有抓	c=0 d=0.1 t=6213
+encdesu 	有及相关	c=0 d=0.1 t=7259
+encdetj 	有利	c=0 d=0.1 t=7162
+encdety 	有入	c=0 d=0.1 t=5758
+encdeud 	有关	c=0 d=0.1 t=2290
+encdeuq 	有效	c=0 d=0.1 t=7513
+encdevk 	有如	c=0 d=0.1 t=5342
+encdewc 	有且仅	c=0 d=0.1 t=4616
+encdewd 	有且仅有	c=0 d=0.1 t=4617
+encdeyg 	有主	c=0 d=0.1 t=438
+encdeyi 	有就	c=0 d=0.1 t=347
+encdfdp 	在雷达	c=0 d=0.1 t=3565
+encdfdt 	在雷达自	c=0 d=0.1 t=3566
+encdffb 	圧地	c=1 d=1 t=2209
+encdfpr 	有真实的	c=0 d=0.1 t=4958
+encdfpu 	有真实	c=0 d=0.1 t=4957
+encdfrf 	有支持	c=0 d=0.1 t=1619
+encdfrr 	有支持的	c=0 d=0.1 t=1620
+encdfsg 	有城西	c=0 d=0.1 t=1399
+encdfsv 	有需要	c=0 d=0.1 t=1841
+encdgad 	有一项	c=0 d=0.1 t=5240
+encdgad 	有一项有	c=0 d=0.1 t=5241
+encdgaw 	大致划分	c=0 d=0.1 t=5514
+encdgdq 	有正确	c=0 d=0.1 t=3145
+encdgdw 	有正确从	c=0 d=0.1 t=3146
+encdggm 	达不再	c=0 d=0.1 t=497
+encdggt 	达不再向	c=0 d=0.1 t=498
+encdghk 	有一点	c=0 d=0.1 t=6132
+encdght 	有一些我	c=0 d=0.1 t=83
+encdghx 	有一些	c=0 d=0.1 t=82
+encdgjg 	而不是	c=0 d=0.1 t=2312
+encdgmp 	有正迪	c=0 d=0.1 t=5189
+encdgms 	有正迪样	c=0 d=0.1 t=5190
+encdgrg 	大致按下	c=0 d=0.1 t=5523
+encdgrp 	大致按	c=0 d=0.1 t=5522
+encdgus 	有更新	c=0 d=0.1 t=386
+encdgvc 	在开始	c=0 d=0.1 t=4933
+encdgvg 	大致如下	c=0 d=0.1 t=4471
+encdgvi 	在开始测	c=0 d=0.1 t=4934
+encdgwg 	达融合	c=0 d=0.1 t=435
+encdgwh 	在一个	c=0 d=0.1 t=3887
+encdgwh 	在两个	c=0 d=0.1 t=3262
+encdgwk 	达融合只	c=0 d=0.1 t=436
+encdgwt 	在两个自	c=0 d=0.1 t=3263
+encdhaa 	在工	c=0 d=0.1 t=6252
+encdhad 	在其	c=0 d=0.1 t=1603
+encdhaf 	在某	c=0 d=0.1 t=4227
+encdhcf 	在对	c=0 d=0.1 t=912
+encdhdh 	存在	c=0 d=0.1 t=7613
+encdhdm 	有上面	c=0 d=0.1 t=5298
+encdhdr 	有上面的	c=0 d=0.1 t=5299
+encdhfl 	在雷	c=0 d=0.1 t=3564
+encdhgg 	在一	c=0 d=0.1 t=3886
+encdhgm 	在两	c=0 d=0.1 t=3261
+encdhhx 	在此	c=0 d=0.1 t=5823
+encdhim 	在测	c=0 d=0.1 t=5467
+encdhkh 	在中	c=0 d=0.1 t=4879
+encdhmg 	在同	c=0 d=0.1 t=1961
+encdhnh 	在收	c=0 d=0.1 t=6987
+encdhod 	在类	c=0 d=0.1 t=4115
+encdhqw 	有点多余	c=0 d=0.1 t=4650
+encdhrb 	达上报	c=0 d=0.1 t=5812
+encdhrh 	在看	c=0 d=0.1 t=4988
+encdhrq 	在的	c=0 d=0.1 t=1880
+encdhrr 	在抓	c=0 d=0.1 t=6512
+encdhrr 	达上报的	c=0 d=0.1 t=5813
+encdhrt 	达上报入	c=0 d=0.1 t=1234
+encdhtm 	在向	c=0 d=0.1 t=6547
+encdhtx 	在第	c=0 d=0.1 t=5743
+encdhue 	在前	c=0 d=0.1 t=2357
+encdhwg 	在合	c=0 d=0.1 t=407
+encdhws 	达具体	c=0 d=0.1 t=3479
+encdhyg 	在主	c=0 d=0.1 t=4711
+encdhyi 	在就	c=0 d=0.1 t=652
+encdhym 	在调	c=0 d=0.1 t=7089
+encdhyp 	在这	c=0 d=0.1 t=5870
+encdhyy 	在该	c=0 d=0.1 t=1852
+encdijf 	页小时	c=0 d=0.1 t=7588
+encdikh 	在测距	c=0 d=0.1 t=5468
+encdikh 	成测距	c=0 d=0.1 t=5486
+encdikr 	成测距后	c=0 d=0.1 t=5487
+encdilk 	在添加	c=0 d=0.1 t=4549
+encdimm 	在注册	c=0 d=0.1 t=4484
+encditr 	达消息的	c=0 d=0.1 t=584
+encdjaf 	大量或者	c=0 d=0.1 t=2950
+encdjjf 	在临时	c=0 d=0.1 t=7048
+encdjjr 	在临时的	c=0 d=0.1 t=7049
+encdjug 	有时间更	c=0 d=0.1 t=381
+encdjuj 	有时间	c=0 d=0.1 t=380
+encdjwh 	有时候	c=0 d=0.1 t=4170
+encdjww 	有时候合	c=0 d=0.1 t=4164
+encdkod 	成员类	c=1 d=1 t=4379
+encdkor 	成员类的	c=0 d=0.1 t=4380
+encdlbm 	在输出	c=0 d=0.1 t=6263
+encdlbn 	原因了	c=0 d=0.1 t=6123
+encdlbr 	在输出的	c=0 d=0.1 t=6264
+encdlde 	原因有	c=0 d=0.1 t=3136
+encdlfq 	碾边远	c=1 d=1 t=5481
+encdljg 	原因是	c=0 d=0.1 t=5371
+encdlru 	在连接	c=0 d=0.1 t=1424
+encdlyo 	达转变	c=0 d=0.1 t=473
+encdlyy 	达转变为	c=0 d=0.1 t=474
+encdmbm 	而出	c=0 d=0.1 t=2993
+encdmcf 	而对	c=0 d=0.1 t=4626
+encdmdh 	而在	c=0 d=0.1 t=4270
+encdmgg 	在同一	c=0 d=0.1 t=1962
+encdmgi 	而不	c=0 d=0.1 t=2311
+encdmih 	页小	c=0 d=0.1 t=7587
+encdmpe 	页家	c=0 d=0.1 t=7538
+encdmrq 	面的	c=0 d=0.1 t=5641
+encdmwf 	面会	c=0 d=0.1 t=1920
+encdmww 	而从	c=0 d=0.1 t=4755
+encdmyp 	面这	c=0 d=0.1 t=5525
+encdmyy 	而言	c=0 d=0.1 t=4608
+encdnbn 	成了	c=0 d=0.1 t=1228
+encdncf 	成对	c=0 d=0.1 t=1064
+encdngc 	在收到	c=0 d=0.1 t=6988
+encdngc 	有收到	c=0 d=0.1 t=5141
+encdnrg 	成后	c=0 d=0.1 t=2205
+encdnrq 	成的	c=0 d=0.1 t=6079
+encdnrr 	成抓	c=0 d=0.1 t=1049
+encdnsb 	有以权限	c=0 d=0.1 t=2966
+encdntj 	成复	c=0 d=0.1 t=1102
+encdntk 	成各	c=0 d=0.1 t=2893
+encdojf 	在类里	c=0 d=0.1 t=4116
+encdopu 	有灯被	c=0 d=0.1 t=1888
+encdown 	有类似	c=0 d=0.1 t=4543
+encdowr 	有类似的	c=0 d=0.1 t=4544
+encdpbf 	在实际	c=0 d=0.1 t=3863
+encdpbr 	在实际的	c=0 d=0.1 t=3864
+encdpfi 	确实无法	c=0 d=0.1 t=5889
+encdpfq 	确实无	c=0 d=0.1 t=5888
+encdpgi 	达不	c=0 d=0.1 t=496
+encdphh 	达上	c=0 d=0.1 t=5811
+encdpkh 	页家中	c=0 d=0.1 t=7539
+encdpkw 	页家中华	c=0 d=0.1 t=7540
+encdplf 	达转	c=0 d=0.1 t=472
+encdpqr 	确定然后	c=0 d=0.1 t=7180
+encdprq 	达的	c=0 d=0.1 t=3427
+encdprr 	确定抓	c=0 d=0.1 t=6111
+encdprr 	确定抓拍	c=0 d=0.1 t=6112
+encdpsg 	确定本	c=0 d=0.1 t=3582
+encdpsv 	确定要	c=0 d=0.1 t=862
+encdptg 	确定管理	c=0 d=0.1 t=6428
+encdpth 	达自	c=0 d=0.1 t=5431
+encdpvb 	确定好	c=0 d=0.1 t=843
+encdpwf 	达会	c=0 d=0.1 t=441
+encdqru 	硬链接	c=0 d=0.1 t=7608
+encdquf 	在解决雷	c=0 d=0.1 t=5909
+encdqun 	在解决	c=0 d=0.1 t=5908
+encdqwh 	有多个	c=0 d=0.1 t=1590
+encdrde 	有所有	c=0 d=0.1 t=4537
+encdrfa 	有挂载	c=0 d=0.1 t=6423
+encdrfh 	有挂载上	c=0 d=0.1 t=6299
+encdrgc 	在看到	c=0 d=0.1 t=4989
+encdrgt 	在看到第	c=0 d=0.1 t=4990
+encdrhk 	有的点	c=0 d=0.1 t=5208
+encdrhy 	有的点迹	c=0 d=0.1 t=5209
+encdrik 	有探测器	c=0 d=0.1 t=4137
+encdrim 	有探测	c=0 d=0.1 t=4136
+encdrim 	达探测	c=0 d=0.1 t=5032
+encdriw 	面的举例	c=0 d=0.1 t=4027
+encdrjb 	在的最	c=0 d=0.1 t=1881
+encdrjj 	面的电量	c=0 d=0.1 t=1520
+encdrjr 	在的最后	c=0 d=0.1 t=1882
+encdrkl 	面的另	c=0 d=0.1 t=3720
+encdrkq 	面的另外	c=0 d=0.1 t=3721
+encdrll 	大的逻辑	c=0 d=0.1 t=6006
+encdrni 	面的异常	c=0 d=0.1 t=5151
+encdrpg 	面的实现	c=0 d=0.1 t=1474
+encdrqg 	而打印	c=0 d=0.1 t=5303
+encdrqr 	而打印的	c=0 d=0.1 t=5304
+encdrqv 	成按键	c=0 d=0.1 t=2433
+encdrqv 	有按键	c=0 d=0.1 t=2386
+encdrrg 	在抓拍到	c=0 d=0.1 t=876
+encdrrg 	有抓拍到	c=0 d=0.1 t=6215
+encdrrk 	在指挥中	c=0 d=0.1 t=2609
+encdrrp 	在指挥	c=0 d=0.1 t=2608
+encdrrr 	在抓拍	c=0 d=0.1 t=875
+encdrrr 	有抓拍	c=0 d=0.1 t=6214
+encdrrs 	有所描述	c=0 d=0.1 t=2365
+encdrsr 	面描述的	c=0 d=0.1 t=3847
+encdrsy 	面描述	c=0 d=0.1 t=3846
+encdrtf 	在执行	c=0 d=0.1 t=690
+encdrtp 	在执行完	c=0 d=0.1 t=691
+encdrtr 	面的我	c=0 d=0.1 t=542
+encdrtw 	面的我们	c=0 d=0.1 t=543
+encdrua 	面的章节	c=0 d=0.1 t=2360
+encdrud 	达的状态	c=0 d=0.1 t=3428
+encdrwq 	在摄像	c=0 d=0.1 t=793
+encdrwu 	在摄像头	c=0 d=0.1 t=794
+encdsdw 	面板硬件	c=0 d=0.1 t=1368
+encdshh 	面板上	c=0 d=0.1 t=1585
+encdsrq 	面板的	c=0 d=0.1 t=1577
+encdstf 	在构造	c=0 d=0.1 t=4410
+encdtfc 	有移动	c=0 d=0.1 t=5038
+encdtfr 	有移动的	c=0 d=0.1 t=5039
+encdtgf 	有利于	c=0 d=0.1 t=7163
+encdtgg 	在第一	c=0 d=0.1 t=5744
+encdtgg 	在管理平	c=0 d=0.1 t=6531
+encdtgj 	在管理	c=0 d=0.1 t=6530
+encdtlr 	面向连接	c=0 d=0.1 t=4597
+encdtod 	成各类	c=0 d=0.1 t=2894
+encdtor 	成各类的	c=0 d=0.1 t=2895
+encdtsw 	达自检	c=0 d=0.1 t=5432
+encdtwb 	有身份了	c=0 d=0.1 t=3684
+encdtww 	有身份	c=0 d=0.1 t=3683
+encdtxy 	在系统	c=0 d=0.1 t=5068
+encdtyc 	在程序	c=0 d=0.1 t=7117
+encdtyk 	在程序中	c=0 d=0.1 t=3615
+encdtyp 	故这	c=0 d=0.1 t=5553
+encduaj 	有效工时	c=0 d=0.1 t=7514
+encdudj 	达状态是	c=0 d=0.1 t=5027
+encdudm 	在前面	c=0 d=0.1 t=2358
+encdudr 	在前面的	c=0 d=0.1 t=2359
+encdudy 	达状态	c=0 d=0.1 t=5026
+encdujg 	有问题	c=0 d=0.1 t=6712
+encdujg 	达问题	c=0 d=0.1 t=5911
+encdujp 	达问题之	c=0 d=0.1 t=5912
+encdujr 	有问题的	c=0 d=0.1 t=6713
+encdunn 	有效属性	c=0 d=0.1 t=1648
+encdurq 	有关的	c=0 d=0.1 t=2291
+encdurq 	有效的	c=0 d=0.1 t=5338
+encdutx 	有关系	c=0 d=0.1 t=5259
+encduyi 	有效就	c=0 d=0.1 t=5243
+encduys 	有效就可	c=0 d=0.1 t=5244
+encdvgh 	有如下	c=0 d=0.1 t=6954
+encdwaw 	存储其他	c=0 d=0.1 t=4582
+encdwcf 	硬件驱动	c=0 d=0.1 t=1377
+encdwdc 	有代码	c=0 d=0.1 t=2801
+encdwde 	面会有	c=0 d=0.1 t=1921
+encdwff 	确保二者	c=0 d=0.1 t=4101
+encdwfg 	确保二	c=0 d=0.1 t=4100
+encdwhh 	达会上	c=0 d=0.1 t=442
+encdwhr 	达会上报	c=0 d=0.1 t=443
+encdwnp 	在修改完	c=0 d=0.1 t=2200
+encdwnt 	在修改	c=0 d=0.1 t=2199
+encdwnt 	有修改	c=0 d=0.1 t=6782
+encdwny 	确保以	c=0 d=0.1 t=3080
+encdwrc 	硬件所能	c=0 d=0.1 t=1726
+encdwrn 	硬件所	c=0 d=0.1 t=1725
+encdwrq 	硬件抽象	c=0 d=0.1 t=1579
+encdwsk 	确保可	c=0 d=0.1 t=3448
+encdwsn 	确保可以	c=0 d=0.1 t=3449
+encdwtc 	有什么	c=0 d=0.1 t=7383
+encdwtg 	有什么不	c=0 d=0.1 t=7319
+encdwtw 	确保每个	c=0 d=0.1 t=2638
+encdwtx 	确保每	c=0 d=0.1 t=2637
+encdwug 	有任意一	c=0 d=0.1 t=5086
+encdwuj 	有任意	c=0 d=0.1 t=5085
+encdwwn 	硬件修改	c=0 d=0.1 t=2095
+encdwyh 	确保库上	c=0 d=0.1 t=7071
+encdwyl 	确保库	c=0 d=0.1 t=7070
+encdwyt 	而从设备	c=0 d=0.1 t=4756
+encdwyy 	硬件设计	c=0 d=0.1 t=3289
+encdxyc 	成编译	c=0 d=0.1 t=2229
+encdyay 	确认共享	c=0 d=0.1 t=6222
+encdyfc 	在启动	c=0 d=0.1 t=2944
+encdyfc 	达启动	c=0 d=0.1 t=2853
+encdyfd 	有主雷达	c=0 d=0.1 t=440
+encdyfd 	确认雷达	c=0 d=0.1 t=5025
+encdyfj 	在启动时	c=0 d=0.1 t=2945
+encdyfl 	有主雷	c=0 d=0.1 t=439
+encdyfl 	确认雷	c=0 d=0.1 t=5024
+encdyfu 	达启动并	c=0 d=0.1 t=2854
+encdygg 	确认一	c=0 d=0.1 t=5666
+encdygg 	确认一下	c=0 d=0.1 t=5667
+encdyje 	有说明	c=0 d=0.1 t=1922
+encdyjf 	在这里	c=0 d=0.1 t=4497
+encdyjf 	故这里	c=0 d=0.1 t=5554
+encdyjg 	故这里不	c=0 d=0.1 t=5555
+encdyjm 	有说明由	c=0 d=0.1 t=1923
+encdyng 	确认收到	c=0 d=0.1 t=6393
+encdynh 	确认收	c=0 d=0.1 t=6392
+encdyrk 	在该接口	c=0 d=0.1 t=1853
+encdysg 	在这样一	c=0 d=0.1 t=4123
+encdysr 	面这样的	c=0 d=0.1 t=3839
+encdysu 	在这样	c=0 d=0.1 t=4122
+encdysu 	面这样	c=0 d=0.1 t=5526
+encdytb 	有就算了	c=0 d=0.1 t=349
+encdytg 	确认管理	c=0 d=0.1 t=6467
+encdyth 	有就算	c=0 d=0.1 t=348
+encdytl 	有设备	c=0 d=0.1 t=2631
+encdytn 	有设备发	c=0 d=0.1 t=2632
+encdywr 	在文件	c=0 d=0.1 t=2224
+encdyww 	在主从	c=0 d=0.1 t=758
+encdyya 	在调试	c=0 d=0.1 t=7090
+encdyyi 	确认方法	c=0 d=0.1 t=6248
+encdyyt 	在主设备	c=0 d=0.1 t=4712
+enceawt 	及工作	c=0 d=0.1 t=2036
+encecga 	且对于某	c=0 d=0.1 t=1736
+encecgf 	且对于	c=0 d=0.1 t=1735
+encedfp 	且有真实	c=0 d=0.1 t=4957
+encedpg 	及确定	c=0 d=0.1 t=861
+encedps 	及确定要	c=0 d=0.1 t=862
+encedrp 	须按	c=0 d=0.1 t=3229
+encedtg 	且有利于	c=0 d=0.1 t=7163
+encedtj 	且有利	c=0 d=0.1 t=7162
+encedwr 	脚硬件	c=0 d=0.1 t=1376
+enceebg 	采用了与	c=0 d=0.1 t=4570
+enceebn 	采用了	c=0 d=0.1 t=4569
+enceegi 	月还	c=0 d=0.1 t=7439
+enceegn 	采用与	c=0 d=0.1 t=4803
+enceeww 	月份	c=0 d=0.1 t=7502
+encefkg 	脚号	c=0 d=0.1 t=1634
+encegcf 	且一对	c=0 d=0.1 t=3546
+encegcf 	且对	c=0 d=0.1 t=1734
+encegde 	且有	c=0 d=0.1 t=7161
+encegdy 	用来确认	c=0 d=0.1 t=6391
+encegfl 	助雷	c=0 d=0.1 t=3485
+enceggg 	且一	c=0 d=0.1 t=3545
+enceggr 	用下班的	c=0 d=0.1 t=89
+enceggy 	用下班	c=0 d=0.1 t=88
+encegjg 	月还是	c=0 d=0.1 t=7440
+encegjr 	月还是按	c=0 d=0.1 t=7441
+encegwc 	且仅	c=0 d=0.1 t=4616
+encegww 	且从	c=0 d=0.1 t=493
+encegwy 	用来保证	c=0 d=0.1 t=1986
+encegwy 	用来登记	c=0 d=0.1 t=4131
+encehgg 	及上一	c=0 d=0.1 t=7335
+encehsf 	及目标	c=0 d=0.1 t=39
+encekgg 	用哪一	c=0 d=0.1 t=359
+encekgw 	用哪一个	c=0 d=0.1 t=360
+encenrg 	及以后	c=0 d=0.1 t=7535
+encepwu 	及定位	c=0 d=0.1 t=7279
+enceqsr 	及解析	c=0 d=0.1 t=6402
+enceqsr 	及解析后	c=0 d=0.1 t=6403
+enceqtq 	及名称	c=0 d=0.1 t=6578
+encequn 	及解决	c=0 d=0.1 t=3503
+encergw 	及的整个	c=0 d=0.1 t=1259
+encerth 	须按自	c=0 d=0.1 t=3230
+encerts 	须按自检	c=0 d=0.1 t=3231
+encescr 	及校验的	c=0 d=0.1 t=5399
+encescw 	及校验	c=0 d=0.1 t=5398
+encesud 	及相关	c=0 d=0.1 t=7259
+encesur 	及相关的	c=0 d=0.1 t=7260
+encetdn 	及生成	c=0 d=0.1 t=6790
+encetdr 	及生成的	c=0 d=0.1 t=6791
+encetgh 	用下	c=0 d=0.1 t=87
+encetgo 	用来	c=0 d=0.1 t=6390
+encetih 	腾微波	c=0 d=0.1 t=7543
+encetkv 	用哪	c=0 d=0.1 t=358
+encettf 	及等等	c=0 d=0.1 t=7294
+enceutm 	腾微	c=0 d=0.1 t=7542
+encevgh 	及如下	c=0 d=0.1 t=4921
+encevgr 	及如下的	c=0 d=0.1 t=4922
+encewde 	且仅有	c=0 d=0.1 t=4617
+encewfa 	月份考勤	c=0 d=0.1 t=7484
+encewfd 	且从雷达	c=0 d=0.1 t=495
+encewfl 	且从雷	c=0 d=0.1 t=494
+encewss 	逐个检查	c=0 d=0.1 t=3234
+encexwg 	及结合	c=0 d=0.1 t=5391
+encexwi 	及结合测	c=0 d=0.1 t=5392
+enceyhh 	及上	c=0 d=0.1 t=7334
+enceykl 	及识别	c=0 d=0.1 t=7000
+enceyky 	及识别主	c=0 d=0.1 t=108
+enceyny 	及以	c=0 d=0.1 t=7534
+enceypu 	用户空间	c=0 d=0.1 t=2257
+enceypw 	用户空	c=0 d=0.1 t=2256
+enceyqk 	用户名	c=0 d=0.1 t=6487
+enceyqt 	用户名和	c=0 d=0.1 t=6488
+enceyrg 	用户按下	c=0 d=0.1 t=4974
+enceyrp 	用户按	c=0 d=0.1 t=4973
+enceyrq 	及的	c=0 d=0.1 t=1258
+enceyrq 	用户按键	c=0 d=0.1 t=3647
+enceyrq 	用户的	c=0 d=0.1 t=2272
+enceytf 	及等	c=0 d=0.1 t=7293
+enceywb 	月底会出	c=0 d=0.1 t=7450
+enceywf 	月底会	c=0 d=0.1 t=7449
+enceyyg 	及主	c=0 d=0.1 t=2870
+enceyym 	及高	c=0 d=0.1 t=1637
+encfagc 	载到	c=0 d=0.1 t=6153
+encfajx 	考勤明细	c=0 d=0.1 t=7485
+encfalt 	截图	c=0 d=0.1 t=2251
+encfarg 	老黄看一	c=0 d=0.1 t=7380
+encfarh 	老黄看	c=0 d=0.1 t=7379
+encfatf 	老黄先	c=0 d=0.1 t=7310
+encfatr 	老黄先看	c=0 d=0.1 t=7311
+encfayj 	考勤说明	c=0 d=0.1 t=7413
+encfbyg 	过了主	c=0 d=0.1 t=4762
+encfcfp 	未通过	c=0 d=0.1 t=3243
+encfcgd 	都能正确	c=0 d=0.1 t=2642
+encfcgm 	去再	c=0 d=0.1 t=319
+encfcim 	却没	c=0 d=0.1 t=6211
+encfckt 	未对路径	c=0 d=0.1 t=7622
+encfcpw 	过观察	c=0 d=0.1 t=6023
+encfcrh 	却看	c=0 d=0.1 t=5006
+encfcrs 	去打	c=0 d=0.1 t=224
+encfdaw 	雷达工作	c=0 d=0.1 t=5919
+encfddh 	都存在	c=0 d=0.1 t=3996
+encfddw 	雷达确保	c=0 d=0.1 t=3447
+encfdgg 	雷达不再	c=0 d=0.1 t=497
+encfdgi 	雷达不	c=0 d=0.1 t=496
+encfdgw 	雷达融合	c=0 d=0.1 t=435
+encfdhh 	雷达上	c=0 d=0.1 t=5811
+encfdhr 	雷达上报	c=0 d=0.1 t=5812
+encfdhw 	雷达具体	c=0 d=0.1 t=3479
+encfdlf 	雷达转	c=0 d=0.1 t=472
+encfdly 	雷达转变	c=0 d=0.1 t=473
+encfdri 	雷达探测	c=0 d=0.1 t=5032
+encfdrq 	雷达的	c=0 d=0.1 t=3427
+encfdth 	雷达自	c=0 d=0.1 t=5431
+encfdts 	雷达自检	c=0 d=0.1 t=5432
+encfdud 	雷达状态	c=0 d=0.1 t=5026
+encfduj 	雷达问题	c=0 d=0.1 t=5911
+encfdwf 	雷达会	c=0 d=0.1 t=441
+encfdwh 	雷达会上	c=0 d=0.1 t=442
+encfdyf 	雷达启动	c=0 d=0.1 t=2853
+encfefl 	求助雷	c=0 d=0.1 t=3485
+encfffy 	二者协议	c=0 d=0.1 t=1181
+encffgm 	过去再	c=0 d=0.1 t=319
+encffrr 	过直接挂	c=0 d=0.1 t=6151
+encffru 	过直接	c=0 d=0.1 t=6150
+encfftf 	过进行	c=0 d=0.1 t=1405
+encffud 	二者状态	c=0 d=0.1 t=4102
+encffur 	过去交接	c=0 d=0.1 t=72
+encffyg 	者协议不	c=0 d=0.1 t=1182
+encffyy 	者协议	c=0 d=0.1 t=1181
+encfgba 	载到了工	c=0 d=0.1 t=6155
+encfgbg 	都列出来	c=0 d=0.1 t=7464
+encfgbm 	都列出	c=0 d=0.1 t=7463
+encfgbn 	载到了	c=0 d=0.1 t=6154
+encfgft 	二者	c=0 d=0.1 t=4101
+encfggu 	去再更新	c=0 d=0.1 t=320
+encfghr 	远一些的	c=0 d=0.1 t=768
+encfghx 	远一些	c=0 d=0.1 t=767
+encfgjg 	起来是	c=0 d=0.1 t=20
+encfgjq 	都更易	c=0 d=0.1 t=1748
+encfgjs 	起来是可	c=0 d=0.1 t=21
+encfgrq 	过来的	c=0 d=0.1 t=3788
+encfgwh 	起一个	c=0 d=0.1 t=997
+encfgwi 	示整个测	c=0 d=0.1 t=5134
+encfgwo 	元素个数	c=0 d=0.1 t=2108
+encfhaw 	地点工作	c=0 d=0.1 t=7518
+encfhgg 	起一	c=0 d=0.1 t=996
+encfhgo 	起来	c=0 d=0.1 t=19
+encfhjf 	超时	c=0 d=0.1 t=1932
+encfice 	未通	c=0 d=0.1 t=3242
+encficf 	未对	c=0 d=0.1 t=7621
+encfidc 	无法友	c=0 d=0.1 t=5570
+encfide 	却没有	c=0 d=0.1 t=6212
+encfidr 	却没有抓	c=0 d=0.1 t=6213
+encfieg 	求助	c=0 d=0.1 t=3484
+encfift 	无法进入	c=0 d=0.1 t=5890
+encfiqe 	无法触	c=0 d=0.1 t=5769
+encfiqn 	无法触发	c=0 d=0.1 t=5770
+encfiyg 	示主	c=0 d=0.1 t=3539
+encfjce 	都是通	c=0 d=0.1 t=1684
+encfjcf 	都是通过	c=0 d=0.1 t=1685
+encfjid 	都是没有	c=0 d=0.1 t=5061
+encfjim 	都是没	c=0 d=0.1 t=5060
+encfjmh 	均是由	c=0 d=0.1 t=2134
+encfjqc 	都是针对	c=0 d=0.1 t=5269
+encfjqy 	韩久	c=0 d=0.1 t=7480
+encfjty 	进入	c=0 d=0.1 t=2220
+encfkde 	者只有	c=0 d=0.1 t=3800
+encfkdg 	者只有一	c=0 d=0.1 t=3801
+encfktc 	地路径	c=0 d=0.1 t=6602
+encfldp 	雷达	c=0 d=0.1 t=5918
+encflrd 	过连接在	c=0 d=0.1 t=2614
+encflru 	过连接	c=0 d=0.1 t=2613
+encfluk 	截图总	c=0 d=0.1 t=7528
+encfluy 	截图总计	c=0 d=0.1 t=7529
+encflyq 	过轮询	c=0 d=0.1 t=2262
+encfmyg 	均由主	c=0 d=0.1 t=526
+encfnwg 	均已合	c=0 d=0.1 t=2805
+encfnwt 	均已合入	c=0 d=0.1 t=2806
+encfnxc 	都已经	c=0 d=0.1 t=468
+encfnxy 	都已经主	c=0 d=0.1 t=469
+encfowk 	专业人员	c=0 d=0.1 t=6848
+encfoww 	专业人	c=0 d=0.1 t=6847
+encfpbn 	过了	c=0 d=0.1 t=4761
+encfpdh 	过在	c=0 d=0.1 t=6042
+encfpfc 	过去	c=0 d=0.1 t=318
+encfpgo 	过来	c=0 d=0.1 t=3787
+encfpjh 	过早	c=0 d=0.1 t=4403
+encfplw 	过轮	c=0 d=0.1 t=2261
+encfpqe 	过触	c=0 d=0.1 t=672
+encfpqq 	过多	c=0 d=0.1 t=5558
+encfprg 	过后	c=0 d=0.1 t=3571
+encfprp 	过近	c=0 d=0.1 t=787
+encfprq 	真实的	c=0 d=0.1 t=4958
+encfprq 	过的	c=0 d=0.1 t=5442
+encfptm 	过向	c=0 d=0.1 t=3331
+encfqgg 	远一	c=0 d=0.1 t=766
+encfqgu 	韩久平	c=0 d=0.1 t=7481
+encfqif 	无法	c=0 d=0.1 t=5889
+encfqjg 	均是	c=0 d=0.1 t=2133
+encfqmh 	均由	c=0 d=0.1 t=525
+encfqna 	过多展	c=0 d=0.1 t=5559
+encfqnn 	均已	c=0 d=0.1 t=2804
+encfqnt 	过触发	c=0 d=0.1 t=673
+encfqnw 	过触发从	c=0 d=0.1 t=674
+encfqug 	韩留美	c=0 d=0.1 t=7498
+encfquq 	无效	c=0 d=0.1 t=5323
+encfqyl 	均为	c=0 d=0.1 t=3810
+encfqyw 	无认	c=0 d=0.1 t=4118
+encfqyw 	无论	c=0 d=0.1 t=3986
+encfraq 	地报警	c=0 d=0.1 t=5774
+encfrar 	地报警后	c=0 d=0.1 t=695
+encfrhh 	去打卡	c=0 d=0.1 t=225
+encfrhr 	去打卡的	c=0 d=0.1 t=226
+encfrjf 	直接显示	c=0 d=0.1 t=230
+encfrqi 	支持多少	c=0 d=0.1 t=1625
+encfrqq 	支持多	c=0 d=0.1 t=1624
+encfrrf 	直接挂	c=0 d=0.1 t=6151
+encfrrf 	直接挂载	c=0 d=0.1 t=6152
+encfrrl 	直接返回	c=0 d=0.1 t=3297
+encfrrq 	支持的	c=0 d=0.1 t=1620
+encfrrr 	支持的的	c=0 d=0.1 t=1621
+encfrud 	过的状态	c=0 d=0.1 t=5443
+encfruq 	过提交	c=0 d=0.1 t=1082
+encfruw 	支持闪	c=0 d=0.1 t=1708
+encfrux 	过提交给	c=0 d=0.1 t=1083
+encfrye 	直接调用	c=0 d=0.1 t=6073
+encfryg 	支持亮灭	c=0 d=0.1 t=1702
+encfryp 	支持亮	c=0 d=0.1 t=1701
+encfsag 	需要基于	c=0 d=0.1 t=848
+encfsce 	需要通	c=0 d=0.1 t=2370
+encfscf 	都相对	c=0 d=0.1 t=1296
+encfscf 	需要通过	c=0 d=0.1 t=2371
+encfscl 	都相对较	c=0 d=0.1 t=1297
+encfsdf 	需要圧地	c=0 d=0.1 t=2209
+encfsdh 	需要在	c=0 d=0.1 t=4290
+encfsdy 	需要确认	c=0 d=0.1 t=6221
+encfsfd 	需要雷达	c=0 d=0.1 t=3442
+encfsfl 	需要雷	c=0 d=0.1 t=3441
+encfsim 	需要注册	c=0 d=0.1 t=1917
+encfsiu 	需要注意	c=0 d=0.1 t=6544
+encfsjf 	需要显示	c=0 d=0.1 t=1436
+encfslf 	过配置	c=0 d=0.1 t=1653
+encfspw 	需要定位	c=0 d=0.1 t=5904
+encfsrh 	过查看	c=0 d=0.1 t=6785
+encfsrr 	需要控制	c=0 d=0.1 t=1401
+encfsrs 	需要排查	c=0 d=0.1 t=6719
+encfsrt 	需要执行	c=0 d=0.1 t=1842
+encfssr 	需要根据	c=0 d=0.1 t=5384
+encfsss 	需要检查	c=0 d=0.1 t=6307
+encfstu 	需要重新	c=0 d=0.1 t=2083
+encfsuo 	需要闪烁	c=0 d=0.1 t=1865
+encfsuy 	需要咨询	c=0 d=0.1 t=6100
+encfswx 	需要仔细	c=0 d=0.1 t=2730
+encfsxf 	需要引起	c=0 d=0.1 t=5645
+encfsxh 	需要引	c=0 d=0.1 t=5644
+encfsyf 	需要启动	c=0 d=0.1 t=3078
+encftaa 	进入警戒	c=0 d=0.1 t=5734
+encftam 	老黄	c=0 d=0.1 t=7378
+encftay 	远程共享	c=0 d=0.1 t=6294
+encftbg 	运行出现	c=0 d=0.1 t=4245
+encftbm 	运行出	c=0 d=0.1 t=4244
+encftcc 	过程又	c=0 d=0.1 t=161
+encftce 	都能	c=0 d=0.1 t=2641
+encftcf 	进入驱动	c=0 d=0.1 t=2221
+encftcw 	过程又分	c=0 d=0.1 t=162
+encftdh 	运行在	c=0 d=0.1 t=6529
+encftdh 	都在	c=0 d=0.1 t=1990
+encftdh 	都存	c=0 d=0.1 t=3995
+encftgf 	运行于	c=0 d=0.1 t=2254
+encftgj 	都更	c=0 d=0.1 t=1747
+encftgq 	都列	c=0 d=0.1 t=7462
+encftgs 	进行赘述	c=0 d=0.1 t=1325
+encftht 	才睡	c=0 d=0.1 t=3804
+encfthx 	进入此	c=0 d=0.1 t=5891
+encftik 	进入测距	c=0 d=0.1 t=5116
+encftim 	进入测	c=0 d=0.1 t=5115
+encftjg 	运行是	c=0 d=0.1 t=6796
+encftjg 	运行是否	c=0 d=0.1 t=6797
+encftjg 	进程是	c=0 d=0.1 t=3456
+encftjg 	进程是否	c=0 d=0.1 t=3457
+encftjg 	都是	c=0 d=0.1 t=5268
+encftkh 	过程中	c=0 d=0.1 t=7092
+encftkk 	进行跟踪	c=0 d=0.1 t=776
+encftkw 	者只	c=0 d=0.1 t=3799
+encftlr 	远程连接	c=0 d=0.1 t=2762
+encftna 	进行展	c=0 d=0.1 t=7005
+encftnf 	进行展示	c=0 d=0.1 t=7006
+encftng 	进行展开	c=0 d=0.1 t=1334
+encftpw 	进行实例	c=0 d=0.1 t=1614
+encftqs 	进行解析	c=0 d=0.1 t=6934
+encftra 	进行报警	c=0 d=0.1 t=699
+encftrh 	进行打点	c=0 d=0.1 t=7125
+encftrq 	载入的	c=0 d=0.1 t=1657
+encftrq 	运行的	c=0 d=0.1 t=7119
+encftrq 	进行打包	c=0 d=0.1 t=1168
+encftrs 	进行打	c=0 d=0.1 t=7124
+encftry 	运行的主	c=0 d=0.1 t=7120
+encftsc 	进行校验	c=0 d=0.1 t=3794
+encftsk 	都可	c=0 d=0.1 t=3048
+encfttf 	运行等	c=0 d=0.1 t=3474
+encfttg 	过向管理	c=0 d=0.1 t=3332
+encftty 	运行程序	c=0 d=0.1 t=2819
+encftud 	过程状态	c=0 d=0.1 t=1739
+encftud 	运行状态	c=0 d=0.1 t=7131
+encftud 	进行状态	c=0 d=0.1 t=1406
+encftuo 	进行判断	c=0 d=0.1 t=4069
+encftwf 	都会	c=0 d=0.1 t=5111
+encftwg 	运行命	c=0 d=0.1 t=6259
+encftwv 	远程登录	c=0 d=0.1 t=2682
+encftww 	运行命令	c=0 d=0.1 t=6260
+encftyg 	过程主	c=0 d=0.1 t=112
+encftyk 	进行识别	c=0 d=0.1 t=6896
+encftys 	过程主要	c=0 d=0.1 t=113
+encfudm 	者状态同	c=0 d=0.1 t=4103
+encfudy 	示状态	c=0 d=0.1 t=1742
+encfudy 	者状态	c=0 d=0.1 t=4102
+encfuir 	起关注的	c=0 d=0.1 t=5647
+encfuiy 	起关注	c=0 d=0.1 t=5646
+encfurb 	去交接了	c=0 d=0.1 t=73
+encfurq 	无效的	c=0 d=0.1 t=5324
+encfuru 	去交接	c=0 d=0.1 t=72
+encfvgh 	过如下	c=0 d=0.1 t=6337
+encfwdc 	过代码	c=0 d=0.1 t=1309
+encfwdy 	过代码就	c=0 d=0.1 t=1310
+encfweb 	才使用了	c=0 d=0.1 t=1978
+encfwet 	才使用	c=0 d=0.1 t=1977
+encfwft 	协作者	c=0 d=0.1 t=3708
+encfwvi 	都登录	c=0 d=0.1 t=5968
+encfwxc 	都会经	c=0 d=0.1 t=431
+encfwxy 	都会经主	c=0 d=0.1 t=432
+encfxuf 	过终端进	c=0 d=0.1 t=2219
+encfxum 	过终端	c=0 d=0.1 t=2218
+encfyet 	过调用	c=0 d=0.1 t=2909
+encfyet 	过调用各	c=0 d=0.1 t=2910
+encfygf 	地方不动	c=0 d=0.1 t=4184
+encfygg 	协议不一	c=0 d=0.1 t=1183
+encfygi 	协议不	c=0 d=0.1 t=1182
+encfygi 	地方不	c=0 d=0.1 t=4183
+encfyjg 	无论是	c=0 d=0.1 t=3987
+encfypv 	老方案	c=0 d=0.1 t=1552
+encfyqs 	协议解析	c=0 d=0.1 t=6364
+encfyth 	过计算	c=0 d=0.1 t=836
+encgabc 	来获取	c=0 d=0.1 t=2270
+encgade 	一项有	c=0 d=0.1 t=5241
+encgadu 	一项有效	c=0 d=0.1 t=5242
+encgahx 	于某些	c=0 d=0.1 t=1737
+encgajf 	开时	c=0 d=0.1 t=2823
+encgajg 	形是	c=0 d=0.1 t=5154
+encgarp 	与工控	c=0 d=0.1 t=6766
+encgarp 	至工控	c=0 d=0.1 t=6354
+encgars 	与工控板	c=0 d=0.1 t=6767
+encgars 	至工控板	c=0 d=0.1 t=6355
+encgasg 	不匹配	c=0 d=0.1 t=3043
+encgasm 	开机	c=0 d=0.1 t=2780
+encgawd 	到其停在	c=0 d=0.1 t=4226
+encgawt 	与工作	c=0 d=0.1 t=7577
+encgawy 	到其停	c=0 d=0.1 t=4225
+encgbaa 	到了工	c=0 d=0.1 t=6155
+encgbar 	到了工控	c=0 d=0.1 t=6156
+encgbgo 	列出来	c=0 d=0.1 t=7464
+encgbmt 	列出几	c=0 d=0.1 t=6748
+encgbmw 	列出几个	c=0 d=0.1 t=6749
+encgbst 	现了构造	c=0 d=0.1 t=4319
+encgbtg 	到了管理	c=0 d=0.1 t=6174
+encgbwd 	一阶段	c=0 d=0.1 t=5606
+encgbwr 	一阶段的	c=0 d=0.1 t=5607
+encgbww 	到了从	c=0 d=0.1 t=4718
+encgcaa 	至工	c=0 d=0.1 t=6353
+encgcad 	到其	c=0 d=0.1 t=4224
+encgcad 	到期	c=0 d=0.1 t=7421
+encgcbn 	到了	c=0 d=0.1 t=6173
+encgcdd 	到大	c=0 d=0.1 t=2948
+encgcdh 	平台在	c=0 d=0.1 t=6986
+encgcdn 	平台在收	c=0 d=0.1 t=6987
+encgcfl 	到雷	c=0 d=0.1 t=5809
+encgcfl 	至雷	c=0 d=0.1 t=5429
+encgcgh 	到下	c=0 d=0.1 t=5639
+encgcgm 	到两	c=0 d=0.1 t=337
+encgcgo 	到来	c=0 d=0.1 t=4637
+encgchh 	到上	c=0 d=0.1 t=3764
+encgchh 	平台上	c=0 d=0.1 t=6047
+encgchr 	平台上报	c=0 d=0.1 t=1218
+encgchr 	平台上的	c=0 d=0.1 t=6048
+encgchx 	至此	c=0 d=0.1 t=1223
+encgcje 	平台电脑	c=0 d=0.1 t=6756
+encgcjg 	不能是	c=0 d=0.1 t=3588
+encgcjg 	平台是	c=0 d=0.1 t=6431
+encgcjg 	平台是否	c=0 d=0.1 t=6432
+encgclw 	平台软件	c=0 d=0.1 t=6971
+encgcmg 	平台同	c=0 d=0.1 t=185
+encgcms 	平台同机	c=0 d=0.1 t=186
+encgcne 	平台民遥	c=0 d=0.1 t=6979
+encgcny 	到以	c=0 d=0.1 t=3525
+encgcri 	一对探测	c=0 d=0.1 t=3870
+encgcrp 	不能按	c=0 d=0.1 t=56
+encgcrq 	到的	c=0 d=0.1 t=7366
+encgctx 	到第	c=0 d=0.1 t=4999
+encgcwq 	到低	c=0 d=0.1 t=1463
+encgcwr 	与通信所	c=0 d=0.1 t=4588
+encgcww 	到从	c=0 d=0.1 t=4820
+encgcww 	至从	c=0 d=0.1 t=4828
+encgcwy 	与通信	c=0 d=0.1 t=4587
+encgcyg 	到主	c=0 d=0.1 t=4621
+encgcyi 	来对应	c=0 d=0.1 t=7465
+encgcyp 	到这	c=0 d=0.1 t=5661
+encgcyr 	来对应的	c=0 d=0.1 t=7466
+encgcyt 	不允许	c=0 d=0.1 t=2114
+encgcyu 	不能访问	c=0 d=0.1 t=2985
+encgddh 	不存在	c=0 d=0.1 t=7613
+encgddh 	否存在	c=0 d=0.1 t=3459
+encgdgg 	还有一	c=0 d=0.1 t=6131
+encgdgh 	还有一些	c=0 d=0.1 t=82
+encgdgh 	还有一点	c=0 d=0.1 t=6132
+encgdhh 	画面上	c=0 d=0.1 t=6053
+encgdjg 	到大量	c=0 d=0.1 t=2949
+encgdju 	再有时间	c=0 d=0.1 t=380
+encgdky 	正确响应	c=0 d=0.1 t=2643
+encgdng 	正确收到	c=0 d=0.1 t=3980
+encgdnh 	正确收	c=0 d=0.1 t=3979
+encgdop 	现有灯被	c=0 d=0.1 t=1888
+encgdos 	现有灯	c=0 d=0.1 t=1887
+encgdrq 	下面的	c=0 d=0.1 t=5641
+encgdrt 	下面的我	c=0 d=0.1 t=542
+encgdtf 	否有移动	c=0 d=0.1 t=5038
+encgdtw 	于有身份	c=0 d=0.1 t=3683
+encgduq 	平有效	c=0 d=0.1 t=1647
+encgdwd 	下面会有	c=0 d=0.1 t=1921
+encgdwf 	下面会	c=0 d=0.1 t=1920
+encgdwg 	天使	c=0 d=0.1 t=7616
+encgdwi 	正确从源	c=0 d=0.1 t=3147
+encgdwr 	于硬件	c=0 d=0.1 t=3288
+encgdww 	正确从	c=0 d=0.1 t=3146
+encgdwy 	来存储	c=0 d=0.1 t=4581
+encgdyf 	正确启动	c=0 d=0.1 t=6761
+encgdyn 	来确认收	c=0 d=0.1 t=6392
+encgdyp 	下面这	c=0 d=0.1 t=5525
+encgdys 	下面这样	c=0 d=0.1 t=5526
+encgdyw 	再确认	c=0 d=0.1 t=6466
+encgdyw 	来确认	c=0 d=0.1 t=6391
+encgewx 	表华	c=0 d=0.1 t=7487
+encgeyn 	于用户	c=0 d=0.1 t=2255
+encgeyn 	到用户	c=0 d=0.1 t=4972
+encgeyp 	于用户空	c=0 d=0.1 t=2256
+encgeyq 	到月底	c=0 d=0.1 t=7448
+encgeyr 	到用户按	c=0 d=0.1 t=4973
+encgeyw 	到月底会	c=0 d=0.1 t=7449
+encgfaf 	于某	c=0 d=0.1 t=1736
+encgfde 	于有	c=0 d=0.1 t=3682
+encgfdh 	到雷达上	c=0 d=0.1 t=5811
+encgfdp 	于雷达	c=0 d=0.1 t=3494
+encgfdp 	到雷达	c=0 d=0.1 t=5810
+encgfdp 	至雷达	c=0 d=0.1 t=5430
+encgfdr 	到雷达的	c=0 d=0.1 t=3427
+encgfdt 	至雷达自	c=0 d=0.1 t=5431
+encgffl 	于雷	c=0 d=0.1 t=3493
+encgffr 	现场支持	c=0 d=0.1 t=7574
+encgfhx 	于此	c=0 d=0.1 t=5831
+encgfkd 	两者只有	c=0 d=0.1 t=3800
+encgfkw 	两者只	c=0 d=0.1 t=3799
+encgfrf 	还支持	c=0 d=0.1 t=1707
+encgfrg 	表示按下	c=0 d=0.1 t=2177
+encgfrp 	表示按	c=0 d=0.1 t=2176
+encgfrq 	表示的	c=0 d=0.1 t=1728
+encgfru 	还支持闪	c=0 d=0.1 t=1708
+encgfsv 	否需要	c=0 d=0.1 t=1864
+encgftf 	再进行	c=0 d=0.1 t=1324
+encgftk 	至远程	c=0 d=0.1 t=178
+encgftx 	于每	c=0 d=0.1 t=1660
+encgful 	环境部署	c=0 d=0.1 t=2677
+encgfyg 	于主	c=0 d=0.1 t=4628
+encgfyg 	表示主	c=0 d=0.1 t=3539
+encgfyl 	于为	c=0 d=0.1 t=1751
+encgfyt 	表示设备	c=0 d=0.1 t=4924
+encggad 	一项	c=0 d=0.1 t=5240
+encggcf 	一对	c=0 d=0.1 t=3869
+encggcw 	与与通信	c=0 d=0.1 t=4587
+encggdm 	到下面	c=0 d=0.1 t=5640
+encggdn 	一成	c=0 d=0.1 t=1515
+encggdq 	否正确	c=0 d=0.1 t=6760
+encggdr 	到下面的	c=0 d=0.1 t=5641
+encggfd 	不到雷达	c=0 d=0.1 t=3426
+encggfh 	一起	c=0 d=0.1 t=288
+encggfl 	不到雷	c=0 d=0.1 t=3425
+encggft 	不再进行	c=0 d=0.1 t=1324
+encgggc 	一致	c=0 d=0.1 t=6498
+encgggc 	不一致	c=0 d=0.1 t=1184
+encgggc 	与一致	c=0 d=0.1 t=2112
+encgggc 	否一致	c=0 d=0.1 t=6498
+encgggh 	一下	c=0 d=0.1 t=7381
+encgggs 	不再赘述	c=0 d=0.1 t=3509
+encgghi 	一步	c=0 d=0.1 t=6128
+encgghi 	再一步	c=0 d=0.1 t=888
+encgghk 	一点	c=0 d=0.1 t=6132
+encgghx 	一些	c=0 d=0.1 t=767
+encggif 	否正常雷	c=0 d=0.1 t=5030
+encggij 	不正常时	c=0 d=0.1 t=2343
+encggip 	不正常	c=0 d=0.1 t=2342
+encggip 	否正常	c=0 d=0.1 t=6798
+encggiy 	否正常该	c=0 d=0.1 t=3280
+encggnb 	否下发了	c=0 d=0.1 t=6435
+encggnt 	否下发	c=0 d=0.1 t=6434
+encggpg 	一定	c=0 d=0.1 t=4384
+encggrh 	一下打卡	c=0 d=0.1 t=323
+encggrh 	下班打卡	c=0 d=0.1 t=235
+encggrq 	下班的	c=0 d=0.1 t=89
+encggrs 	下班打	c=0 d=0.1 t=234
+encggrw 	一下摄像	c=0 d=0.1 t=6103
+encggsy 	再赘述	c=0 d=0.1 t=3509
+encggte 	一般	c=0 d=0.1 t=6008
+encggtf 	一行	c=0 d=0.1 t=2167
+encggtg 	到来自于	c=0 d=0.1 t=4510
+encggth 	到来自	c=0 d=0.1 t=4638
+encggtm 	不再向	c=0 d=0.1 t=498
+encggtq 	不再向外	c=0 d=0.1 t=499
+encggts 	一条	c=0 d=0.1 t=4081
+encggtu 	不不知道	c=0 d=0.1 t=28
+encggtw 	到来自从	c=0 d=0.1 t=4639
+encggua 	事不凑七	c=0 d=0.1 t=5634
+encggud 	事不凑	c=0 d=0.1 t=5633
+encggug 	再更新一	c=0 d=0.1 t=321
+encgguk 	一部	c=0 d=0.1 t=7019
+encgguk 	王总	c=0 d=0.1 t=7403
+encgguq 	一次	c=0 d=0.1 t=4816
+encggus 	再更新	c=0 d=0.1 t=320
+encggwf 	一会	c=0 d=0.1 t=315
+encggwh 	一个	c=0 d=0.1 t=5087
+encggwh 	到两个	c=0 d=0.1 t=338
+encggwr 	一件	c=0 d=0.1 t=3700
+encggyl 	一下为	c=0 d=0.1 t=6304
+encggyn 	否开启	c=0 d=0.1 t=2593
+encggyp 	一下这	c=0 d=0.1 t=7314
+encggyp 	不到这	c=0 d=0.1 t=3939
+encggyt 	一下设备	c=0 d=0.1 t=2349
+encggyt 	不到这条	c=0 d=0.1 t=3940
+encggyw 	一下这个	c=0 d=0.1 t=7315
+encghdm 	下面	c=0 d=0.1 t=3836
+encghfj 	一步都是	c=0 d=0.1 t=5059
+encghfs 	一点需要	c=0 d=0.1 t=6133
+encghft 	一步都	c=0 d=0.1 t=5058
+encghgg 	一步一	c=0 d=0.1 t=5928
+encghgt 	一步一般	c=0 d=0.1 t=5929
+encghgy 	下班	c=0 d=0.1 t=233
+encghlr 	下暂	c=0 d=0.1 t=4299
+encghmg 	下同	c=0 d=0.1 t=4806
+encghmp 	正迪	c=1 d=1 t=5189
+encghnt 	下发	c=0 d=0.1 t=6493
+encghod 	现此类	c=0 d=0.1 t=4421
+encghrg 	一点后	c=0 d=0.1 t=4655
+encghrp 	下按	c=0 d=0.1 t=5094
+encghrq 	一些的	c=0 d=0.1 t=768
+encghrq 	下的	c=0 d=0.1 t=5503
+encghrv 	一些的那	c=0 d=0.1 t=769
+encghrx 	一点后续	c=0 d=0.1 t=4656
+encghsf 	现目标	c=0 d=0.1 t=5987
+encghsr 	到上述的	c=0 d=0.1 t=3766
+encghsr 	现目标后	c=0 d=0.1 t=5988
+encghsy 	到上述	c=0 d=0.1 t=3765
+encghtg 	于此处不	c=0 d=0.1 t=5833
+encghth 	于此处	c=0 d=0.1 t=5832
+encghtr 	一些我	c=0 d=0.1 t=83
+encghts 	一些我想	c=0 d=0.1 t=84
+encghwf 	否上传	c=0 d=0.1 t=6171
+encghwg 	否上传到	c=0 d=0.1 t=6172
+encghyl 	下为	c=0 d=0.1 t=6304
+encghyp 	下这	c=0 d=0.1 t=7314
+encghyy 	下文	c=0 d=0.1 t=1994
+encgice 	不能	c=0 d=0.1 t=6644
+encgide 	否有	c=0 d=0.1 t=6501
+encgide 	还有	c=0 d=0.1 t=6130
+encgide 	还没有	c=0 d=0.1 t=3930
+encgidh 	不存	c=0 d=0.1 t=7612
+encgidh 	否存	c=0 d=0.1 t=3458
+encgifc 	不动	c=0 d=0.1 t=4184
+encgifd 	正常雷达	c=0 d=0.1 t=5031
+encgifl 	正常雷	c=0 d=0.1 t=5030
+encgigc 	不到	c=0 d=0.1 t=5009
+encgigg 	不一	c=0 d=0.1 t=1183
+encgigg 	否一	c=0 d=0.1 t=6497
+encgigh 	否下	c=0 d=0.1 t=6433
+encgigi 	不不	c=0 d=0.1 t=27
+encgigm 	不再	c=0 d=0.1 t=6678
+encgihh 	否上	c=0 d=0.1 t=6170
+encgiim 	还没	c=0 d=0.1 t=3929
+encgijf 	正常时	c=0 d=0.1 t=2343
+encgijg 	不是	c=0 d=0.1 t=7305
+encgijg 	还是	c=0 d=0.1 t=7440
+encgikh 	不足	c=0 d=0.1 t=2979
+encgikm 	不员	c=1 d=1 t=1862
+encgimg 	不同	c=0 d=0.1 t=1494
+encginh 	否收	c=0 d=0.1 t=5807
+encginu 	正常情况	c=0 d=0.1 t=3623
+encgiqk 	不够	c=0 d=0.1 t=2933
+encgirp 	否按	c=0 d=0.1 t=6474
+encgirq 	正常反馈	c=0 d=0.1 t=6799
+encgirq 	正常的	c=0 d=0.1 t=5180
+encgiry 	正常的话	c=0 d=0.1 t=5181
+encgisk 	不可	c=0 d=0.1 t=3894
+encgisr 	不清楚的	c=0 d=0.1 t=7321
+encgiss 	不清楚	c=0 d=0.1 t=7320
+encgisv 	不要	c=0 d=0.1 t=4401
+encgisv 	否要	c=0 d=0.1 t=5682
+encgitg 	与消息下	c=0 d=0.1 t=6492
+encgith 	与消息	c=0 d=0.1 t=6491
+encgitk 	与流程	c=0 d=0.1 t=1319
+encgitk 	到流程	c=0 d=0.1 t=686
+encgitk 	到流程中	c=0 d=0.1 t=687
+encgiud 	不凑	c=0 d=0.1 t=5633
+encgiwf 	下流传	c=0 d=0.1 t=7081
+encgiwf 	不会	c=0 d=0.1 t=6011
+encgiwj 	不但	c=0 d=0.1 t=1714
+encgiyy 	正常该	c=0 d=0.1 t=3280
+encgjcy 	形是对应	c=0 d=0.1 t=5155
+encgjde 	不是有	c=0 d=0.1 t=3653
+encgjdu 	不是有效	c=0 d=0.1 t=3654
+encgjgc 	不是不能	c=0 d=0.1 t=55
+encgjgi 	不是不	c=0 d=0.1 t=54
+encgjjq 	更易	c=0 d=0.1 t=1748
+encgjlp 	不是固定	c=0 d=0.1 t=2313
+encgjrp 	还是按	c=0 d=0.1 t=7441
+encgjrr 	还是按打	c=0 d=0.1 t=7442
+encgjsk 	更可	c=0 d=0.1 t=7144
+encgjsk 	来是可	c=0 d=0.1 t=21
+encgjsn 	来是可以	c=0 d=0.1 t=22
+encgjsr 	还是模拟	c=0 d=0.1 t=3644
+encgjtg 	现是第一	c=0 d=0.1 t=4504
+encgjtv 	不是很	c=0 d=0.1 t=6736
+encgjtx 	现是第	c=0 d=0.1 t=4503
+encgjuj 	一时间	c=0 d=0.1 t=5745
+encgjun 	一时间收	c=0 d=0.1 t=5746
+encgjww 	还是从	c=0 d=0.1 t=730
+encgkgi 	事不	c=0 d=0.1 t=5632
+encgkjf 	不足时	c=0 d=0.1 t=2980
+encgkud 	不足状态	c=0 d=0.1 t=1523
+encgkyl 	不足为	c=0 d=0.1 t=1510
+encgkyw 	不足为例	c=0 d=0.1 t=1511
+encglth 	到图片	c=0 d=0.1 t=6516
+encgltp 	到图片之	c=0 d=0.1 t=6517
+encglwy 	下暂停	c=0 d=0.1 t=4300
+encgmbn 	现了	c=0 d=0.1 t=4318
+encgmde 	再有	c=0 d=0.1 t=379
+encgmde 	现有	c=0 d=0.1 t=1886
+encgmft 	两者	c=0 d=0.1 t=3798
+encgmgg 	再一	c=0 d=0.1 t=887
+encgmhi 	两步	c=0 d=0.1 t=2023
+encgmhx 	现此	c=0 d=0.1 t=4420
+encgmjg 	现是	c=0 d=0.1 t=4502
+encgmld 	现因	c=0 d=0.1 t=3306
+encgmnt 	再发	c=0 d=0.1 t=6939
+encgmrp 	再按	c=0 d=0.1 t=3245
+encgmrq 	不同的	c=0 d=0.1 t=1495
+encgmrr 	现抓	c=0 d=0.1 t=6187
+encgmsc 	否则可能	c=0 d=0.1 t=2120
+encgmsk 	否则可	c=0 d=0.1 t=2119
+encgmsr 	下同样的	c=0 d=0.1 t=4808
+encgmsu 	下同样	c=0 d=0.1 t=4807
+encgmsu 	正迪样	c=0 d=0.1 t=5190
+encgmtm 	再向	c=0 d=0.1 t=498
+encgmty 	两篇	c=0 d=0.1 t=7395
+encgmwh 	两个	c=0 d=0.1 t=3262
+encgmxw 	再给	c=0 d=0.1 t=7427
+encgmyi 	否则就	c=0 d=0.1 t=3558
+encgmyj 	否则就是	c=0 d=0.1 t=3559
+encgmyp 	现这	c=0 d=0.1 t=5604
+encgmyy 	现该	c=0 d=0.1 t=3346
+encgnaa 	与工	c=0 d=0.1 t=6765
+encgnbh 	下发了上	c=0 d=0.1 t=6436
+encgnbn 	下发了	c=0 d=0.1 t=6435
+encgnga 	下发至工	c=0 d=0.1 t=6353
+encgngc 	下发至	c=0 d=0.1 t=6352
+encgngc 	否收到	c=0 d=0.1 t=5808
+encgngf 	否收到雷	c=0 d=0.1 t=5809
+encgngg 	与一	c=0 d=0.1 t=2111
+encgngh 	到以下	c=0 d=0.1 t=3526
+encgngk 	于快速	c=0 d=0.1 t=7164
+encgngn 	与与	c=0 d=0.1 t=4586
+encgngr 	到以下的	c=0 d=0.1 t=3527
+encgnip 	否异常	c=0 d=0.1 t=3367
+encgnrg 	平快捷	c=0 d=0.1 t=2442
+encgnrj 	下发的是	c=0 d=0.1 t=6495
+encgnrq 	下发的	c=0 d=0.1 t=6494
+encgnrq 	平快捷键	c=0 d=0.1 t=2443
+encgnrr 	与抓	c=0 d=0.1 t=5949
+encgntj 	与复	c=0 d=0.1 t=1253
+encgnud 	再发送	c=0 d=0.1 t=6940
+encgnug 	再发送至	c=0 d=0.1 t=6941
+encgnxw 	再发给	c=0 d=0.1 t=1172
+encgobn 	来了	c=0 d=0.1 t=3910
+encgojg 	来是	c=0 d=0.1 t=20
+encgorq 	来的	c=0 d=0.1 t=3788
+encgorq 	灭的	c=0 d=0.1 t=1677
+encgoth 	来自	c=0 d=0.1 t=5285
+encgowd 	来做	c=0 d=0.1 t=92
+encgowg 	现类似于	c=0 d=0.1 t=6093
+encgown 	现类似	c=0 d=0.1 t=6092
+encgpst 	一定要延	c=0 d=0.1 t=4386
+encgpsv 	一定要	c=0 d=0.1 t=4385
+encgpwa 	现定位其	c=0 d=0.1 t=5369
+encgpwu 	现定位	c=0 d=0.1 t=5368
+encgqbm 	列出	c=0 d=0.1 t=7463
+encgqgq 	互锁现象	c=0 d=0.1 t=4255
+encgqqi 	死锁	c=0 d=0.1 t=4160
+encgqrq 	互锁的	c=0 d=0.1 t=4341
+encgqya 	与角度	c=0 d=0.1 t=489
+encgqyw 	与角度值	c=0 d=0.1 t=490
+encgrfa 	否挂载	c=0 d=0.1 t=6226
+encgrgo 	到的来	c=0 d=0.1 t=5284
+encgrgt 	到的来自	c=0 d=0.1 t=5285
+encgrhh 	下打卡	c=0 d=0.1 t=323
+encgrhh 	班打卡	c=0 d=0.1 t=235
+encgrhs 	到的目标	c=0 d=0.1 t=878
+encgrik 	到探测器	c=0 d=0.1 t=6990
+encgrik 	到的测距	c=0 d=0.1 t=5319
+encgrik 	开探测器	c=0 d=0.1 t=2691
+encgrim 	到探测	c=0 d=0.1 t=6989
+encgrim 	到的测	c=0 d=0.1 t=5318
+encgrim 	开探测	c=0 d=0.1 t=2690
+encgrje 	下的电脑	c=0 d=0.1 t=2622
+encgrju 	班的时间	c=0 d=0.1 t=90
+encgrlt 	到的图	c=0 d=0.1 t=6166
+encgrlt 	到的图片	c=0 d=0.1 t=6894
+encgrnu 	到的情况	c=0 d=0.1 t=7206
+encgrpw 	到的字段	c=0 d=0.1 t=6395
+encgrqj 	与按键是	c=0 d=0.1 t=1275
+encgrqv 	下按键	c=0 d=0.1 t=5095
+encgrqv 	与按键	c=0 d=0.1 t=1274
+encgrrk 	于指挥中	c=0 d=0.1 t=2597
+encgrrm 	与控制	c=0 d=0.1 t=6035
+encgrrm 	灭控制	c=0 d=0.1 t=1703
+encgrrp 	于指挥	c=0 d=0.1 t=2596
+encgrrp 	灭控制之	c=0 d=0.1 t=1704
+encgrrr 	与抓拍	c=0 d=0.1 t=5950
+encgrrr 	与控制的	c=0 d=0.1 t=6036
+encgrrr 	现抓拍	c=0 d=0.1 t=6188
+encgrsy 	开描述	c=0 d=0.1 t=5574
+encgrwq 	下摄像	c=0 d=0.1 t=6103
+encgrwq 	到摄像	c=0 d=0.1 t=896
+encgrwu 	下摄像头	c=0 d=0.1 t=6104
+encgrwu 	到摄像头	c=0 d=0.1 t=897
+encgryg 	下的主	c=0 d=0.1 t=5504
+encgrys 	下的主要	c=0 d=0.1 t=5505
+encgsaa 	与格式	c=0 d=0.1 t=6411
+encgsaj 	与格式是	c=0 d=0.1 t=6412
+encgsbu 	不要随意	c=0 d=0.1 t=2733
+encgsce 	不可能	c=0 d=0.1 t=3895
+encgsfj 	不要过早	c=0 d=0.1 t=4403
+encgsfp 	不要过	c=0 d=0.1 t=4402
+encgsnr 	不可以看	c=0 d=0.1 t=335
+encgsny 	不可以	c=0 d=0.1 t=334
+encgsra 	来查找	c=0 d=0.1 t=3107
+encgsrn 	来模拟	c=0 d=0.1 t=3619
+encgssg 	再检查一	c=0 d=0.1 t=5695
+encgssj 	再检查	c=0 d=0.1 t=5694
+encgstf 	至构造	c=0 d=0.1 t=3156
+encgswn 	不要修改	c=0 d=0.1 t=2748
+encgswr 	理想化的	c=0 d=0.1 t=3854
+encgswx 	理想化	c=0 d=0.1 t=3853
+encgsyf 	开机启动	c=0 d=0.1 t=2781
+encgtgf 	来自于	c=0 d=0.1 t=4510
+encgtgg 	与管理平	c=0 d=0.1 t=3358
+encgtgg 	到第一	c=0 d=0.1 t=5000
+encgtgg 	至管理平	c=0 d=0.1 t=6943
+encgtgi 	一般不	c=0 d=0.1 t=5930
+encgtgj 	与管理	c=0 d=0.1 t=3357
+encgtgj 	至管理	c=0 d=0.1 t=6942
+encgtgq 	一系列	c=0 d=0.1 t=5462
+encgtgw 	一般不会	c=0 d=0.1 t=5931
+encgtjg 	一般是	c=0 d=0.1 t=4242
+encgtnu 	一般情况	c=0 d=0.1 t=5046
+encgtqh 	再向外	c=0 d=0.1 t=499
+encgtrc 	来选择	c=0 d=0.1 t=838
+encgtsy 	与复核	c=0 d=0.1 t=1254
+encgtut 	不知道	c=0 d=0.1 t=28
+encgtwh 	于每个	c=0 d=0.1 t=1661
+encgtww 	来自从	c=0 d=0.1 t=4639
+encgtyl 	一行为	c=0 d=0.1 t=2168
+encgtys 	两篇文档	c=0 d=0.1 t=7396
+encguag 	不凑七	c=0 d=0.1 t=5634
+encguck 	平台	c=0 d=0.1 t=6985
+encgude 	平有	c=0 d=0.1 t=1646
+encgugg 	更新一	c=0 d=0.1 t=321
+encgugg 	更新一下	c=0 d=0.1 t=322
+encguit 	一次消息	c=0 d=0.1 t=4096
+encgujg 	现问题	c=0 d=0.1 t=5934
+encgung 	一次收到	c=0 d=0.1 t=4507
+encgunh 	一次收	c=0 d=0.1 t=4506
+encguwv 	一部分	c=0 d=0.1 t=7020
+encgvgh 	到如下	c=0 d=0.1 t=5125
+encgvgr 	到如下的	c=0 d=0.1 t=4918
+encgvik 	开始测距	c=0 d=0.1 t=4978
+encgvim 	开始测	c=0 d=0.1 t=4977
+encgvyy 	开始调试	c=0 d=0.1 t=2839
+encgwbg 	不会出现	c=0 d=0.1 t=5933
+encgwbm 	不会出	c=0 d=0.1 t=5932
+encgwco 	一个参数	c=0 d=0.1 t=2151
+encgwde 	不会有	c=0 d=0.1 t=6012
+encgwft 	整个过程	c=0 d=0.1 t=1395
+encgwgk 	一件事	c=0 d=0.1 t=3701
+encgwik 	整个测距	c=0 d=0.1 t=5135
+encgwim 	整个测	c=1 d=1 t=5134
+encgwit 	整个流程	c=0 d=0.1 t=7026
+encgwjg 	一个是	c=0 d=0.1 t=2193
+encgwjy 	一个是该	c=0 d=0.1 t=2194
+encgwkd 	融合只有	c=0 d=0.1 t=437
+encgwkw 	融合只	c=0 d=0.1 t=436
+encgwlf 	到位置	c=0 d=0.1 t=3933
+encgwnt 	事件发	c=0 d=0.1 t=2388
+encgwnt 	事件发生	c=0 d=0.1 t=2389
+encgwox 	一个数组	c=0 d=0.1 t=4125
+encgwqf 	一会儿过	c=0 d=0.1 t=317
+encgwqt 	一会儿	c=0 d=0.1 t=316
+encgwri 	一个探测	c=0 d=0.1 t=5088
+encgwrn 	不但扩展	c=0 d=0.1 t=1715
+encgwrq 	事件的	c=0 d=0.1 t=2426
+encgwrt 	整个执行	c=0 d=0.1 t=1988
+encgwtg 	事件处理	c=0 d=0.1 t=2435
+encgwtg 	整个处理	c=0 d=0.1 t=1260
+encgwth 	两个自	c=0 d=0.1 t=3263
+encgwts 	两个自检	c=0 d=0.1 t=3264
+encgwtx 	整个系统	c=0 d=0.1 t=2626
+encgwwh 	到任何点	c=0 d=0.1 t=5143
+encgwws 	到任何	c=0 d=0.1 t=5142
+encgwxs 	一个结构	c=0 d=0.1 t=2141
+encgwyg 	来保证	c=0 d=0.1 t=1986
+encgwyn 	来登记	c=0 d=0.1 t=4131
+encgwyp 	融合方案	c=0 d=0.1 t=415
+encgwyt 	到从设备	c=0 d=0.1 t=4821
+encgwyt 	至从设备	c=0 d=0.1 t=4829
+encgxqi 	互锁	c=0 d=0.1 t=4254
+encgxth 	一线程上	c=0 d=0.1 t=1964
+encgxtk 	一线程	c=0 d=0.1 t=1963
+encgybn 	开放了	c=0 d=0.1 t=6483
+encgyep 	于应用空	c=0 d=0.1 t=2039
+encgyet 	于应用	c=0 d=0.1 t=2038
+encgyfc 	再启动	c=0 d=0.1 t=4699
+encgyfw 	再启动从	c=0 d=0.1 t=4700
+encgygg 	现这一	c=0 d=0.1 t=5605
+encgyje 	开说明	c=0 d=0.1 t=1335
+encgykh 	下文中	c=0 d=0.1 t=1995
+encgykh 	否充足	c=0 d=0.1 t=3272
+encgykl 	到识别	c=0 d=0.1 t=6649
+encgyrk 	现该接口	c=0 d=0.1 t=3347
+encgyrq 	班的	c=0 d=0.1 t=89
+encgyrs 	班打	c=0 d=0.1 t=234
+encgysr 	到这样的	c=0 d=0.1 t=3824
+encgysu 	到这样	c=0 d=0.1 t=3823
+encgytk 	到这种	c=0 d=0.1 t=5662
+encgytl 	下设备	c=0 d=0.1 t=2349
+encgyts 	到这条	c=0 d=0.1 t=3940
+encgyuu 	来订阅	c=0 d=0.1 t=2380
+encgywg 	不方便	c=0 d=0.1 t=5834
+encgywg 	开启依赖	c=0 d=0.1 t=2594
+encgywh 	下这个	c=0 d=0.1 t=7315
+encgywr 	于为人所	c=0 d=0.1 t=1753
+encgywt 	下为什么	c=0 d=0.1 t=6305
+encgyww 	于为人	c=0 d=0.1 t=1752
+encgyya 	到调试	c=0 d=0.1 t=7059
+encgyyt 	于主设备	c=0 d=0.1 t=4629
+encgyyt 	到主设备	c=0 d=0.1 t=4622
+encgyyy 	不应该	c=0 d=0.1 t=3195
+enchace 	些功能	c=0 d=0.1 t=2583
+enchace 	点功能	c=0 d=0.1 t=7113
+enchcjg 	步骤是	c=0 d=0.1 t=1203
+enchclt 	步骤略	c=0 d=0.1 t=2753
+enchcpw 	上观察	c=0 d=0.1 t=6054
+enchcrq 	步骤的	c=0 d=0.1 t=7245
+enchcry 	步骤的主	c=0 d=0.1 t=7246
+enchdmg 	睚同	c=0 d=0.1 t=4022
+enchdrq 	上面的	c=0 d=0.1 t=5299
+enchdrs 	上面描述	c=0 d=0.1 t=3846
+enchfjg 	步都是	c=0 d=0.1 t=5059
+enchfji 	步都是没	c=0 d=0.1 t=5060
+enchfsv 	点需要	c=0 d=0.1 t=6133
+enchftk 	些过程	c=0 d=0.1 t=1738
+enchgte 	步一般	c=0 d=0.1 t=5929
+enchgtg 	步一般不	c=0 d=0.1 t=5930
+enchgyk 	上下文中	c=0 d=0.1 t=1995
+enchgyy 	上下文	c=0 d=0.1 t=1994
+enchgyy 	步到调试	c=0 d=0.1 t=7059
+enchhdm 	上面	c=0 d=0.1 t=5298
+enchhdu 	上碰	c=0 d=0.1 t=7362
+enchhgg 	上一	c=0 d=0.1 t=7335
+enchhgh 	上下	c=0 d=0.1 t=1993
+enchhim 	上没	c=0 d=0.1 t=241
+enchhjn 	上电	c=0 d=0.1 t=2568
+enchhrb 	上报	c=0 d=0.1 t=6992
+enchhrq 	上的	c=0 d=0.1 t=6599
+enchhrq 	卡的	c=0 d=0.1 t=226
+enchhrt 	上手	c=0 d=0.1 t=7399
+enchhsy 	上述	c=0 d=0.1 t=6437
+enchhwf 	上传	c=0 d=0.1 t=6171
+enchhyf 	上讲	c=0 d=0.1 t=4837
+enchift 	步都	c=0 d=0.1 t=5058
+enchigc 	步到	c=0 d=0.1 t=7053
+enchigg 	步一	c=0 d=0.1 t=5928
+enchirq 	步的	c=0 d=0.1 t=1208
+enchirs 	上没打	c=0 d=0.1 t=242
+enchith 	此消息	c=0 d=0.1 t=4768
+enchjgi 	此时还	c=0 d=0.1 t=3928
+enchjgi 	此时还没	c=0 d=0.1 t=3929
+enchjri 	此时探测	c=0 d=0.1 t=3659
+enchjrq 	旧的	c=0 d=0.1 t=5532
+enchjtt 	此时等待	c=0 d=0.1 t=3575
+enchjuj 	卡时间	c=0 d=0.1 t=7508
+enchjut 	卡时间和	c=0 d=0.1 t=7457
+enchjuw 	卡时间段	c=0 d=0.1 t=7509
+enchkrg 	点后	c=0 d=0.1 t=4655
+enchkyc 	此顺序	c=0 d=0.1 t=7174
+enchkyo 	点迹	c=0 d=0.1 t=5209
+enchlrb 	上连接了	c=0 d=0.1 t=2322
+enchlru 	上连接	c=0 d=0.1 t=2321
+enchouj 	此类问题	c=0 d=0.1 t=4422
+enchpjc 	肯定是能	c=0 d=0.1 t=3976
+enchpjd 	肯定是存	c=0 d=0.1 t=3884
+enchpjg 	肯定是	c=0 d=0.1 t=3975
+enchqwr 	点多余的	c=0 d=0.1 t=4651
+enchqwt 	点多余	c=0 d=0.1 t=4650
+enchrjw 	卡的时候	c=0 d=0.1 t=227
+enchrrq 	上报的	c=0 d=0.1 t=6993
+enchrrq 	上报的键	c=0 d=0.1 t=2187
+enchrrq 	上的按键	c=0 d=0.1 t=3603
+enchrrw 	上的摄像	c=0 d=0.1 t=6049
+enchrsf 	上的本地	c=0 d=0.1 t=6601
+enchrsg 	上的本	c=0 d=0.1 t=6600
+enchrtg 	上报管理	c=0 d=0.1 t=6968
+enchrtw 	上报入侵	c=0 d=0.1 t=1235
+enchrty 	上报入	c=0 d=0.1 t=1234
+enchrty 	上报航迹	c=0 d=0.1 t=1219
+enchrvf 	些的那	c=0 d=0.1 t=769
+enchrvw 	些的那个	c=0 d=0.1 t=770
+enchrwd 	旧的代码	c=0 d=0.1 t=5533
+enchrxf 	点后续	c=0 d=0.1 t=4656
+enchrxg 	上报给平	c=0 d=0.1 t=307
+enchrxs 	点后续可	c=0 d=0.1 t=4657
+enchrxw 	上报给	c=0 d=0.1 t=306
+enchryy 	上手应该	c=0 d=0.1 t=7400
+enchsey 	目标及	c=0 d=0.1 t=106
+enchsfj 	目标进	c=0 d=0.1 t=5732
+enchsft 	目标进入	c=0 d=0.1 t=5733
+enchsft 	目标进行	c=0 d=0.1 t=1087
+enchsky 	目标距离	c=0 d=0.1 t=764
+enchsrg 	目标后	c=0 d=0.1 t=5988
+enchsri 	目标探测	c=0 d=0.1 t=2765
+enchsrq 	上述的	c=0 d=0.1 t=6438
+enchsrq 	目标的	c=0 d=0.1 t=1066
+enchsrr 	目标抓	c=0 d=0.1 t=1051
+enchsrr 	目标抓拍	c=0 d=0.1 t=1052
+enchsrr 	目标的抓	c=0 d=0.1 t=1067
+enchsrt 	目标执行	c=0 d=0.1 t=975
+enchste 	目标笈	c=0 d=0.1 t=6995
+enchstw 	目标入侵	c=0 d=0.1 t=5762
+enchsty 	目标入	c=0 d=0.1 t=5761
+enchsty 	目标航迹	c=0 d=0.1 t=1237
+enchsvj 	目标如果	c=0 d=0.1 t=5723
+enchswi 	上述作法	c=0 d=0.1 t=1983
+enchswt 	目标信息	c=0 d=0.1 t=428
+enchsyb 	目标离	c=0 d=0.1 t=783
+enchsyk 	目标识别	c=0 d=0.1 t=40
+enchtbg 	频繁出现	c=0 d=0.1 t=6091
+enchtbm 	频繁出	c=0 d=0.1 t=6090
+enchtgi 	此处不	c=0 d=0.1 t=5833
+enchtil 	此处添加	c=0 d=0.1 t=5874
+enchtsh 	些我想	c=0 d=0.1 t=84
+enchtst 	些我想利	c=0 d=0.1 t=85
+enchujg 	步问题	c=0 d=0.1 t=3843
+enchuwe 	目前仍	c=0 d=0.1 t=6776
+enchuyy 	目前该	c=1 d=1 t=3294
+enchvid 	目录没有	c=0 d=0.1 t=6422
+enchvim 	目录没	c=0 d=0.1 t=6421
+enchvjg 	目录是	c=0 d=0.1 t=6224
+enchvjg 	目录是否	c=0 d=0.1 t=6225
+enchvkf 	目录中却	c=0 d=0.1 t=6210
+enchvkh 	目录中	c=0 d=0.1 t=6209
+enchvlb 	目录车队	c=0 d=0.1 t=2485
+enchvrq 	目录的	c=0 d=0.1 t=6240
+enchwdc 	上代码	c=0 d=0.1 t=7072
+enchwet 	上使用	c=0 d=0.1 t=2760
+enchwfc 	此分支	c=0 d=0.1 t=5892
+enchwgb 	上传到了	c=0 d=0.1 t=6173
+enchwgc 	上传到	c=0 d=0.1 t=6172
+enchwkg 	此信号	c=0 d=0.1 t=1476
+enchwkw 	此信号会	c=0 d=0.1 t=1477
+enchwnd 	上修改在	c=0 d=0.1 t=7047
+enchwnt 	上修改	c=0 d=0.1 t=7046
+enchwrq 	具体的	c=1 d=1 t=554
+enchwrw 	具体操作	c=0 d=0.1 t=2751
+enchwsb 	具分析出	c=1 d=1 t=3125
+enchwuj 	具体问题	c=0 d=0.1 t=3480
+enchwwd 	具体代码	c=0 d=0.1 t=5826
+enchxjf 	此时	c=0 d=0.1 t=3927
+enchxod 	此类	c=0 d=0.1 t=4421
+enchxrq 	些的	c=0 d=0.1 t=768
+enchxth 	此处	c=0 d=0.1 t=5873
+enchxtr 	些我	c=0 d=0.1 t=83
+enchyor 	点迹数据	c=0 d=0.1 t=5210
+encidab 	没有获取	c=0 d=0.1 t=3931
+encidgd 	没有正确	c=0 d=0.1 t=3145
+encidhd 	没有上面	c=0 d=0.1 t=5298
+encidhh 	没有上	c=0 d=0.1 t=5297
+encidng 	没有收到	c=0 d=0.1 t=5141
+encidnh 	没有收	c=0 d=0.1 t=5140
+encidny 	没有以	c=0 d=0.1 t=2965
+encidrf 	没有挂载	c=0 d=0.1 t=6423
+encidrq 	当有按键	c=0 d=0.1 t=2386
+encidrr 	没有抓	c=0 d=0.1 t=6213
+encidrr 	没有抓拍	c=0 d=0.1 t=6214
+enciduj 	没有问题	c=0 d=0.1 t=6712
+encidut 	没有关系	c=0 d=0.1 t=5259
+encidwn 	没有修改	c=0 d=0.1 t=6782
+encidwt 	没有什么	c=0 d=0.1 t=4188
+encidyi 	没有就	c=0 d=0.1 t=347
+encidyt 	没有就算	c=0 d=0.1 t=348
+enciefs 	涉及需要	c=0 d=0.1 t=1354
+enciegq 	涉及互锁	c=0 d=0.1 t=4340
+enciegx 	涉及互	c=0 d=0.1 t=4339
+encierq 	涉及的	c=0 d=0.1 t=522
+encifdc 	法友	c=1 d=1 t=5570
+encifqe 	法触	c=0 d=0.1 t=5769
+encifth 	法进入此	c=0 d=0.1 t=5891
+encifty 	法进入	c=0 d=0.1 t=5890
+encihab 	小节	c=0 d=0.1 t=7376
+encihjf 	小时	c=0 d=0.1 t=7588
+encihnt 	小改	c=0 d=0.1 t=4566
+encijii 	混水	c=0 d=0.1 t=5844
+encijkk 	浏览器	c=0 d=0.1 t=5688
+encijrq 	清晰的	c=0 d=0.1 t=926
+encijuj 	没时间	c=0 d=0.1 t=7473
+encikan 	测跑世	c=0 d=0.1 t=5106
+encikhp 	测距肯定	c=0 d=0.1 t=5171
+encikjf 	测距时	c=0 d=0.1 t=4936
+encikni 	测距异常	c=0 d=0.1 t=4985
+encikor 	测距数据	c=0 d=0.1 t=5320
+encikrg 	测距后	c=0 d=0.1 t=5487
+encikrm 	测距失败	c=0 d=0.1 t=5330
+enciksa 	测距模式	c=0 d=0.1 t=5072
+enciksc 	测距校验	c=0 d=0.1 t=5364
+encilon 	添加断	c=0 d=0.1 t=5875
+encimaw 	注册其他	c=0 d=0.1 t=4485
+encimde 	没有	c=0 d=0.1 t=6781
+encimkh 	测距	c=0 d=0.1 t=4749
+encimpd 	注册完成	c=0 d=0.1 t=1430
+encimpf 	注册完	c=0 d=0.1 t=1429
+encimrq 	常见的	c=0 d=0.1 t=2923
+encimrs 	没打	c=0 d=0.1 t=242
+encimuj 	常见问题	c=0 d=0.1 t=7263
+encimvf 	没那	c=0 d=0.1 t=5165
+encinfc 	小改动	c=0 d=0.1 t=4567
+encingm 	少发现	c=0 d=0.1 t=5603
+encingy 	少发现这	c=0 d=0.1 t=5604
+enciotl 	当业务	c=0 d=0.1 t=1433
+encipmq 	常见	c=0 d=0.1 t=7262
+enciptr 	常我	c=0 d=0.1 t=4690
+enciqnt 	法触发	c=0 d=0.1 t=5770
+enciqny 	法触发就	c=0 d=0.1 t=5771
+encirik 	当探测器	c=0 d=0.1 t=4444
+encirim 	当探测	c=0 d=0.1 t=4443
+encisjg 	清楚是	c=0 d=0.1 t=4309
+encisjk 	清楚是哪	c=0 d=0.1 t=4310
+encisrq 	清楚的	c=0 d=0.1 t=7321
+encitda 	消息成功	c=1 d=1 t=4746
+encitdg 	流程大致	c=0 d=0.1 t=4470
+encitdh 	流程在	c=0 d=0.1 t=4546
+encitft 	流程进行	c=0 d=0.1 t=1332
+encitgh 	消息下	c=0 d=0.1 t=6492
+encitgn 	流程与	c=0 d=0.1 t=6663
+encitgn 	消息下发	c=0 d=0.1 t=6493
+encitii 	消息混流	c=0 d=0.1 t=5855
+encitij 	消息混	c=1 d=1 t=5854
+encitjf 	消息时	c=1 d=1 t=4465
+encitjg 	流程是	c=0 d=0.1 t=6243
+encitjg 	消息是	c=0 d=0.1 t=4074
+encitjr 	消息是按	c=0 d=0.1 t=3948
+encitjy 	流程是这	c=0 d=0.1 t=6244
+encitkh 	流程中	c=0 d=0.1 t=687
+encitkh 	消息中	c=1 d=1 t=6455
+encitkr 	消息中的	c=0 d=0.1 t=6456
+encitne 	消息以及	c=0 d=0.1 t=6999
+encitnt 	少发	c=0 d=0.1 t=5602
+encitny 	消息以	c=0 d=0.1 t=6998
+encitpt 	消息被丢	c=0 d=0.1 t=4042
+encitpu 	消息被	c=1 d=1 t=4041
+encitqw 	消息包含	c=0 d=0.1 t=6566
+encitrg 	水延后	c=1 d=1 t=642
+encitrg 	消息后	c=1 d=1 t=4064
+encitrq 	消息的	c=1 d=1 t=584
+encittg 	消息处理	c=1 d=1 t=4871
+encitwh 	少个	c=0 d=0.1 t=1626
+encitwu 	常我们	c=0 d=0.1 t=4691
+encitww 	常我们会	c=0 d=0.1 t=4692
+encitxg 	流程结束	c=0 d=0.1 t=7027
+encityc 	当程序	c=0 d=0.1 t=3202
+enciujg 	当前是	c=0 d=0.1 t=6138
+enciuju 	当前是将	c=0 d=0.1 t=6139
+enciums 	当前内核	c=0 d=0.1 t=2058
+enciurj 	注意的是	c=0 d=0.1 t=405
+enciurq 	当前的	c=0 d=0.1 t=4669
+enciurq 	注意的	c=0 d=0.1 t=404
+enciuwg 	注意叙事	c=0 d=0.1 t=2715
+enciuyg 	当前主	c=0 d=0.1 t=661
+encivde 	当有	c=0 d=0.1 t=2385
+encivgf 	当于	c=1 d=1 t=3678
+encivtc 	没那么	c=0 d=0.1 t=5166
+encivty 	没那么这	c=0 d=0.1 t=5167
+enciwdc 	源代码	c=0 d=0.1 t=3148
+enciyjg 	尝试是	c=0 d=0.1 t=5680
+enciyjg 	尝试是否	c=0 d=0.1 t=5681
+enciyua 	尝试将其	c=0 d=0.1 t=3464
+enciyuq 	尝试将	c=0 d=0.1 t=3463
+encjaaa 	是警戒	c=0 d=0.1 t=588
+encjaft 	量或者	c=0 d=0.1 t=2950
+encjarh 	日期打卡	c=0 d=0.1 t=7507
+encjars 	日期打	c=0 d=0.1 t=7506
+encjawb 	是其他	c=0 d=0.1 t=3589
+encjaww 	是其他值	c=0 d=0.1 t=3590
+encjbih 	最小	c=0 d=0.1 t=4565
+encjbpu 	最初	c=0 d=0.1 t=1267
+encjbrg 	最后	c=0 d=0.1 t=6464
+encjbus 	最新	c=0 d=0.1 t=7075
+encjbwf 	时也会	c=0 d=0.1 t=2333
+encjbwn 	时也会发	c=0 d=0.1 t=2334
+encjbxt 	最终	c=0 d=0.1 t=6958
+encjcfd 	是通过在	c=0 d=0.1 t=1766
+encjcfp 	是通过	c=0 d=0.1 t=3330
+encjcft 	是通过向	c=0 d=0.1 t=3331
+encjcyi 	是对应	c=0 d=0.1 t=5155
+encjcyr 	是对应的	c=0 d=0.1 t=5156
+encjdar 	是成功的	c=0 d=0.1 t=6198
+encjdbo 	是在函数	c=0 d=0.1 t=6614
+encjddg 	是存在一	c=0 d=0.1 t=3886
+encjddh 	是存在	c=0 d=0.1 t=3885
+encjdhk 	是有点	c=0 d=0.1 t=4649
+encjdlr 	是在连接	c=0 d=0.1 t=1424
+encjdrk 	里面的另	c=0 d=0.1 t=3720
+encjdrq 	里面的	c=0 d=0.1 t=5536
+encjdst 	是在构造	c=0 d=0.1 t=4410
+encjdtm 	是面向	c=0 d=0.1 t=4596
+encjduj 	是有问题	c=0 d=0.1 t=3561
+encjduq 	是有效	c=0 d=0.1 t=5337
+encjdur 	是有效的	c=0 d=0.1 t=5338
+encjdyj 	是在这里	c=0 d=0.1 t=1019
+encjdyp 	是在这	c=0 d=0.1 t=5870
+encjeeg 	是采用与	c=0 d=0.1 t=4803
+encjeet 	是采用	c=0 d=0.1 t=4802
+encjefl 	明雷	c=0 d=0.1 t=3399
+encjejg 	明是	c=0 d=0.1 t=6709
+encjexu 	电脑终端	c=0 d=0.1 t=7061
+encjfaf 	显示某	c=0 d=0.1 t=1441
+encjfbn 	时也	c=0 d=0.1 t=2332
+encjfdm 	里面	c=0 d=0.1 t=5535
+encjfdp 	明雷达	c=0 d=0.1 t=3400
+encjfgi 	时还	c=0 d=0.1 t=3928
+encjfgi 	里不	c=0 d=0.1 t=5555
+encjfgm 	时再	c=0 d=0.1 t=4393
+encjfit 	显示流程	c=0 d=0.1 t=1691
+encjfjg 	显示是	c=0 d=0.1 t=1531
+encjfjg 	显示是下	c=0 d=0.1 t=232
+encjfjg 	里是	c=0 d=0.1 t=4147
+encjfjs 	显示是本	c=0 d=0.1 t=1532
+encjfkw 	里只	c=0 d=0.1 t=6743
+encjfpr 	是真实的	c=0 d=0.1 t=3640
+encjfrh 	是却看	c=0 d=0.1 t=5006
+encjfrq 	日志打印	c=0 d=0.1 t=7288
+encjfrq 	显示的	c=0 d=0.1 t=1456
+encjfrq 	里的	c=0 d=0.1 t=6581
+encjfru 	是直接	c=0 d=0.1 t=6072
+encjfsv 	时要	c=0 d=0.1 t=2742
+encjfsv 	时需要	c=0 d=0.1 t=2729
+encjfsv 	是需要	c=0 d=0.1 t=5643
+encjfsv 	里需要	c=0 d=0.1 t=6543
+encjfsx 	是需要引	c=0 d=0.1 t=5644
+encjftg 	显示处理	c=0 d=0.1 t=1330
+encjfua 	日志并	c=0 d=0.1 t=6829
+encjfuq 	是无效	c=0 d=0.1 t=5323
+encjfur 	是无效的	c=0 d=0.1 t=5324
+encjfwf 	时会	c=0 d=0.1 t=2587
+encjfyt 	显示设备	c=0 d=0.1 t=1360
+encjgaa 	是工	c=0 d=0.1 t=571
+encjgbq 	昨天了解	c=0 d=0.1 t=7203
+encjgce 	是不能	c=0 d=0.1 t=55
+encjgce 	是能	c=0 d=0.1 t=3976
+encjgce 	是通	c=0 d=0.1 t=3329
+encjgcf 	是对	c=0 d=0.1 t=1575
+encjgcr 	是不能按	c=0 d=0.1 t=56
+encjgdd 	是否存在	c=0 d=0.1 t=3459
+encjgde 	是否有	c=0 d=0.1 t=6501
+encjgde 	是有	c=0 d=0.1 t=5336
+encjgde 	电平有	c=0 d=0.1 t=1646
+encjgdh 	是否存	c=0 d=0.1 t=3458
+encjgdh 	是在	c=0 d=0.1 t=6613
+encjgdh 	是存	c=0 d=0.1 t=3884
+encjgdm 	是下面	c=0 d=0.1 t=5214
+encjgdr 	是下面的	c=0 d=0.1 t=5215
+encjgdu 	电平有效	c=0 d=0.1 t=1647
+encjgfc 	是却	c=0 d=0.1 t=5005
+encjgff 	昨天过去	c=0 d=0.1 t=71
+encjgfp 	昨天过	c=0 d=0.1 t=70
+encjgfq 	是无	c=0 d=0.1 t=5322
+encjggd 	是否正确	c=0 d=0.1 t=6760
+encjggg 	是否一	c=0 d=0.1 t=6497
+encjggg 	是否一致	c=0 d=0.1 t=6498
+encjggh 	是下	c=0 d=0.1 t=5213
+encjggh 	是否下	c=0 d=0.1 t=6433
+encjggi 	是不	c=0 d=0.1 t=54
+encjggi 	是否	c=0 d=0.1 t=6797
+encjggi 	是否正常	c=0 d=0.1 t=6798
+encjggi 	量不	c=0 d=0.1 t=1467
+encjggm 	里不再	c=0 d=0.1 t=3508
+encjggn 	是否下发	c=0 d=0.1 t=6434
+encjggr 	是下班打	c=0 d=0.1 t=234
+encjggy 	是下班	c=0 d=0.1 t=233
+encjggy 	是否开启	c=0 d=0.1 t=2593
+encjghh 	是否上	c=0 d=0.1 t=6170
+encjghw 	是否上传	c=0 d=0.1 t=6171
+encjgid 	时还没有	c=0 d=0.1 t=3930
+encjgim 	时还没	c=0 d=0.1 t=3929
+encjgim 	是没	c=0 d=0.1 t=6710
+encjgip 	是正常	c=0 d=0.1 t=3516
+encjgir 	是正常的	c=0 d=0.1 t=3517
+encjgjf 	是里	c=0 d=0.1 t=4143
+encjgjg 	是不是	c=0 d=0.1 t=53
+encjgjg 	是不是不	c=0 d=0.1 t=54
+encjgjh 	昨天早	c=0 d=0.1 t=7360
+encjgjh 	昨天早上	c=0 d=0.1 t=7361
+encjgkh 	量不足	c=0 d=0.1 t=1468
+encjgkj 	量不足时	c=0 d=0.1 t=1469
+encjgkm 	是不员	c=0 d=0.1 t=1862
+encjgkv 	是哪	c=0 d=0.1 t=4310
+encjgld 	是因	c=0 d=0.1 t=3860
+encjgmh 	是由	c=0 d=0.1 t=2134
+encjgng 	是否收到	c=0 d=0.1 t=5808
+encjgnh 	是否收	c=0 d=0.1 t=5807
+encjgni 	是否异常	c=0 d=0.1 t=3367
+encjgny 	是以	c=0 d=0.1 t=3831
+encjgpg 	是写	c=0 d=0.1 t=96
+encjgpp 	是之	c=0 d=0.1 t=5529
+encjgrf 	是否挂载	c=0 d=0.1 t=6226
+encjgrg 	明天看一	c=0 d=0.1 t=328
+encjgrh 	明天看	c=0 d=0.1 t=327
+encjgrp 	是否按	c=0 d=0.1 t=6474
+encjgrp 	是按	c=0 d=0.1 t=7441
+encjgrq 	是的	c=0 d=0.1 t=6606
+encjgru 	是接	c=0 d=0.1 t=5280
+encjgsg 	是本	c=0 d=0.1 t=3713
+encjgsk 	是可	c=0 d=0.1 t=21
+encjgsv 	是否要	c=0 d=0.1 t=5682
+encjgtk 	是和	c=0 d=0.1 t=2284
+encjgtr 	是我	c=0 d=0.1 t=221
+encjgtv 	是很	c=0 d=0.1 t=6736
+encjgtx 	是第	c=0 d=0.1 t=4503
+encjguq 	是将	c=0 d=0.1 t=6139
+encjgwf 	是会	c=0 d=0.1 t=5175
+encjgwh 	明整个	c=0 d=0.1 t=1394
+encjgwj 	是但	c=0 d=0.1 t=5765
+encjgwq 	是像	c=0 d=0.1 t=5306
+encjgww 	是从	c=0 d=0.1 t=730
+encjgwy 	是偏	c=0 d=0.1 t=3851
+encjgxc 	是经	c=0 d=0.1 t=5218
+encjgyg 	是主	c=0 d=0.1 t=592
+encjgyk 	是否充足	c=0 d=0.1 t=3272
+encjgyp 	是这	c=0 d=0.1 t=6244
+encjgyp 	遇到这	c=0 d=0.1 t=5661
+encjgyt 	遇到这种	c=0 d=0.1 t=5662
+encjgyu 	是说	c=0 d=0.1 t=4259
+encjgyy 	是该	c=0 d=0.1 t=2194
+encjhdu 	早上碰	c=0 d=0.1 t=7362
+encjhhh 	早上	c=0 d=0.1 t=7361
+encjhim 	早上没	c=0 d=0.1 t=241
+encjhir 	早上没打	c=0 d=0.1 t=242
+encjide 	是没有	c=0 d=0.1 t=6711
+encjigc 	监测到	c=0 d=0.1 t=1462
+encjigw 	监测到低	c=0 d=0.1 t=1463
+encjinf 	最小改动	c=0 d=0.1 t=4567
+encjint 	最小改	c=0 d=0.1 t=4566
+encjitg 	电源管理	c=0 d=0.1 t=1294
+encjjgi 	电量不	c=0 d=0.1 t=3268
+encjjgk 	电量不足	c=0 d=0.1 t=1522
+encjjid 	明是没有	c=0 d=0.1 t=6711
+encjjim 	明是没	c=0 d=0.1 t=6710
+encjjjf 	里是里	c=0 d=0.1 t=4143
+encjjjg 	是里是	c=0 d=0.1 t=4144
+encjjjj 	里是里是	c=0 d=0.1 t=4144
+encjjrq 	临时的	c=0 d=0.1 t=7049
+encjjts 	临时版本	c=0 d=0.1 t=7078
+encjjwg 	电量依赖	c=0 d=0.1 t=3286
+encjjyk 	电量充足	c=0 d=0.1 t=3299
+encjkwh 	是哪个	c=0 d=0.1 t=4311
+encjlpg 	是固定	c=0 d=0.1 t=2313
+encjlpr 	是固定的	c=0 d=0.1 t=2314
+encjlyi 	是因为没	c=0 d=0.1 t=2963
+encjlyl 	是因为	c=0 d=0.1 t=3861
+encjngh 	是以下	c=0 d=0.1 t=3832
+encjngr 	是以下的	c=0 d=0.1 t=3833
+encjngu 	电平	c=0 d=0.1 t=1645
+encjnip 	是异常	c=0 d=0.1 t=1205
+encjnjg 	电量	c=0 d=0.1 t=1466
+encjprq 	最初的	c=0 d=0.1 t=1268
+encjpue 	是之前	c=0 d=0.1 t=5530
+encjpuh 	是之前旧	c=0 d=0.1 t=5531
+encjpuq 	是写交	c=0 d=0.1 t=97
+encjpur 	是写交接	c=0 d=0.1 t=98
+encjqcf 	是针对	c=0 d=0.1 t=5269
+encjqcs 	是针对本	c=0 d=0.1 t=5270
+encjrfa 	明挂载	c=0 d=0.1 t=6284
+encjrfj 	明挂载是	c=0 d=0.1 t=6285
+encjrgg 	最后一	c=0 d=0.1 t=2191
+encjrgh 	最后一步	c=0 d=0.1 t=1212
+encjrgm 	最后再	c=0 d=0.1 t=6465
+encjrgw 	最后一个	c=0 d=0.1 t=2192
+encjrik 	时探测器	c=0 d=0.1 t=3660
+encjrik 	是探测器	c=0 d=0.1 t=1277
+encjrim 	时探测	c=0 d=0.1 t=3659
+encjrim 	是探测	c=0 d=0.1 t=1276
+encjrim 	里的注册	c=0 d=0.1 t=1420
+encjrjd 	里的是在	c=0 d=0.1 t=1017
+encjrjg 	里的是	c=0 d=0.1 t=1016
+encjrkt 	里的路径	c=0 d=0.1 t=6582
+encjrng 	是接收到	c=0 d=0.1 t=5282
+encjrnh 	是接收	c=0 d=0.1 t=5281
+encjrrh 	是按打卡	c=0 d=0.1 t=7443
+encjrrl 	是的返回	c=0 d=0.1 t=6607
+encjrrq 	里的打印	c=0 d=0.1 t=6385
+encjrrs 	是按打	c=0 d=0.1 t=7442
+encjrsf 	监控模块	c=0 d=0.1 t=1385
+encjrtg 	里的处理	c=0 d=0.1 t=1154
+encjrwl 	是按位置	c=0 d=0.1 t=3949
+encjryt 	里的设备	c=0 d=0.1 t=2279
+encjscf 	是本对	c=0 d=0.1 t=3714
+encjsnr 	是可以的	c=0 d=0.1 t=23
+encjsny 	是可以	c=0 d=0.1 t=22
+encjsrh 	时根据上	c=0 d=0.1 t=1471
+encjsrn 	时根据	c=0 d=0.1 t=1470
+encjsrn 	是模拟	c=0 d=0.1 t=3644
+encjsrr 	是模拟的	c=0 d=0.1 t=3645
+encjsur 	是标准的	c=0 d=0.1 t=2045
+encjsuw 	是标准	c=0 d=0.1 t=2044
+encjtcf 	是和驱动	c=0 d=0.1 t=2285
+encjtgg 	是第一	c=0 d=0.1 t=4504
+encjtgg 	是管理平	c=0 d=0.1 t=6202
+encjtgj 	是管理	c=0 d=0.1 t=6201
+encjtgu 	是第一次	c=0 d=0.1 t=4505
+encjttf 	时等待	c=0 d=0.1 t=3575
+encjtwg 	是我今天	c=0 d=0.1 t=222
+encjude 	时间有	c=0 d=0.1 t=2289
+encjudu 	时间有关	c=0 d=0.1 t=2290
+encjufa 	时间考勤	c=0 d=0.1 t=7445
+encjugj 	时间更	c=0 d=0.1 t=381
+encjugo 	时间来	c=0 d=0.1 t=91
+encjugu 	时间更新	c=0 d=0.1 t=382
+encjugw 	时间来做	c=0 d=0.1 t=92
+encjung 	时间收到	c=0 d=0.1 t=5747
+encjunh 	时间收	c=0 d=0.1 t=5746
+encjuru 	时间提交	c=0 d=0.1 t=7474
+encjutf 	里首先	c=0 d=0.1 t=1031
+encjutk 	时间和	c=0 d=0.1 t=7457
+encjuwd 	时间段	c=0 d=0.1 t=7509
+encjuwi 	时间段小	c=0 d=0.1 t=7510
+encjvjg 	是如果不	c=0 d=0.1 t=5629
+encjvjs 	是如果	c=0 d=0.1 t=5628
+encjvra 	是寻找	c=0 d=0.1 t=3704
+encjvrp 	是寻找它	c=0 d=0.1 t=3705
+encjvyc 	里建议对	c=0 d=0.1 t=4365
+encjvyy 	里建议	c=0 d=0.1 t=4364
+encjwce 	时候能	c=0 d=0.1 t=4685
+encjwcq 	时候能够	c=0 d=0.1 t=4686
+encjwet 	是使用	c=0 d=0.1 t=3988
+encjwgd 	是像下面	c=0 d=0.1 t=5308
+encjwgh 	是像下	c=0 d=0.1 t=5307
+encjwgs 	是偏理想	c=0 d=0.1 t=3852
+encjwrm 	是会失败	c=0 d=0.1 t=5176
+encjwty 	时候程序	c=0 d=0.1 t=4171
+encjwuo 	时会判断	c=0 d=0.1 t=2588
+encjwva 	明登录某	c=0 d=0.1 t=5652
+encjwvf 	里创建	c=0 d=0.1 t=1020
+encjwvi 	明登录	c=0 d=0.1 t=5651
+encjwvr 	里创建的	c=0 d=0.1 t=1021
+encjwwg 	时候合	c=0 d=0.1 t=4164
+encjwyt 	是从设备	c=0 d=0.1 t=731
+encjxfj 	最终都是	c=0 d=0.1 t=1683
+encjxft 	最终都	c=0 d=0.1 t=1682
+encjxge 	明细表	c=0 d=0.1 t=7486
+encjxgw 	明细表华	c=0 d=0.1 t=7487
+encjxlu 	是比较	c=0 d=0.1 t=5372
+encjxrq 	最终的	c=0 d=0.1 t=1529
+encjxtg 	是经处理	c=0 d=0.1 t=5219
+encjxtk 	里线程	c=0 d=0.1 t=1007
+encjxtr 	里线程的	c=0 d=0.1 t=1008
+encjyrq 	是该按键	c=0 d=0.1 t=2195
+encjysr 	是这样的	c=0 d=0.1 t=6246
+encjysu 	是这样	c=0 d=0.1 t=6245
+encjytl 	是设备	c=0 d=0.1 t=3220
+encjytt 	是设备自	c=0 d=0.1 t=3221
+encjyyt 	是主设备	c=0 d=0.1 t=593
+enckarp 	器工控	c=0 d=0.1 t=2768
+enckars 	器工控板	c=0 d=0.1 t=2769
+enckauj 	距期间	c=0 d=0.1 t=5137
+enckcye 	中又调用	c=0 d=0.1 t=4276
+enckddg 	只存在两	c=0 d=0.1 t=3261
+enckddh 	只存在	c=0 d=0.1 t=3260
+enckdgg 	只有一	c=0 d=0.1 t=3801
+enckdyf 	只有主雷	c=0 d=0.1 t=439
+enckdyg 	只有主	c=0 d=0.1 t=438
+enckfid 	中却没有	c=0 d=0.1 t=6212
+enckfim 	中却没	c=0 d=0.1 t=6211
+enckfjf 	器超时	c=0 d=0.1 t=1796
+enckfru 	中直接	c=0 d=0.1 t=3616
+enckfsd 	只需要在	c=0 d=0.1 t=4290
+enckfsv 	只需要	c=0 d=0.1 t=5383
+enckfsv 	员需要	c=0 d=0.1 t=5453
+enckftf 	中运行	c=0 d=0.1 t=6258
+enckftf 	员进行	c=0 d=0.1 t=7012
+enckftw 	中运行命	c=0 d=0.1 t=6259
+enckggn 	器与与	c=0 d=0.1 t=4586
+enckgrq 	器下的	c=0 d=0.1 t=2621
+enckgtf 	号等	c=0 d=0.1 t=5715
+enckgwh 	哪一个	c=0 d=0.1 t=364
+enckhad 	距期	c=0 d=0.1 t=5136
+enckhan 	跑世	c=1 d=1 t=5106
+enckhbn 	中也	c=0 d=0.1 t=7350
+enckhcc 	中又	c=0 d=0.1 t=4275
+enckhfc 	中却	c=0 d=0.1 t=6210
+enckhjf 	足时	c=0 d=0.1 t=2980
+enckhjf 	距时	c=0 d=0.1 t=4936
+enckhjg 	中是	c=0 d=0.1 t=833
+enckhkw 	中只	c=0 d=0.1 t=3256
+enckhny 	中心	c=0 d=0.1 t=2526
+enckhpg 	距肯定	c=0 d=0.1 t=5171
+enckhpu 	中被	c=0 d=0.1 t=1787
+enckhrb 	器上报	c=0 d=0.1 t=6992
+enckhrq 	中的	c=0 d=0.1 t=5704
+enckhrr 	器上报的	c=0 d=0.1 t=6993
+enckhtq 	中移	c=0 d=0.1 t=4349
+enckhwx 	中华	c=0 d=0.1 t=7540
+enckhyi 	中应	c=0 d=0.1 t=4941
+enckhyl 	足为	c=0 d=0.1 t=1510
+enckjce 	中是通	c=0 d=0.1 t=834
+enckjcf 	中是通过	c=0 d=0.1 t=835
+enckjdm 	器里面	c=0 d=0.1 t=3718
+enckjdr 	器里面的	c=0 d=0.1 t=3719
+enckjgi 	器是否	c=0 d=0.1 t=5806
+enckjgn 	器是否收	c=0 d=0.1 t=5807
+enckjsr 	足时根据	c=0 d=0.1 t=1470
+enckkaa 	器工	c=0 d=0.1 t=2767
+enckkfh 	器超	c=0 d=0.1 t=1795
+enckkgh 	器下	c=0 d=0.1 t=2620
+enckkgn 	器与	c=0 d=0.1 t=4585
+enckkhh 	器上	c=0 d=0.1 t=6991
+enckkhs 	跟踪目标	c=0 d=0.1 t=864
+enckkjf 	器里	c=0 d=0.1 t=3717
+enckkjg 	器是	c=0 d=0.1 t=5805
+enckkkh 	器中	c=0 d=0.1 t=5081
+enckknh 	器收	c=0 d=0.1 t=4445
+enckkpf 	器完	c=0 d=0.1 t=1226
+enckkrp 	器按	c=0 d=0.1 t=5090
+enckkrq 	器的	c=0 d=0.1 t=4454
+enckkyi 	器就	c=0 d=0.1 t=3661
+encklqh 	另外	c=0 d=0.1 t=4450
+encklwr 	器软件	c=0 d=0.1 t=5740
+encklww 	器软件会	c=0 d=0.1 t=5741
+enckmkg 	路由器下	c=0 d=0.1 t=2620
+enckmkk 	路由器	c=0 d=0.1 t=2619
+encknce 	中心通	c=0 d=0.1 t=2611
+enckncf 	中心通过	c=0 d=0.1 t=2612
+enckngc 	器收到	c=0 d=0.1 t=4446
+encknip 	距异常	c=0 d=0.1 t=4985
+encknjg 	中心是	c=0 d=0.1 t=2591
+encknjg 	中心是否	c=0 d=0.1 t=2592
+enckntk 	中心各	c=0 d=0.1 t=2599
+encknxc 	中已经	c=0 d=0.1 t=2362
+encknxd 	中已经有	c=0 d=0.1 t=2363
+enckorj 	距数据是	c=0 d=0.1 t=5321
+enckorn 	距数据	c=0 d=0.1 t=5320
+enckpdb 	器完成了	c=0 d=0.1 t=1228
+enckpdn 	器完成	c=0 d=0.1 t=1227
+enckpwv 	中被创建	c=0 d=0.1 t=1788
+enckpyb 	中定义了	c=0 d=0.1 t=1595
+enckpyq 	中定义	c=0 d=0.1 t=1594
+enckqaf 	另外某	c=0 d=0.1 t=4451
+enckqgg 	另外一	c=0 d=0.1 t=3722
+enckqgw 	另外一个	c=0 d=0.1 t=3723
+enckqwg 	中包含一	c=0 d=0.1 t=1770
+enckqwy 	中包含	c=0 d=0.1 t=6701
+enckqwy 	中包含这	c=0 d=0.1 t=6702
+enckqwy 	只包含	c=0 d=0.1 t=7604
+enckraf 	中的某	c=0 d=0.1 t=3179
+enckraw 	中的某个	c=0 d=0.1 t=3180
+enckrfg 	中的元素	c=0 d=0.1 t=2107
+enckrgb 	中携带了	c=0 d=0.1 t=3752
+enckrgk 	中携带	c=0 d=0.1 t=3751
+enckrlr 	器的连接	c=0 d=0.1 t=4139
+enckrmt 	距失败	c=0 d=0.1 t=5330
+enckrrd 	中的所有	c=0 d=0.1 t=2630
+enckrrn 	中的所	c=0 d=0.1 t=2629
+enckrrw 	中的摄像	c=0 d=0.1 t=5705
+enckrwh 	器的个	c=0 d=0.1 t=4455
+encksaa 	距模式	c=0 d=0.1 t=5072
+encksar 	距模式后	c=0 d=0.1 t=5073
+enckscw 	距校验	c=0 d=0.1 t=5364
+encksde 	只要有	c=0 d=0.1 t=5238
+encksdg 	只要有一	c=0 d=0.1 t=5239
+encksfd 	只要雷达	c=0 d=0.1 t=5051
+encksfl 	只要雷	c=0 d=0.1 t=5050
+encktbj 	路径也是	c=0 d=0.1 t=6612
+encktbm 	中移出	c=0 d=0.1 t=4350
+encktbn 	路径也	c=0 d=0.1 t=6611
+encktey 	路径及	c=0 d=0.1 t=6577
+encktgf 	器处理靐	c=0 d=0.1 t=575
+encktgf 	路径一起	c=0 d=0.1 t=288
+encktgg 	路径一	c=0 d=0.1 t=287
+encktgj 	员处理	c=0 d=0.1 t=6849
+encktgj 	器处理	c=0 d=0.1 t=574
+encktgy 	路径开放	c=0 d=0.1 t=6482
+encktid 	路径没有	c=0 d=0.1 t=6297
+encktim 	路径没	c=0 d=0.1 t=6296
+encktjf 	路径里	c=0 d=0.1 t=884
+encktjg 	号等是	c=0 d=0.1 t=5716
+encktnt 	路径发	c=0 d=0.1 t=200
+encktwt 	路径信息	c=0 d=0.1 t=6329
+encktyl 	路径为	c=0 d=0.1 t=6622
+encktyp 	路径为空	c=0 d=0.1 t=6623
+enckudy 	足状态	c=0 d=0.1 t=1523
+enckuyw 	中间文件	c=0 d=0.1 t=6793
+enckvgg 	哪一	c=0 d=0.1 t=722
+enckvwh 	哪个	c=0 d=0.1 t=4311
+enckwde 	只有	c=0 d=0.1 t=3800
+enckwdh 	只存	c=0 d=0.1 t=3259
+enckwet 	中华腾微	c=0 d=0.1 t=7542
+enckweu 	中华腾	c=0 d=0.1 t=7541
+enckwsv 	只要	c=0 d=0.1 t=5237
+enckwth 	器信息	c=0 d=0.1 t=4488
+enckwvi 	器登录	c=0 d=0.1 t=5689
+enckxub 	器终端子	c=0 d=0.1 t=2489
+enckxug 	器终端与	c=0 d=0.1 t=3356
+enckxum 	器终端	c=0 d=0.1 t=3355
+enckxur 	器终端的	c=0 d=0.1 t=2560
+enckybc 	中读取	c=0 d=0.1 t=3025
+enckyce 	中应能	c=0 d=0.1 t=4942
+enckycr 	中应能看	c=0 d=0.1 t=4943
+enckyeb 	中调用了	c=0 d=0.1 t=4265
+enckyet 	中调用	c=0 d=0.1 t=4264
+enckyfg 	距离远一	c=0 d=0.1 t=766
+enckyfq 	距离远	c=0 d=0.1 t=765
+enckygn 	距离与	c=0 d=0.1 t=488
+enckylf 	中设置	c=0 d=0.1 t=6616
+enckylr 	中设置的	c=0 d=0.1 t=6617
+enckysb 	中详述了	c=0 d=0.1 t=7226
+enckysy 	中详述	c=0 d=0.1 t=7225
+enckytl 	器设备	c=0 d=0.1 t=5273
+enckytr 	器设备的	c=0 d=0.1 t=5274
+enckywg 	足为例	c=0 d=0.1 t=1511
+enckyyy 	中文语言	c=0 d=0.1 t=7594
+enclarp 	回若按	c=0 d=0.1 t=4667
+enclbri 	车队探测	c=0 d=0.1 t=2486
+enclbrq 	输出的	c=0 d=0.1 t=6264
+enclbtx 	车队系统	c=0 d=0.1 t=7229
+enclbuk 	车队产品	c=0 d=0.1 t=2508
+encldyl 	因为	c=0 d=0.1 t=5381
+enclemq 	辅助网	c=0 d=0.1 t=2532
+enclfrq 	加载的	c=0 d=0.1 t=2295
+enclfyo 	转变	c=0 d=0.1 t=473
+enclgbn 	回到了	c=0 d=0.1 t=1198
+enclgit 	回到流程	c=0 d=0.1 t=686
+enclhuj 	四章	c=0 d=0.1 t=7532
+encling 	较少发现	c=0 d=0.1 t=5603
+enclint 	较少发	c=0 d=0.1 t=5602
+enclipg 	办法之一	c=0 d=0.1 t=4797
+enclipp 	办法之	c=0 d=0.1 t=4796
+enclkad 	回若	c=0 d=0.1 t=4666
+enclkgc 	回到	c=0 d=0.1 t=1197
+enclkgn 	思路与	c=0 d=0.1 t=1318
+enclkve 	回退	c=0 d=0.1 t=5427
+encllgg 	逻辑一	c=0 d=0.1 t=6007
+encllgt 	逻辑一般	c=0 d=0.1 t=6008
+encllrt 	图连接各	c=0 d=0.1 t=2516
+encllru 	图连接	c=0 d=0.1 t=2515
+enclluj 	逻辑问题	c=0 d=0.1 t=3189
+enclmlt 	连同图片	c=0 d=0.1 t=285
+enclpmg 	连同	c=0 d=0.1 t=284
+enclprq 	固定的	c=0 d=0.1 t=2314
+enclrbn 	连接了	c=0 d=0.1 t=2322
+enclrdh 	连接在	c=0 d=0.1 t=2614
+enclrhs 	连接目标	c=0 d=0.1 t=2764
+enclrjg 	连接是	c=0 d=0.1 t=3365
+enclrjg 	连接是否	c=0 d=0.1 t=3366
+enclrky 	转换距离	c=0 d=0.1 t=858
+enclrlk 	回返回	c=0 d=0.1 t=3379
+enclrnt 	连接恢复	c=0 d=0.1 t=3372
+enclrrq 	连接的	c=0 d=0.1 t=4598
+enclrtk 	连接各	c=0 d=0.1 t=2516
+enclrua 	转换并	c=0 d=0.1 t=893
+enclrut 	转换并得	c=0 d=0.1 t=894
+enclrwk 	连接信号	c=0 d=0.1 t=1425
+enclrwt 	连接信息	c=0 d=0.1 t=4140
+enclrwy 	暂停	c=0 d=0.1 t=4300
+enclryc 	转换为对	c=0 d=0.1 t=1500
+enclryl 	转换为	c=0 d=0.1 t=1499
+enclstj 	轻松得	c=0 d=0.1 t=5406
+encltft 	图片进行	c=0 d=0.1 t=6895
+encltgc 	图片至	c=0 d=0.1 t=177
+encltjg 	图片是	c=0 d=0.1 t=6168
+encltjg 	图片是否	c=0 d=0.1 t=6169
+encltkt 	图片路径	c=0 d=0.1 t=1076
+encltpp 	图片之	c=0 d=0.1 t=6517
+encltpr 	图片之后	c=0 d=0.1 t=6518
+encltrq 	回复的	c=0 d=0.1 t=1146
+encltrq 	图片的	c=0 d=0.1 t=881
+enclttu 	回复重新	c=0 d=0.1 t=1161
+encltxw 	回复给	c=0 d=0.1 t=6929
+encluen 	四章及以	c=0 d=0.1 t=7534
+encluey 	四章及	c=0 d=0.1 t=7533
+encluit 	较少	c=0 d=0.1 t=6740
+encluyl 	较为	c=0 d=0.1 t=1298
+enclvgc 	回退至	c=0 d=0.1 t=5428
+enclvgf 	回退至雷	c=0 d=0.1 t=5429
+enclwdh 	软件在	c=0 d=0.1 t=6319
+enclwrq 	软件的	c=0 d=0.1 t=2013
+enclwty 	暂停程序	c=0 d=0.1 t=4301
+enclwwd 	软件会在	c=0 d=0.1 t=5742
+enclwwf 	软件会	c=0 d=0.1 t=5741
+enclwyq 	轮询	c=0 d=0.1 t=2262
+enclyco 	默认参数	c=0 d=0.1 t=2117
+enclyff 	因为二者	c=0 d=0.1 t=1180
+enclyfg 	因为二	c=0 d=0.1 t=1179
+enclyid 	因为没有	c=0 d=0.1 t=2964
+enclyim 	因为没	c=0 d=0.1 t=2963
+enclyng 	因为收到	c=0 d=0.1 t=4716
+enclynh 	因为收	c=0 d=0.1 t=4715
+enclyqa 	因为错	c=0 d=0.1 t=4759
+enclyqf 	因为错过	c=0 d=0.1 t=4760
+enclytj 	因为我早	c=0 d=0.1 t=239
+enclytl 	置设备	c=0 d=0.1 t=2858
+enclytr 	因为我	c=0 d=0.1 t=238
+enclytu 	较为简单	c=0 d=0.1 t=1299
+enclyty 	置设备主	c=0 d=0.1 t=2859
+enclyvj 	因为如果	c=0 d=0.1 t=779
+enclyxu 	因为终端	c=0 d=0.1 t=2579
+enclyyl 	转变为	c=0 d=0.1 t=474
+encmant 	周期性	c=0 d=0.1 t=1913
+encmdrd 	则有所有	c=0 d=0.1 t=4537
+encmdrn 	则有所	c=0 d=0.1 t=4536
+encmfad 	周期	c=0 d=0.1 t=1912
+encmggg 	同一	c=0 d=0.1 t=1962
+encmghh 	同上	c=0 d=0.1 t=6673
+encmghi 	同步	c=0 d=0.1 t=7052
+encmght 	由于此处	c=0 d=0.1 t=5832
+encmghx 	由于此	c=0 d=0.1 t=5831
+encmgjf 	同时	c=0 d=0.1 t=3898
+encmgrq 	同的	c=0 d=0.1 t=1495
+encmgsm 	同机	c=0 d=0.1 t=186
+encmgsu 	同样	c=0 d=0.1 t=4807
+encmgwf 	赋值	c=0 d=0.1 t=6658
+encmgxt 	同一线程	c=0 d=0.1 t=1963
+encmhgc 	同步到	c=0 d=0.1 t=7053
+encmhgf 	由于	c=0 d=0.1 t=5830
+encmhuj 	同步问题	c=0 d=0.1 t=3843
+encmhyg 	由主	c=0 d=0.1 t=526
+encmjde 	则有	c=0 d=0.1 t=4535
+encmjgd 	内是否有	c=0 d=0.1 t=5037
+encmjgi 	内是否	c=0 d=0.1 t=5036
+encmjjg 	则是	c=0 d=0.1 t=5279
+encmjrn 	则是接收	c=0 d=0.1 t=5281
+encmjru 	则是接	c=0 d=0.1 t=5280
+encmjty 	则入	c=0 d=0.1 t=5729
+encmjuq 	则将	c=0 d=0.1 t=6625
+encmjwf 	则会	c=0 d=0.1 t=1848
+encmjyu 	则说	c=0 d=0.1 t=6282
+encmlth 	同图片	c=0 d=0.1 t=285
+encmpgn 	内容与	c=0 d=0.1 t=6410
+encmqrq 	见的	c=0 d=0.1 t=2923
+encmqxt 	网络	c=0 d=0.1 t=3370
+encmrde 	内所有	c=0 d=0.1 t=4135
+encmrqg 	则打印	c=0 d=0.1 t=5351
+encmrud 	同的状态	c=0 d=0.1 t=1496
+encmruj 	见的问题	c=0 d=0.1 t=2924
+encmscf 	内核驱动	c=0 d=0.1 t=2011
+encmsmi 	内核崩溃	c=0 d=0.1 t=2127
+encmspu 	内核空间	c=0 d=0.1 t=2032
+encmspw 	内核空	c=0 d=0.1 t=2031
+encmsrq 	同样的	c=0 d=0.1 t=4808
+encmsts 	内核版本	c=0 d=0.1 t=2072
+encmthi 	几步	c=0 d=0.1 t=5518
+encmtwh 	几个	c=0 d=0.1 t=6749
+encmtwv 	则入侵	c=0 d=0.1 t=5730
+encmujg 	见问题	c=0 d=0.1 t=7263
+encmuyy 	则将放弃	c=0 d=0.1 t=6626
+encmwhc 	几个步骤	c=0 d=0.1 t=118
+encmwjg 	内是	c=0 d=0.1 t=5035
+encmwob 	几个类出	c=0 d=0.1 t=4316
+encmwod 	几个类	c=0 d=0.1 t=4315
+encmwrn 	内所	c=0 d=0.1 t=4134
+encmwrs 	几个排查	c=0 d=0.1 t=6750
+encmwye 	则会调用	c=0 d=0.1 t=1850
+encmwym 	则会调	c=0 d=0.1 t=1849
+encmxlr 	网络连接	c=0 d=0.1 t=3371
+encmxrr 	网络拓扑	c=0 d=0.1 t=2513
+encmxyt 	网络设备	c=0 d=0.1 t=2536
+encmycf 	则该驱动	c=0 d=0.1 t=2079
+encmyje 	则说明	c=0 d=0.1 t=6283
+encmyjf 	则说明雷	c=0 d=0.1 t=5897
+encmytl 	则设备	c=0 d=0.1 t=2302
+encmyyt 	由主设备	c=0 d=0.1 t=527
+encmyyy 	则应该	c=0 d=0.1 t=5776
+encnaer 	民遥	c=1 d=1 t=6979
+encnafi 	展示	c=0 d=0.1 t=7006
+encnaga 	展开	c=0 d=0.1 t=5573
+encnapj 	以其实是	c=0 d=0.1 t=4647
+encnapu 	以其实	c=0 d=0.1 t=4646
+encnawb 	发其他	c=0 d=0.1 t=3062
+encnbbg 	以防出现	c=0 d=0.1 t=4419
+encnbbm 	以防出	c=0 d=0.1 t=4418
+encnbhh 	发了上	c=0 d=0.1 t=6436
+encnbhs 	发了上述	c=0 d=0.1 t=6437
+encnbit 	发出消息	c=0 d=0.1 t=3742
+encncfd 	以通过在	c=0 d=0.1 t=6042
+encncfp 	以通过	c=0 d=0.1 t=6041
+encncfp 	心通过	c=0 d=0.1 t=2612
+encncrq 	以通的	c=0 d=0.1 t=3451
+encndgc 	以大致	c=0 d=0.1 t=5521
+encndgr 	以大致按	c=0 d=0.1 t=5522
+encndhx 	以在此	c=0 d=0.1 t=5823
+encndpg 	以确定	c=0 d=0.1 t=6110
+encndpr 	以确定抓	c=0 d=0.1 t=6111
+encndps 	以确定本	c=0 d=0.1 t=3582
+encndwk 	以确保	c=0 d=0.1 t=7069
+encndwy 	以确保库	c=0 d=0.1 t=7070
+encneaw 	以及工作	c=0 d=0.1 t=2036
+encnedh 	必须在	c=0 d=0.1 t=1960
+encnedm 	必须在同	c=0 d=0.1 t=1961
+encnedp 	以及确定	c=0 d=0.1 t=861
+encnegg 	必须与一	c=0 d=0.1 t=2111
+encnegn 	必须与	c=0 d=0.1 t=2110
+encnego 	以用来	c=0 d=0.1 t=6390
+encnehg 	以及上一	c=0 d=0.1 t=7335
+encnehh 	以及上	c=0 d=0.1 t=7334
+encnepw 	以及定位	c=0 d=0.1 t=7279
+encneqs 	以及解析	c=0 d=0.1 t=6402
+encnerq 	以及的	c=0 d=0.1 t=1258
+encnetd 	以及生成	c=0 d=0.1 t=6790
+encnetf 	以及等	c=0 d=0.1 t=7293
+encnetm 	必须向	c=0 d=0.1 t=1411
+encnett 	以及等等	c=0 d=0.1 t=7294
+encnevg 	以及如下	c=0 d=0.1 t=4921
+encnexw 	以及结合	c=0 d=0.1 t=5391
+encneyk 	以及识别	c=0 d=0.1 t=7000
+encneym 	以及高	c=0 d=0.1 t=1637
+encnfef 	以求助雷	c=0 d=0.1 t=3485
+encnfeg 	以求助	c=0 d=0.1 t=3484
+encnfrf 	以支持	c=0 d=0.1 t=4556
+encnfwe 	以才使用	c=0 d=0.1 t=1977
+encngaa 	发至工	c=0 d=0.1 t=6353
+encngar 	发至工控	c=0 d=0.1 t=6354
+encngbm 	发互联网	c=0 d=0.1 t=4500
+encngbn 	收到了	c=0 d=0.1 t=4717
+encngbw 	收到了从	c=0 d=0.1 t=4718
+encngde 	发现有	c=0 d=0.1 t=1886
+encngdo 	发现有灯	c=0 d=0.1 t=1887
+encngfd 	收到雷达	c=0 d=0.1 t=5810
+encngfl 	收到雷	c=0 d=0.1 t=5809
+encnggc 	收不到	c=0 d=0.1 t=3938
+encnggo 	收到来	c=0 d=0.1 t=4508
+encnggt 	收到来自	c=0 d=0.1 t=4509
+encnggy 	收不到这	c=0 d=0.1 t=3939
+encnghh 	收到上	c=0 d=0.1 t=3764
+encnghs 	发现目标	c=0 d=0.1 t=5987
+encnghs 	收到上述	c=0 d=0.1 t=3765
+encngip 	以正常	c=0 d=0.1 t=2003
+encngms 	导致内核	c=0 d=0.1 t=2123
+encngrg 	收到的来	c=0 d=0.1 t=5284
+encngri 	收到探测	c=0 d=0.1 t=6989
+encngri 	收到的测	c=0 d=0.1 t=5318
+encngrq 	以下的	c=0 d=0.1 t=3833
+encngrq 	收到的	c=0 d=0.1 t=6394
+encngrr 	发现抓	c=0 d=0.1 t=6187
+encngrr 	发现抓拍	c=0 d=0.1 t=6188
+encngrs 	展开描述	c=0 d=0.1 t=5574
+encngtx 	导致系统	c=0 d=0.1 t=3065
+encngwb 	以不会出	c=0 d=0.1 t=3304
+encngwf 	以不会	c=0 d=0.1 t=3303
+encngww 	发至从	c=0 d=0.1 t=4828
+encngww 	收到从	c=0 d=0.1 t=4820
+encngww 	收到任何	c=0 d=0.1 t=5142
+encngyg 	发现这一	c=0 d=0.1 t=5605
+encngyj 	展开说明	c=0 d=0.1 t=1335
+encngyk 	收到识别	c=0 d=0.1 t=6649
+encngyp 	发现这	c=0 d=0.1 t=5604
+encngyt 	导致设备	c=0 d=0.1 t=3313
+encnhgc 	收到	c=0 d=0.1 t=6988
+encnhgi 	收不	c=0 d=0.1 t=3937
+encnhpd 	异步完成	c=0 d=0.1 t=1001
+encnhpf 	异步完	c=0 d=0.1 t=1000
+encnijr 	以清晰的	c=0 d=0.1 t=926
+encnijs 	以清晰	c=0 d=0.1 t=925
+encnika 	发测跑世	c=0 d=0.1 t=5106
+encnirn 	以掌握	c=0 d=0.1 t=1313
+encnirq 	异常的	c=0 d=0.1 t=4190
+encnith 	发消息	c=0 d=0.1 t=4532
+encniue 	以当前	c=0 d=0.1 t=2338
+encniya 	以尝试	c=0 d=0.1 t=5679
+encniyj 	以尝试是	c=0 d=0.1 t=5680
+encnjjg 	以电量	c=0 d=0.1 t=1507
+encnjjg 	以电量不	c=0 d=0.1 t=1508
+encnnrq 	已的	c=0 d=0.1 t=3732
+encnnwg 	已合	c=0 d=0.1 t=2805
+encnoyy 	发断言	c=0 d=0.1 t=3056
+encnpwu 	以定位	c=0 d=0.1 t=3471
+encnqjj 	避免临时	c=0 d=0.1 t=7077
+encnqwe 	以多使用	c=0 d=0.1 t=7096
+encnrgc 	以看到	c=0 d=0.1 t=3524
+encnrgg 	以看到两	c=0 d=0.1 t=337
+encnrgn 	以看到以	c=0 d=0.1 t=3525
+encnrhx 	以按此	c=0 d=0.1 t=7173
+encnrjg 	发的是	c=0 d=0.1 t=6495
+encnrjg 	发的是否	c=0 d=0.1 t=6496
+encnrqv 	快捷键	c=0 d=0.1 t=2443
+encnrsg 	以提醒	c=0 d=0.1 t=7008
+encnrtf 	发执行	c=0 d=0.1 t=1480
+encnrtr 	以的我	c=0 d=0.1 t=24
+encnrty 	以的我就	c=0 d=0.1 t=25
+encnrwl 	已的位置	c=0 d=0.1 t=3733
+encnsbr 	以权限所	c=0 d=0.1 t=2967
+encnsbv 	以权限	c=0 d=0.1 t=3081
+encnstf 	以可行	c=0 d=0.1 t=5860
+encnstr 	以可行的	c=0 d=0.1 t=5861
+encntbm 	发出	c=0 d=0.1 t=3741
+encntbn 	发了	c=0 d=0.1 t=6435
+encntfc 	改动	c=0 d=0.1 t=4567
+encntgc 	发至	c=0 d=0.1 t=6352
+encntgm 	发现	c=0 d=0.1 t=6642
+encntim 	发测	c=0 d=0.1 t=5100
+encntjf 	发生时	c=0 d=0.1 t=2390
+encntls 	以很轻松	c=0 d=0.1 t=5405
+encnton 	发断	c=0 d=0.1 t=3055
+encntrg 	恢复后	c=0 d=0.1 t=3373
+encntrq 	发的	c=0 d=0.1 t=6494
+encnttg 	发生	c=0 d=0.1 t=2389
+encnttm 	发射	c=0 d=0.1 t=4518
+encntud 	发送	c=0 d=0.1 t=6940
+encntus 	以重新	c=0 d=0.1 t=4659
+encntwk 	发射信号	c=0 d=0.1 t=4519
+encntww 	发从	c=0 d=0.1 t=674
+encntxw 	发给	c=0 d=0.1 t=1172
+encntyi 	发就	c=0 d=0.1 t=5771
+encntyo 	改变	c=0 d=0.1 t=2308
+encntyt 	心各设备	c=0 d=0.1 t=2600
+encnuda 	情况尤其	c=0 d=0.1 t=2318
+encnugc 	发送到	c=0 d=0.1 t=4031
+encnugc 	发送至	c=0 d=0.1 t=6941
+encnugg 	发送一	c=0 d=0.1 t=4094
+encnugg 	情况一	c=0 d=0.1 t=4240
+encnugh 	情况下	c=0 d=0.1 t=6717
+encnugl 	情况下暂	c=0 d=0.1 t=4216
+encnugm 	情况下同	c=0 d=0.1 t=4806
+encnugt 	情况一般	c=0 d=0.1 t=4241
+encnugu 	发送一次	c=0 d=0.1 t=4095
+encnuit 	发送消息	c=0 d=0.1 t=3973
+encnujf 	情况时	c=0 d=0.1 t=3437
+encnujh 	以遵照此	c=0 d=0.1 t=2574
+encnujv 	以遵照	c=0 d=0.1 t=2573
+encnuon 	以判断	c=0 d=0.1 t=7127
+encnuqq 	情况多	c=0 d=0.1 t=2958
+encnuqu 	情况多半	c=0 d=0.1 t=2959
+encnurh 	发送的此	c=0 d=0.1 t=4767
+encnurq 	发送的	c=0 d=0.1 t=4766
+encnurt 	发送的第	c=0 d=0.1 t=4079
+encnuvc 	以立即	c=0 d=0.1 t=7150
+encnuxw 	发送给	c=0 d=0.1 t=279
+encnuyf 	发送请求	c=0 d=0.1 t=3339
+encnuyg 	发送请	c=0 d=0.1 t=2634
+encnvgh 	以如下	c=0 d=0.1 t=509
+encnvjb 	以如果出	c=0 d=0.1 t=6085
+encnvjn 	以如果发	c=0 d=0.1 t=6185
+encnvjs 	以如果	c=0 d=0.1 t=6632
+encnvjs 	以如果本	c=0 d=0.1 t=6633
+encnvjt 	以如果第	c=0 d=0.1 t=5251
+encnwet 	以使用	c=0 d=0.1 t=5686
+encnwsu 	收集相关	c=1 d=1 t=6827
+encnwty 	已合入	c=0 d=0.1 t=2806
+encnwyt 	发从设备	c=0 d=0.1 t=675
+encnxag 	已经基于	c=0 d=0.1 t=2056
+encnxde 	已经有	c=0 d=0.1 t=2363
+encnxdr 	已经有所	c=0 d=0.1 t=2364
+encnxft 	已经进入	c=0 d=0.1 t=4926
+encnxtg 	发给管理	c=0 d=0.1 t=1173
+encnxyf 	已经主雷	c=0 d=0.1 t=470
+encnxyg 	已经主	c=0 d=0.1 t=469
+encnyby 	以防	c=0 d=0.1 t=4417
+encnyce 	以通	c=0 d=0.1 t=6040
+encnyce 	心通	c=0 d=0.1 t=2611
+encnydh 	以在	c=0 d=0.1 t=5822
+encnyet 	以用	c=0 d=0.1 t=6389
+encnyey 	以及	c=0 d=0.1 t=7333
+encnyfb 	发就地	c=0 d=0.1 t=649
+encnyfi 	以求	c=0 d=0.1 t=3483
+encnyft 	以才	c=0 d=0.1 t=1976
+encnygh 	以下	c=0 d=0.1 t=3832
+encnygi 	以不	c=0 d=0.1 t=3302
+encnyhh 	以上	c=0 d=0.1 t=5264
+encnype 	以家	c=1 d=1 t=668
+encnyqq 	以多	c=0 d=0.1 t=7095
+encnyrg 	以后	c=0 d=0.1 t=7535
+encnyrh 	以看	c=0 d=0.1 t=3523
+encnyrp 	以按	c=0 d=0.1 t=7172
+encnyrq 	以的	c=0 d=0.1 t=23
+encnysk 	以可	c=0 d=0.1 t=5859
+encnytk 	心各	c=0 d=0.1 t=2599
+encnytv 	以很	c=0 d=0.1 t=5404
+encoace 	烁功能	c=0 d=0.1 t=1762
+encoawt 	数工作	c=0 d=0.1 t=7516
+encobgb 	类出现了	c=0 d=0.1 t=4318
+encobgm 	类出现	c=0 d=0.1 t=4317
+encocyi 	灯对应	c=0 d=0.1 t=1631
+encocyr 	灯对应的	c=0 d=0.1 t=1632
+encodbm 	类出	c=0 d=0.1 t=4316
+encodjf 	类里	c=0 d=0.1 t=4116
+encodjg 	类是	c=0 d=0.1 t=1574
+encodkh 	类中	c=0 d=0.1 t=1768
+encodrq 	类的	c=0 d=0.1 t=6505
+encofgj 	烁都更	c=0 d=0.1 t=1747
+encofgj 	烁都更易	c=0 d=0.1 t=1748
+encogwj 	烁不但	c=0 d=0.1 t=1714
+encohac 	断点功能	c=0 d=0.1 t=7113
+encoitk 	灯流程	c=0 d=0.1 t=1695
+encojcf 	类是对	c=0 d=0.1 t=1575
+encojfi 	灯显示	c=0 d=0.1 t=1359
+encokpy 	类中定义	c=0 d=0.1 t=1594
+encokqw 	类中包含	c=0 d=0.1 t=1769
+encolnr 	烟怕	c=1 d=1 t=7110
+enconhk 	断点	c=0 d=0.1 t=7112
+enconyy 	断言	c=0 d=0.1 t=3056
+encopsy 	灯被标记	c=0 d=0.1 t=1889
+encoqft 	烁都	c=0 d=0.1 t=1746
+encoqgi 	烁不	c=0 d=0.1 t=1713
+encorbr 	类的限制	c=0 d=0.1 t=6506
+encorft 	数据都	c=0 d=0.1 t=467
+encorhh 	数据上	c=0 d=0.1 t=304
+encorhr 	数据上报	c=0 d=0.1 t=305
+encorit 	数据消息	c=0 d=0.1 t=5817
+encorjd 	数据是有	c=0 d=0.1 t=5336
+encorjf 	数据是无	c=0 d=0.1 t=5322
+encorjg 	数据是	c=0 d=0.1 t=5335
+encorne 	数据以及	c=0 d=0.1 t=6401
+encorny 	数据以	c=0 d=0.1 t=6400
+encorpp 	数据之	c=0 d=0.1 t=417
+encorpr 	数据之后	c=0 d=0.1 t=418
+encorpw 	类的实例	c=0 d=0.1 t=4328
+encorrn 	数据所	c=0 d=0.1 t=450
+encorrq 	数据打印	c=0 d=0.1 t=5015
+encorrr 	灯的控制	c=0 d=0.1 t=1504
+encorst 	类的构造	c=0 d=0.1 t=2913
+encortg 	数据处理	c=0 d=0.1 t=5396
+encospu 	灯被	c=0 d=0.1 t=1888
+encosrq 	灯的	c=0 d=0.1 t=1503
+encosxa 	灯红	c=0 d=0.1 t=1538
+encosxv 	灯绿	c=0 d=0.1 t=1547
+encotsf 	业务模块	c=0 d=0.1 t=2392
+encoudy 	烁状态	c=0 d=0.1 t=1894
+encoujg 	类问题	c=0 d=0.1 t=4422
+encowgf 	类似于	c=0 d=0.1 t=6093
+encowng 	类似以下	c=0 d=0.1 t=3211
+encowny 	类似以	c=0 d=0.1 t=3210
+encowrq 	类似的	c=0 d=0.1 t=4578
+encowyp 	类似这	c=0 d=0.1 t=3390
+encowys 	类似这样	c=0 d=0.1 t=3391
+encoxdw 	数组存储	c=0 d=0.1 t=4428
+encoxgo 	数组来	c=0 d=0.1 t=4580
+encoxkh 	数组中	c=0 d=0.1 t=2105
+encoxkr 	数组中的	c=0 d=0.1 t=2106
+encoxqc 	灯红色	c=0 d=0.1 t=1539
+encoxqc 	灯绿色	c=0 d=0.1 t=1548
+encoxqt 	灯红色长	c=0 d=0.1 t=1540
+encoxqt 	灯绿色长	c=0 d=0.1 t=1549
+encpbkw 	它也只	c=0 d=0.1 t=4632
+encpbpj 	定了定时	c=0 d=0.1 t=1793
+encpbrq 	实际的	c=0 d=0.1 t=3864
+encpbrr 	实际控制	c=0 d=0.1 t=1557
+encpbty 	写了篇	c=0 d=0.1 t=7216
+encpcfl 	它通过轮	c=0 d=0.1 t=2261
+encpcfp 	它通过	c=0 d=0.1 t=2260
+encpdbn 	完成了	c=0 d=0.1 t=1228
+encpdcf 	完成对	c=0 d=0.1 t=1064
+encpdgn 	密码与	c=0 d=0.1 t=6490
+encpdik 	完成测距	c=0 d=0.1 t=5486
+encpdrg 	完成后	c=0 d=0.1 t=1431
+encpdrq 	完成按键	c=0 d=0.1 t=2433
+encpdrq 	完成的	c=0 d=0.1 t=6079
+encpdrq 	宏的	c=0 d=0.1 t=2145
+encpdtc 	密码等通	c=0 d=0.1 t=6335
+encpdtf 	密码等	c=0 d=0.1 t=6334
+encpdtj 	完成复	c=0 d=0.1 t=1102
+encpdtk 	完成各	c=0 d=0.1 t=2893
+encpdto 	完成各类	c=0 d=0.1 t=2894
+encpdxy 	完成编译	c=0 d=0.1 t=2229
+encpekh 	家中	c=0 d=0.1 t=7539
+encpfdn 	完成	c=0 d=0.1 t=7583
+encpfsg 	完本	c=0 d=0.1 t=692
+encpgbn 	写了	c=0 d=0.1 t=7215
+encpgbn 	定了	c=0 d=0.1 t=1792
+encpgdq 	被正确	c=0 d=0.1 t=6655
+encpgrk 	实现接口	c=0 d=0.1 t=2373
+encpgrq 	实现的	c=0 d=0.1 t=3341
+encpgsv 	定要	c=0 d=0.1 t=4385
+encpgtb 	实现我也	c=0 d=0.1 t=5545
+encpgtr 	实现我	c=0 d=0.1 t=5544
+encpguq 	写交	c=0 d=0.1 t=97
+encpjkf 	定时器超	c=0 d=0.1 t=1795
+encpjkk 	定时器	c=0 d=0.1 t=1794
+encpkwe 	家中华腾	c=0 d=0.1 t=7541
+encpkwx 	家中华	c=0 d=0.1 t=7540
+encpnbm 	它发出	c=0 d=0.1 t=3741
+encpngc 	补发至	c=0 d=0.1 t=4827
+encpngw 	补发至从	c=0 d=0.1 t=4828
+encporq 	之类的	c=0 d=0.1 t=6505
+encppgg 	之一	c=0 d=0.1 t=5866
+encppod 	之类	c=0 d=0.1 t=6504
+encppqh 	之外	c=0 d=0.1 t=1705
+encpprg 	之后	c=0 d=0.1 t=6518
+encpprn 	之所	c=0 d=0.1 t=7170
+encppue 	之前	c=0 d=0.1 t=7405
+encprfw 	它的协作	c=0 d=0.1 t=3707
+encprjd 	实质是在	c=0 d=0.1 t=1423
+encprjg 	实质是	c=0 d=0.1 t=1422
+encprnr 	之所以按	c=0 d=0.1 t=7172
+encprny 	之所以	c=0 d=0.1 t=7171
+encprtg 	它的处理	c=0 d=0.1 t=4468
+encprtx 	宏的每	c=0 d=0.1 t=2146
+encprwl 	它的位置	c=0 d=0.1 t=3672
+encpryy 	初的设计	c=0 d=0.1 t=1269
+encpsfb 	完本地	c=0 d=0.1 t=693
+encpsth 	定要延	c=0 d=0.1 t=4386
+encpstr 	定要延后	c=0 d=0.1 t=4387
+encpsyn 	被标记	c=0 d=0.1 t=1889
+encpsyy 	被标记为	c=0 d=0.1 t=1890
+encptdn 	宏生成	c=0 d=0.1 t=2137
+encptdr 	宏生成的	c=0 d=0.1 t=2138
+encpugc 	安装到	c=0 d=0.1 t=2240
+encpugd 	实况画面	c=0 d=0.1 t=6052
+encpuhj 	之前旧	c=0 d=0.1 t=5531
+encpuhr 	之前旧的	c=0 d=0.1 t=5532
+encpumr 	袜贩	c=1 d=1 t=1779
+encpunt 	补发	c=0 d=0.1 t=4826
+encpurq 	初的	c=0 d=0.1 t=1268
+encpurq 	空间的	c=0 d=0.1 t=2041
+encpuru 	写交接	c=0 d=0.1 t=98
+encpuxw 	之前给	c=0 d=0.1 t=7406
+encpuxw 	之前给人	c=0 d=0.1 t=7407
+encpuyp 	被这	c=0 d=0.1 t=1525
+encpvwx 	初始化	c=0 d=0.1 t=3067
+encpvwy 	初始化主	c=0 d=0.1 t=2889
+encpwab 	它们获取	c=0 d=0.1 t=3880
+encpwad 	定位其	c=0 d=0.1 t=5369
+encpwfd 	定位雷达	c=0 d=0.1 t=5906
+encpwfl 	定位雷	c=0 d=0.1 t=5905
+encpwjg 	字段是	c=0 d=0.1 t=6459
+encpwjg 	字段是否	c=0 d=0.1 t=6460
+encpwlk 	定位思路	c=0 d=0.1 t=7280
+encpwrt 	定位手	c=0 d=0.1 t=5863
+encpwrw 	定位手段	c=0 d=0.1 t=5864
+encpwuj 	定位问题	c=0 d=0.1 t=7152
+encpwuj 	空间	c=0 d=0.1 t=2257
+encpwuy 	定位效率	c=0 d=0.1 t=7158
+encpwvf 	被创建	c=0 d=0.1 t=1788
+encpwwf 	实例会	c=0 d=0.1 t=4382
+encpwww 	实例化从	c=0 d=0.1 t=4330
+encpwwx 	实例化	c=0 d=0.1 t=4415
+encpxbn 	它也	c=0 d=0.1 t=4631
+encpxce 	它通	c=0 d=0.1 t=2259
+encpxkw 	它只	c=0 d=0.1 t=4610
+encpxnt 	它发	c=0 d=0.1 t=3740
+encpxrq 	它的	c=0 d=0.1 t=4467
+encpxwu 	它们	c=0 d=0.1 t=3879
+encpxyi 	它就	c=0 d=0.1 t=2982
+encpybn 	定义了	c=0 d=0.1 t=1595
+encpyet 	被调用	c=0 d=0.1 t=2398
+encpygc 	它就不能	c=0 d=0.1 t=2984
+encpygi 	它就不	c=0 d=0.1 t=2983
+encpyjf 	被这里	c=0 d=0.1 t=1526
+encpyox 	定义数组	c=0 d=0.1 t=2104
+encqafp 	错过	c=0 d=0.1 t=4760
+encqari 	外某探测	c=0 d=0.1 t=4452
+encqarq 	错的	c=0 d=0.1 t=3127
+encqcgi 	针对不	c=0 d=0.1 t=1493
+encqcgm 	针对不同	c=0 d=0.1 t=1494
+encqcsg 	针对本	c=0 d=0.1 t=5270
+encqcta 	色长	c=0 d=0.1 t=1549
+encqdal 	够成功	c=0 d=0.1 t=4687
+encqdim 	然测	c=0 d=0.1 t=5328
+encqent 	触发	c=0 d=0.1 t=5770
+encqeqn 	解包	c=0 d=0.1 t=4475
+encqfbn 	错过了	c=0 d=0.1 t=4761
+encqfby 	错过了主	c=0 d=0.1 t=4762
+encqffc 	儿过去	c=0 d=0.1 t=318
+encqffg 	儿过去再	c=0 d=0.1 t=319
+encqgnr 	久平快捷	c=0 d=0.1 t=2442
+encqgqj 	锁现象	c=0 d=0.1 t=4255
+encqgwh 	外一个	c=0 d=0.1 t=3723
+encqhaf 	外某	c=0 d=0.1 t=4451
+encqhgg 	外一	c=0 d=0.1 t=3722
+encqikh 	然测距	c=0 d=0.1 t=5329
+encqipg 	锁定	c=0 d=0.1 t=5410
+encqirq 	锁的	c=0 d=0.1 t=4341
+encqiwh 	多少个	c=0 d=0.1 t=1626
+encqjgi 	钉是不	c=0 d=0.1 t=52
+encqjgj 	钉是不是	c=0 d=0.1 t=53
+encqksg 	句柄	c=0 d=0.1 t=4149
+encqktk 	名和	c=0 d=0.1 t=6488
+encqnim 	触发测	c=0 d=0.1 t=5100
+encqnon 	触发断	c=0 d=0.1 t=3055
+encqnoy 	触发断言	c=0 d=0.1 t=3056
+encqnrt 	触发执行	c=0 d=0.1 t=1480
+encqnww 	触发从	c=0 d=0.1 t=674
+encqnyf 	触发就地	c=0 d=0.1 t=649
+encqnyi 	触发就	c=0 d=0.1 t=5771
+encqpdc 	名密码	c=0 d=0.1 t=6333
+encqpdt 	名密码等	c=0 d=0.1 t=6334
+encqqit 	多少	c=0 d=0.1 t=1625
+encqqjg 	钉钉是	c=0 d=0.1 t=51
+encqqjg 	钉钉是不	c=0 d=0.1 t=52
+encqqna 	多展	c=0 d=0.1 t=5559
+encqqrh 	钉钉打卡	c=0 d=0.1 t=7525
+encqqrq 	多的	c=0 d=0.1 t=5623
+encqquf 	多半	c=0 d=0.1 t=2959
+encqqwh 	多个	c=0 d=0.1 t=1590
+encqrcf 	包括对	c=0 d=0.1 t=7358
+encqrdh 	然后在	c=0 d=0.1 t=6262
+encqrdk 	然后在中	c=0 d=0.1 t=4879
+encqrdl 	错的原因	c=0 d=0.1 t=3128
+encqrey 	包括用户	c=0 d=0.1 t=6331
+encqrgm 	然后再	c=0 d=0.1 t=6448
+encqrgn 	然后再发	c=0 d=0.1 t=1171
+encqrhh 	钉打卡	c=0 d=0.1 t=7525
+encqrhw 	错的具体	c=0 d=0.1 t=3097
+encqrjg 	然后是	c=0 d=0.1 t=5212
+encqrjg 	然后是下	c=0 d=0.1 t=5213
+encqrua 	然后将某	c=0 d=0.1 t=4324
+encqruq 	然后将	c=0 d=0.1 t=4323
+encqrur 	然后将抓	c=0 d=0.1 t=1071
+encqryg 	然后请	c=0 d=0.1 t=5042
+encqsjg 	钉是	c=0 d=0.1 t=51
+encqsqs 	钉钉	c=0 d=0.1 t=7524
+encqsrg 	解析后	c=0 d=0.1 t=6403
+encqsrr 	解析后的	c=0 d=0.1 t=6404
+encqssu 	解析相关	c=0 d=0.1 t=6365
+encqsua 	解析并	c=0 d=0.1 t=6935
+encqtbn 	名称也	c=0 d=0.1 t=2305
+encqtbw 	名称也会	c=0 d=0.1 t=2306
+encqtfp 	儿过	c=0 d=0.1 t=317
+encqtpd 	名和密码	c=0 d=0.1 t=6489
+encqtvs 	键盘鼠标	c=0 d=0.1 t=2329
+encqtyp 	色长亮	c=0 d=0.1 t=1550
+encqufd 	解决雷达	c=0 d=0.1 t=5910
+encqufl 	解决雷	c=0 d=0.1 t=5909
+encqujg 	多半是	c=0 d=0.1 t=2960
+encqujl 	多半是因	c=0 d=0.1 t=2961
+encquli 	解决办法	c=0 d=0.1 t=7282
+encqurq 	解决的	c=0 d=0.1 t=3998
+encquuj 	解决问题	c=0 d=0.1 t=4356
+encqvte 	键盘	c=0 d=0.1 t=2328
+encqvwf 	键值	c=0 d=0.1 t=2188
+encqwet 	多使用	c=0 d=0.1 t=7096
+encqwey 	多使用调	c=0 d=0.1 t=7097
+encqwgg 	包含一	c=0 d=0.1 t=1770
+encqwgw 	包含一个	c=0 d=0.1 t=1771
+encqwhh 	锥上	c=1 d=1 t=2439
+encqwrq 	多余的	c=0 d=0.1 t=4651
+encqwvg 	包含如下	c=0 d=0.1 t=115
+encqwyp 	包含这	c=0 d=0.1 t=6702
+encqwyq 	包含这句	c=0 d=0.1 t=6703
+encqyce 	希望能	c=0 d=0.1 t=7296
+encqygu 	久平	c=0 d=0.1 t=7500
+encqywf 	角度值	c=0 d=0.1 t=490
+encrabc 	后获取	c=0 d=0.1 t=3918
+encraey 	报警及	c=0 d=0.1 t=38
+encraft 	失或者	c=0 d=0.1 t=3007
+encrakk 	报警器	c=0 d=0.1 t=1292
+encrarg 	报警后	c=0 d=0.1 t=695
+encrarq 	报警的	c=0 d=0.1 t=655
+encrawh 	的某个	c=0 d=0.1 t=3628
+encrayb 	的共享	c=0 d=0.1 t=6207
+encrblt 	抓取图片	c=0 d=0.1 t=176
+encrbrm 	的限制	c=0 d=0.1 t=6506
+encrbrq 	报的	c=0 d=0.1 t=6993
+encrbrt 	的限制等	c=0 d=0.1 t=6507
+encrbty 	报入	c=0 d=0.1 t=1234
+encrbxw 	报给	c=0 d=0.1 t=306
+encrcgf 	所能表示	c=0 d=0.1 t=1727
+encrcrs 	把打	c=0 d=0.1 t=7454
+encrdey 	所有及	c=0 d=0.1 t=7258
+encrdfr 	所有支持	c=0 d=0.1 t=1619
+encrdfs 	所有城西	c=0 d=0.1 t=1399
+encrdlb 	的原因了	c=0 d=0.1 t=6123
+encrdld 	的原因	c=0 d=0.1 t=6122
+encrdld 	的原因有	c=0 d=0.1 t=3136
+encrdrh 	所有的点	c=0 d=0.1 t=5208
+encrdri 	所有探测	c=0 d=0.1 t=4136
+encrdrq 	所有的	c=0 d=0.1 t=5207
+encrdwd 	所有代码	c=0 d=0.1 t=2801
+encrdwr 	的硬件	c=0 d=0.1 t=1578
+encrdyt 	所有设备	c=0 d=0.1 t=2631
+encrdyw 	所在文件	c=0 d=0.1 t=2224
+encrekg 	的脚号	c=0 d=0.1 t=1634
+encreyn 	的用户	c=0 d=0.1 t=3646
+encrfay 	挂载共享	c=0 d=0.1 t=6374
+encrfda 	挂载成功	c=0 d=0.1 t=6424
+encrffa 	挂载	c=0 d=0.1 t=6152
+encrfgb 	挂载到了	c=0 d=0.1 t=6154
+encrfgc 	挂载到	c=0 d=0.1 t=6153
+encrfgg 	指南一	c=0 d=0.1 t=2498
+encrfgj 	看起来是	c=0 d=0.1 t=20
+encrfgo 	看起来	c=0 d=0.1 t=19
+encrfgx 	的元素	c=0 d=0.1 t=2107
+encrfhh 	挂载上	c=0 d=0.1 t=6299
+encrfit 	挂载流程	c=0 d=0.1 t=6242
+encrfjf 	的超时	c=0 d=0.1 t=1932
+encrfjg 	挂载是	c=0 d=0.1 t=6285
+encrfkt 	挂载路径	c=0 d=0.1 t=6277
+encrftf 	后运行	c=0 d=0.1 t=3469
+encrftf 	的运行	c=0 d=0.1 t=7130
+encrftf 	的进行	c=0 d=0.1 t=3793
+encrfwf 	的协作者	c=0 d=0.1 t=3708
+encrfwt 	的协作	c=0 d=0.1 t=3707
+encrfyy 	按协议	c=0 d=0.1 t=6363
+encrfyy 	的地方	c=0 d=0.1 t=7322
+encrgad 	看到其	c=0 d=0.1 t=4224
+encrgaw 	看到其停	c=0 d=0.1 t=4225
+encrgbn 	携带了	c=0 d=0.1 t=3752
+encrgdd 	看到大	c=0 d=0.1 t=2948
+encrgdj 	看到大量	c=0 d=0.1 t=2949
+encrgdm 	按下面	c=0 d=0.1 t=5524
+encrgdy 	后再确认	c=0 d=0.1 t=6466
+encrgdy 	按下面这	c=0 d=0.1 t=5525
+encrggd 	看到下面	c=0 d=0.1 t=5640
+encrggg 	后一	c=0 d=0.1 t=2191
+encrggh 	看一下	c=0 d=0.1 t=7381
+encrggh 	看到下	c=0 d=0.1 t=5639
+encrggm 	后再	c=0 d=0.1 t=6465
+encrggm 	看到两	c=0 d=0.1 t=337
+encrggw 	看到两个	c=0 d=0.1 t=338
+encrggy 	看一下这	c=0 d=0.1 t=7314
+encrghi 	后一步	c=0 d=0.1 t=1212
+encrglt 	拍到图片	c=0 d=0.1 t=6516
+encrgng 	看到以下	c=0 d=0.1 t=3526
+encrgny 	看到以	c=0 d=0.1 t=3525
+encrgri 	打开探测	c=0 d=0.1 t=2690
+encrgrl 	拍到的图	c=0 d=0.1 t=6166
+encrgrp 	按下按	c=0 d=0.1 t=5094
+encrgrq 	后的	c=0 d=0.1 t=6404
+encrgrq 	拍到的	c=0 d=0.1 t=6893
+encrgrq 	按下按键	c=0 d=0.1 t=5095
+encrgsm 	掉开机	c=0 d=0.1 t=2780
+encrgtg 	的一系列	c=0 d=0.1 t=5462
+encrgtg 	看到第一	c=0 d=0.1 t=5000
+encrgth 	的来自	c=0 d=0.1 t=5285
+encrgtq 	后移	c=0 d=0.1 t=4345
+encrgtx 	看到第	c=0 d=0.1 t=4999
+encrgvg 	看到如下	c=0 d=0.1 t=5125
+encrgwh 	后一个	c=0 d=0.1 t=2192
+encrgwh 	的一个	c=0 d=0.1 t=2140
+encrgwh 	的整个	c=0 d=0.1 t=1259
+encrgwj 	后一个是	c=0 d=0.1 t=2193
+encrgxf 	后续	c=0 d=0.1 t=4656
+encrgyp 	按下这	c=0 d=0.1 t=2178
+encrgyp 	看到这	c=0 d=0.1 t=3822
+encrgys 	看到这样	c=0 d=0.1 t=3823
+encrhcb 	的步骤	c=0 d=0.1 t=523
+encrhfh 	看起	c=0 d=0.1 t=18
+encrhfn 	年志	c=1 d=1 t=10
+encrhga 	掉开	c=0 d=0.1 t=2779
+encrhgc 	看到	c=0 d=0.1 t=5638
+encrhgg 	看一	c=0 d=0.1 t=7380
+encrhgh 	的上下	c=0 d=0.1 t=1993
+encrhgy 	的上下文	c=0 d=0.1 t=1994
+encrhit 	的此消息	c=0 d=0.1 t=4768
+encrhjg 	看是	c=0 d=0.1 t=6268
+encrhju 	打卡时间	c=0 d=0.1 t=7508
+encrhky 	按此顺序	c=0 d=0.1 t=7174
+encrhrq 	打卡的	c=0 d=0.1 t=226
+encrhsf 	的目标	c=0 d=0.1 t=6994
+encrhsr 	的目标的	c=0 d=0.1 t=879
+encrhst 	的目标笈	c=0 d=0.1 t=6995
+encrhws 	的具体	c=0 d=0.1 t=3497
+encrhyo 	的点迹	c=0 d=0.1 t=5209
+encrial 	探测范围	c=0 d=0.1 t=5033
+encrier 	所涉及的	c=0 d=0.1 t=522
+encriey 	所涉及	c=0 d=0.1 t=521
+encrika 	探测器工	c=0 d=0.1 t=2767
+encrikg 	探测器与	c=0 d=0.1 t=4585
+encrikh 	探测器上	c=0 d=0.1 t=6991
+encrikh 	的测距	c=0 d=0.1 t=5319
+encrikj 	探测器是	c=0 d=0.1 t=5805
+encrikj 	探测器里	c=0 d=0.1 t=3717
+encrikk 	探测器	c=0 d=0.1 t=6990
+encrikk 	探测器中	c=0 d=0.1 t=5081
+encrikn 	探测器收	c=0 d=0.1 t=4445
+encrikp 	探测器完	c=0 d=0.1 t=1226
+encrikr 	探测器按	c=0 d=0.1 t=5090
+encrikr 	探测器的	c=0 d=0.1 t=4454
+encriky 	探测器就	c=0 d=0.1 t=3661
+encrimm 	的注册	c=0 d=0.1 t=1420
+encritd 	的流程在	c=0 d=0.1 t=4546
+encrith 	的消息	c=0 d=0.1 t=4823
+encritj 	的消息是	c=0 d=0.1 t=3947
+encritk 	的流程	c=0 d=0.1 t=4545
+encritr 	的消息后	c=0 d=0.1 t=4064
+encriue 	按当前	c=0 d=0.1 t=4668
+encriur 	按当前的	c=0 d=0.1 t=4669
+encriwg 	的举例	c=0 d=0.1 t=4027
+encrjbm 	提出	c=0 d=0.1 t=7325
+encrjdh 	的是在	c=0 d=0.1 t=1017
+encrjdy 	的是在这	c=0 d=0.1 t=1018
+encrjey 	的电脑	c=0 d=0.1 t=2622
+encrjfn 	的日志	c=0 d=0.1 t=7287
+encrjfr 	拍是直接	c=0 d=0.1 t=6072
+encrjgd 	看是否有	c=0 d=0.1 t=6270
+encrjgg 	的是否一	c=0 d=0.1 t=6497
+encrjgi 	的是否	c=0 d=0.1 t=6496
+encrjgi 	看是否	c=0 d=0.1 t=6269
+encrjjg 	的电量	c=0 d=0.1 t=1520
+encrjjg 	的电量不	c=0 d=0.1 t=1521
+encrjkv 	看是哪	c=0 d=0.1 t=3237
+encrjrg 	的最后	c=0 d=0.1 t=1882
+encrjud 	的时间有	c=0 d=0.1 t=2289
+encrjug 	的时间来	c=0 d=0.1 t=91
+encrjuj 	的时间	c=0 d=0.1 t=2296
+encrjwc 	的时候能	c=0 d=0.1 t=4685
+encrjwg 	的是像下	c=0 d=0.1 t=5307
+encrjwh 	的时候	c=0 d=0.1 t=4684
+encrjwq 	的是像	c=0 d=0.1 t=5306
+encrkfr 	接口直接	c=0 d=0.1 t=3296
+encrkkh 	接口中	c=0 d=0.1 t=4236
+encrkqg 	的另外一	c=0 d=0.1 t=3722
+encrkqh 	的另外	c=0 d=0.1 t=3721
+encrkrf 	接口挂载	c=0 d=0.1 t=6373
+encrkrl 	接口返回	c=0 d=0.1 t=3348
+encrktc 	的路径	c=0 d=0.1 t=6582
+encrkuj 	的中间	c=0 d=0.1 t=6792
+encrkyb 	换距离	c=0 d=0.1 t=858
+encrkyc 	的顺序	c=0 d=0.1 t=2561
+encrkyi 	接口就	c=0 d=0.1 t=2395
+encrkyw 	接口就会	c=0 d=0.1 t=2396
+encrlbw 	接车队	c=0 d=0.1 t=2507
+encrljj 	返回电量	c=0 d=0.1 t=3298
+encrlkh 	的思路	c=0 d=0.1 t=4809
+encrllg 	的逻辑一	c=0 d=0.1 t=6007
+encrllk 	的逻辑	c=0 d=0.1 t=6006
+encrlrm 	返回失败	c=0 d=0.1 t=3349
+encrlru 	的连接	c=0 d=0.1 t=4624
+encrlth 	的图片	c=0 d=0.1 t=6894
+encrltj 	的回复	c=0 d=0.1 t=1160
+encrltj 	的图片是	c=0 d=0.1 t=6168
+encrltr 	的图片的	c=0 d=0.1 t=881
+encrlwf 	返回值	c=0 d=0.1 t=6608
+encrmad 	的周期	c=0 d=0.1 t=1912
+encrman 	的周期性	c=0 d=0.1 t=1913
+encrmgc 	拷贝至	c=0 d=0.1 t=3155
+encrmng 	失败导致	c=0 d=0.1 t=3312
+encrmrg 	失败后	c=1 d=1 t=5423
+encrmrq 	失败的	c=0 d=0.1 t=6121
+encrmrw 	缺失	c=0 d=0.1 t=3006
+encrnap 	所以其实	c=0 d=0.1 t=4646
+encrnbd 	扩展了有	c=0 d=0.1 t=1720
+encrnbn 	扩展了	c=0 d=0.1 t=1719
+encrnce 	所能	c=0 d=0.1 t=1726
+encrnde 	所有	c=0 d=0.1 t=7257
+encrndh 	所在	c=0 d=0.1 t=2223
+encrnft 	所以才	c=0 d=0.1 t=1976
+encrngc 	所致	c=0 d=0.1 t=2968
+encrngc 	接收到	c=0 d=0.1 t=6648
+encrngi 	所以不	c=0 d=0.1 t=3302
+encrngr 	接收到的	c=0 d=0.1 t=5317
+encrngw 	所以不会	c=0 d=0.1 t=3303
+encrnip 	的异常	c=0 d=0.1 t=5151
+encrniu 	所以当前	c=0 d=0.1 t=2338
+encrnny 	所以	c=0 d=0.1 t=7171
+encrnrh 	所以按此	c=0 d=0.1 t=7173
+encrnrp 	所以按	c=0 d=0.1 t=7172
+encrnru 	所接	c=0 d=0.1 t=1754
+encrnsk 	所以可	c=0 d=0.1 t=5859
+encrnst 	所以可行	c=0 d=0.1 t=5860
+encrnug 	的情况下	c=0 d=0.1 t=3453
+encrnuj 	所以遵照	c=0 d=0.1 t=2573
+encrnuk 	的情况	c=0 d=0.1 t=7206
+encrnvj 	所以如果	c=0 d=0.1 t=6632
+encrorj 	的数据是	c=0 d=0.1 t=5335
+encrorn 	的数据	c=0 d=0.1 t=6399
+encrorn 	的数据以	c=0 d=0.1 t=6400
+encrotl 	的业务	c=0 d=0.1 t=1363
+encroxe 	的数组	c=0 d=0.1 t=4579
+encroxg 	的数组来	c=0 d=0.1 t=4580
+encrpbf 	的实际	c=0 d=0.1 t=1556
+encrpbn 	指定了	c=0 d=0.1 t=1792
+encrpgh 	按下	c=0 d=0.1 t=5523
+encrpgm 	的实现	c=0 d=0.1 t=1474
+encrphx 	按此	c=0 d=0.1 t=7173
+encrprs 	按打	c=0 d=0.1 t=7442
+encrpsr 	控板	c=0 d=0.1 t=7044
+encrpth 	按自	c=0 d=0.1 t=3230
+encrpwd 	的字段	c=0 d=0.1 t=6405
+encrpwg 	的实例	c=0 d=0.1 t=4381
+encrpwj 	的字段是	c=0 d=0.1 t=6406
+encrpwr 	的定位手	c=0 d=0.1 t=5863
+encrpwu 	的定位	c=0 d=0.1 t=5862
+encrpww 	的实例会	c=0 d=0.1 t=4382
+encrpww 	的实例化	c=0 d=0.1 t=4329
+encrqac 	按键功能	c=0 d=0.1 t=3604
+encrqaf 	的某	c=0 d=0.1 t=3627
+encrqef 	的脚	c=0 d=0.1 t=1633
+encrqfh 	的超	c=0 d=0.1 t=1931
+encrqgg 	的一	c=0 d=0.1 t=5461
+encrqgo 	的来	c=0 d=0.1 t=5284
+encrqgw 	按键事件	c=0 d=0.1 t=2434
+encrqhh 	的上	c=0 d=0.1 t=1992
+encrqhk 	的点	c=0 d=0.1 t=5208
+encrqhx 	的此	c=0 d=0.1 t=4767
+encrqim 	的测	c=0 d=0.1 t=5318
+encrqit 	打印消息	c=0 d=0.1 t=6386
+encrqjb 	的最	c=0 d=0.1 t=1881
+encrqjg 	按键是	c=0 d=0.1 t=1275
+encrqjg 	的是	c=0 d=0.1 t=6495
+encrqkl 	的另	c=0 d=0.1 t=3720
+encrqlt 	的图	c=0 d=0.1 t=6166
+encrqmf 	的周	c=0 d=0.1 t=1911
+encrqny 	打印以	c=0 d=0.1 t=7289
+encrqoh 	按键数目	c=0 d=0.1 t=2099
+encrqow 	打印类似	c=0 d=0.1 t=3389
+encrqpb 	的名字	c=0 d=0.1 t=2197
+encrqpy 	按键定义	c=0 d=0.1 t=2103
+encrqqv 	的键	c=0 d=0.1 t=2187
+encrqrj 	打印的是	c=0 d=0.1 t=5305
+encrqrn 	的所	c=0 d=0.1 t=5205
+encrqrq 	打包的	c=0 d=0.1 t=6962
+encrqrq 	打印的	c=0 d=0.1 t=5304
+encrqrq 	按键的	c=0 d=0.1 t=2196
+encrqrq 	的的	c=0 d=0.1 t=1621
+encrqrr 	的抓	c=0 d=0.1 t=1067
+encrqsf 	抽象模块	c=0 d=0.1 t=1370
+encrqsg 	的本	c=0 d=0.1 t=6600
+encrqsm 	换机	c=0 d=0.1 t=2617
+encrqsu 	反馈相关	c=0 d=0.1 t=6800
+encrqtg 	按键处理	c=0 d=0.1 t=2015
+encrqtk 	的各	c=0 d=0.1 t=7237
+encrqtq 	打印很多	c=0 d=0.1 t=5622
+encrqtr 	的我	c=0 d=0.1 t=542
+encrqtv 	打印很	c=0 d=0.1 t=5621
+encrqtx 	的每	c=0 d=0.1 t=2146
+encrqtx 	的第	c=0 d=0.1 t=4079
+encrqua 	换并	c=0 d=0.1 t=893
+encrqvf 	的那	c=0 d=0.1 t=769
+encrqvg 	打印如下	c=0 d=0.1 t=5499
+encrqwf 	的会	c=0 d=0.1 t=7467
+encrqwf 	的键值	c=0 d=0.1 t=2188
+encrqwh 	的个	c=0 d=0.1 t=4455
+encrqxw 	反馈给	c=0 d=0.1 t=6845
+encrqyg 	的主	c=0 d=0.1 t=7246
+encrqyi 	的就	c=0 d=0.1 t=677
+encrqyl 	换为	c=0 d=0.1 t=1499
+encrqyp 	按键设定	c=0 d=0.1 t=2864
+encrqyp 	的这	c=0 d=0.1 t=7184
+encrqyt 	的话	c=0 d=0.1 t=5984
+encrraf 	缺失或者	c=0 d=0.1 t=3007
+encrrbc 	抓取	c=0 d=0.1 t=194
+encrrco 	控制参数	c=0 d=0.1 t=900
+encrrde 	的所有	c=0 d=0.1 t=5206
+encrrdr 	的所有的	c=0 d=0.1 t=5207
+encrrep 	所接受	c=0 d=0.1 t=1755
+encrrfa 	的挂载	c=0 d=0.1 t=6276
+encrrgc 	抓拍到	c=0 d=0.1 t=6892
+encrrgc 	拍到	c=0 d=0.1 t=6892
+encrrgg 	后的一	c=0 d=0.1 t=5461
+encrrgn 	控制与	c=0 d=0.1 t=1252
+encrrgr 	抓拍到的	c=0 d=0.1 t=6893
+encrrgt 	控制与复	c=0 d=0.1 t=1253
+encrrhh 	把打卡	c=0 d=0.1 t=7455
+encrrhh 	按打卡	c=0 d=0.1 t=7443
+encrrhh 	控制上	c=0 d=0.1 t=6003
+encrrhs 	报的目标	c=0 d=0.1 t=6994
+encrrhs 	拍摄目标	c=0 d=0.1 t=928
+encrrik 	后探测器	c=0 d=0.1 t=2558
+encrrik 	的探测器	c=0 d=0.1 t=3691
+encrrim 	后探测	c=0 d=0.1 t=2557
+encrrim 	的探测	c=0 d=0.1 t=3690
+encrrjc 	控制是通	c=0 d=0.1 t=991
+encrrjg 	抓拍是	c=0 d=0.1 t=6071
+encrrjg 	拍是	c=0 d=0.1 t=6071
+encrrjg 	控制是	c=0 d=0.1 t=990
+encrrkh 	指挥中	c=0 d=0.1 t=2609
+encrrkk 	的接口	c=0 d=0.1 t=4235
+encrrkk 	的接口中	c=0 d=0.1 t=4236
+encrrkn 	指挥中心	c=0 d=0.1 t=2610
+encrrky 	的接口就	c=0 d=0.1 t=2395
+encrrlk 	的返回	c=0 d=0.1 t=6607
+encrrlt 	拓扑图	c=0 d=0.1 t=2514
+encrrlw 	的返回值	c=0 d=0.1 t=6608
+encrrpd 	控制完成	c=0 d=0.1 t=917
+encrrpf 	控制完	c=0 d=0.1 t=6060
+encrrpp 	控制之	c=0 d=0.1 t=1704
+encrrpq 	控制之外	c=0 d=0.1 t=1705
+encrrpw 	后的字段	c=0 d=0.1 t=6405
+encrrqg 	的打印	c=0 d=0.1 t=6385
+encrrqv 	报的键	c=0 d=0.1 t=2187
+encrrqv 	的按键	c=0 d=0.1 t=3603
+encrrqw 	报的键值	c=0 d=0.1 t=2188
+encrrrb 	的拍摄	c=0 d=0.1 t=927
+encrrrd 	后的所有	c=0 d=0.1 t=5206
+encrrrm 	的控制	c=0 d=0.1 t=1504
+encrrrn 	后的所	c=0 d=0.1 t=5205
+encrrrq 	控制的	c=0 d=0.1 t=6036
+encrrrr 	抓拍	c=0 d=0.1 t=6891
+encrrrr 	的抓拍	c=0 d=0.1 t=1068
+encrrrw 	抓拍摄像	c=0 d=0.1 t=5951
+encrrst 	所描述第	c=0 d=0.1 t=6667
+encrrsy 	所描述	c=0 d=0.1 t=6666
+encrrtf 	的执行	c=0 d=0.1 t=1009
+encrrty 	报的航迹	c=0 d=0.1 t=5814
+encrrug 	打扰问一	c=0 d=0.1 t=47
+encrruk 	打扰问	c=0 d=0.1 t=46
+encrrwq 	抓拍命名	c=0 d=0.1 t=1056
+encrrwq 	拍摄像	c=0 d=0.1 t=5951
+encrrwq 	的摄像	c=0 d=0.1 t=6049
+encrrwt 	拍的佩特	c=0 d=0.1 t=6118
+encrrwt 	的操作	c=0 d=0.1 t=3865
+encrrwu 	拍摄像头	c=0 d=0.1 t=5952
+encrrwu 	的摄像头	c=0 d=0.1 t=6050
+encrrye 	抓拍调用	c=0 d=0.1 t=6189
+encrryg 	抓拍这一	c=0 d=0.1 t=6127
+encrryp 	抓拍这	c=0 d=0.1 t=6126
+encrryp 	拍这	c=0 d=0.1 t=6126
+encrryw 	后的文件	c=0 d=0.1 t=2238
+encrsab 	控板获取	c=0 d=0.1 t=3422
+encrsad 	排查项	c=0 d=0.1 t=6751
+encrsbv 	的权限	c=0 d=0.1 t=2975
+encrsce 	控板通	c=0 d=0.1 t=6768
+encrscf 	的相对	c=0 d=0.1 t=882
+encrscw 	控板通信	c=0 d=0.1 t=6769
+encrsfb 	的本地	c=0 d=0.1 t=6601
+encrsfn 	的模块	c=0 d=0.1 t=1409
+encrsga 	打开	c=0 d=0.1 t=2689
+encrsgn 	排查与	c=0 d=0.1 t=6720
+encrshh 	打卡	c=0 d=0.1 t=235
+encrshh 	打止	c=0 d=0.1 t=64
+encrshh 	控板上	c=0 d=0.1 t=7045
+encrshk 	打点	c=0 d=0.1 t=7125
+encrsla 	的配置项	c=0 d=0.1 t=3199
+encrslf 	的配置	c=0 d=0.1 t=3198
+encrsob 	质材料了	c=0 d=0.1 t=7478
+encrsou 	质材料	c=0 d=0.1 t=7477
+encrsqn 	打包	c=0 d=0.1 t=1168
+encrsrq 	描述的	c=0 d=0.1 t=3847
+encrsrw 	提醒操作	c=0 d=0.1 t=7009
+encrssf 	控板本地	c=0 d=0.1 t=6159
+encrssg 	控板本	c=0 d=0.1 t=6158
+encrssj 	的检查	c=0 d=0.1 t=3342
+encrstf 	的构造	c=0 d=0.1 t=4279
+encrstx 	控板系统	c=0 d=0.1 t=6255
+encrstx 	描述第	c=0 d=0.1 t=6667
+encrswd 	控板代码	c=0 d=0.1 t=2699
+encrswf 	控板会	c=0 d=0.1 t=6361
+encrswh 	打个	c=0 d=0.1 t=7432
+encrswr 	控板会按	c=0 d=0.1 t=6362
+encrswv 	控板登录	c=0 d=0.1 t=2770
+encrtad 	执行其	c=0 d=0.1 t=2401
+encrtak 	执行其中	c=0 d=0.1 t=2402
+encrtbo 	执行函数	c=0 d=0.1 t=1481
+encrtfc 	的移动	c=0 d=0.1 t=4959
+encrtfd 	执行都在	c=0 d=0.1 t=1990
+encrtft 	执行都	c=0 d=0.1 t=1989
+encrtgc 	后移至	c=0 d=0.1 t=4346
+encrtgg 	报管理平	c=0 d=0.1 t=6969
+encrtgg 	的第一	c=0 d=0.1 t=4080
+encrtgj 	报管理	c=0 d=0.1 t=6968
+encrtgj 	的处理	c=0 d=0.1 t=4468
+encrtgk 	的处理踢	c=0 d=0.1 t=657
+encrtgt 	的第一条	c=0 d=0.1 t=4081
+encrtgu 	的处理并	c=0 d=0.1 t=2428
+encrtgw 	的第一件	c=0 d=0.1 t=3700
+encrtgy 	的处理主	c=0 d=0.1 t=1155
+encrtie 	后移涉及	c=0 d=0.1 t=4338
+encrtif 	的算法	c=0 d=0.1 t=5400
+encrtjf 	执行时	c=0 d=0.1 t=5618
+encrtmm 	手册	c=0 d=0.1 t=2446
+encrtpd 	执行完成	c=0 d=0.1 t=2228
+encrtpf 	执行完	c=0 d=0.1 t=2227
+encrtps 	执行完本	c=0 d=0.1 t=692
+encrtpw 	的各字段	c=0 d=0.1 t=6458
+encrtrc 	的选择	c=0 d=0.1 t=746
+encrtrr 	执行抓	c=0 d=0.1 t=6067
+encrtrr 	执行抓拍	c=0 d=0.1 t=6068
+encrtrw 	执行摄像	c=0 d=0.1 t=905
+encrtsa 	按自检项	c=0 d=0.1 t=3232
+encrtsu 	的重要部	c=0 d=0.1 t=1285
+encrtsv 	的重要	c=0 d=0.1 t=1284
+encrtsw 	按自检	c=0 d=0.1 t=3231
+encrttk 	执行入口	c=0 d=0.1 t=1010
+encrtuo 	执行闪烁	c=0 d=0.1 t=1843
+encrtus 	后重新	c=0 d=0.1 t=1165
+encrtwd 	手段	c=0 d=0.1 t=5864
+encrtwh 	的各个	c=0 d=0.1 t=7238
+encrtwl 	执行位置	c=0 d=0.1 t=5457
+encrtwu 	的我们	c=0 d=0.1 t=543
+encrtwv 	报入侵	c=0 d=0.1 t=1235
+encrtww 	的我们从	c=0 d=0.1 t=544
+encrtxy 	择系统	c=0 d=0.1 t=1382
+encrtyf 	执行就地	c=0 d=0.1 t=136
+encrtyg 	的我就不	c=0 d=0.1 t=26
+encrtyi 	执行就	c=0 d=0.1 t=135
+encrtyi 	的我就	c=0 d=0.1 t=25
+encrtyo 	报航迹	c=0 d=0.1 t=1219
+encrtyo 	的航迹	c=0 d=0.1 t=5814
+encruab 	的章节	c=0 d=0.1 t=2360
+encruak 	的章节中	c=0 d=0.1 t=2361
+encrudt 	的状态种	c=0 d=0.1 t=1730
+encrudy 	的状态	c=0 d=0.1 t=5443
+encruep 	接受	c=0 d=0.1 t=1755
+encrugc 	提交至	c=0 d=0.1 t=7065
+encruim 	提交注册	c=0 d=0.1 t=1415
+encrujg 	的问题	c=0 d=0.1 t=7370
+encrujr 	的问题的	c=0 d=0.1 t=7371
+encrujs 	的效果	c=0 d=0.1 t=6037
+encrujv 	的问题即	c=0 d=0.1 t=2925
+encrulg 	接车	c=0 d=0.1 t=2506
+encrunh 	接收	c=0 d=0.1 t=6851
+encrurq 	提交的	c=0 d=0.1 t=7410
+encrutg 	换并得到	c=0 d=0.1 t=895
+encrutj 	换并得	c=0 d=0.1 t=894
+encrutm 	拉向	c=0 d=0.1 t=133
+encrutr 	后关系的	c=0 d=0.1 t=3892
+encrutx 	后关系	c=0 d=0.1 t=3891
+encruxq 	提交纸	c=0 d=0.1 t=7475
+encruxr 	提交纸质	c=0 d=0.1 t=7476
+encruxw 	提交给	c=0 d=0.1 t=6527
+encruyf 	提交请求	c=0 d=0.1 t=6629
+encrvwh 	的那个	c=0 d=0.1 t=770
+encrwdc 	的代码	c=0 d=0.1 t=7050
+encrwdj 	的代码里	c=0 d=0.1 t=5534
+encrwdm 	的代码同	c=0 d=0.1 t=7051
+encrwer 	所使用的	c=0 d=0.1 t=4590
+encrwet 	所使用	c=0 d=0.1 t=4589
+encrwft 	操作过程	c=0 d=0.1 t=3866
+encrwhc 	操作步骤	c=0 d=0.1 t=2752
+encrwif 	的佃潮	c=0 d=0.1 t=4004
+encrwiy 	的佃潮这	c=0 d=0.1 t=4005
+encrwlf 	按位置	c=0 d=0.1 t=3949
+encrwlf 	的位置	c=0 d=0.1 t=3737
+encrwpg 	手段之一	c=0 d=0.1 t=5866
+encrwpp 	手段之	c=0 d=0.1 t=5865
+encrwqk 	拍命名	c=0 d=0.1 t=1056
+encrwrv 	打个招	c=0 d=0.1 t=7433
+encrwsr 	的分析	c=0 d=0.1 t=7372
+encrwtr 	的佩特	c=1 d=1 t=6118
+encrwuc 	摄像头对	c=0 d=0.1 t=773
+encrwud 	摄像头	c=0 d=0.1 t=6104
+encrwuf 	摄像头过	c=0 d=0.1 t=786
+encrwuf 	摄像头都	c=0 d=0.1 t=5967
+encrwur 	摄像头后	c=0 d=0.1 t=846
+encrwur 	摄像头的	c=0 d=0.1 t=6076
+encrwus 	摄像头可	c=0 d=0.1 t=923
+encrwwk 	操作人员	c=0 d=0.1 t=7011
+encrwww 	操作人	c=0 d=0.1 t=7010
+encrxcf 	持续驱动	c=0 d=0.1 t=2264
+encrxfh 	持续直	c=0 d=0.1 t=4968
+encrxgu 	报给平	c=0 d=0.1 t=307
+encrxjk 	的结果中	c=0 d=0.1 t=6266
+encrxjs 	的结果	c=0 d=0.1 t=6265
+encrxpg 	指定	c=0 d=0.1 t=1791
+encrxsk 	后续可	c=0 d=0.1 t=4657
+encrxsn 	后续可以	c=0 d=0.1 t=4658
+encrxsv 	后续要	c=0 d=0.1 t=2067
+encrycf 	换为对	c=0 d=0.1 t=1500
+encryej 	拍调用是	c=0 d=0.1 t=6190
+encryet 	拍调用	c=0 d=0.1 t=6189
+encryfb 	的就地	c=0 d=0.1 t=678
+encrygg 	拍这一	c=0 d=0.1 t=6127
+encrygh 	拍这一步	c=0 d=0.1 t=6128
+encrykl 	的识别	c=0 d=0.1 t=6963
+encrysa 	的主要节	c=0 d=0.1 t=7248
+encrysi 	接文档	c=0 d=0.1 t=99
+encrysv 	的主要	c=0 d=0.1 t=7247
+encrysy 	接文档这	c=0 d=0.1 t=100
+encrytl 	的设备	c=0 d=0.1 t=2325
+encrytr 	的设备的	c=0 d=0.1 t=867
+encrywr 	的文件	c=0 d=0.1 t=2238
+encryya 	的调度	c=0 d=0.1 t=6001
+encryyb 	手应该也	c=0 d=0.1 t=7401
+encryyf 	的设计	c=0 d=0.1 t=5539
+encryyh 	的设计上	c=0 d=0.1 t=1981
+encryyj 	的这说明	c=0 d=0.1 t=7185
+encryyy 	手应该	c=0 d=0.1 t=7400
+encsabc 	板获取	c=0 d=0.1 t=3422
+encsabg 	板获取不	c=0 d=0.1 t=3423
+encsaew 	检项逐个	c=0 d=0.1 t=3233
+encsaft 	模式运行	c=0 d=0.1 t=4211
+encsagh 	模式下	c=0 d=0.1 t=5502
+encsagl 	模式下暂	c=0 d=0.1 t=4299
+encsagr 	模式下的	c=0 d=0.1 t=5503
+encsahk 	要节点	c=0 d=0.1 t=7249
+encsajg 	格式是	c=0 d=0.1 t=6412
+encsajg 	格式是否	c=0 d=0.1 t=6413
+encsarg 	模式后	c=0 d=0.1 t=5073
+encsauq 	本节将	c=0 d=0.1 t=1328
+encsawv 	样划分	c=0 d=0.1 t=5527
+encsbgi 	权限不	c=0 d=0.1 t=2978
+encsbgk 	权限不足	c=0 d=0.1 t=2979
+encsbgq 	权限不够	c=0 d=0.1 t=2933
+encsbrg 	权限所致	c=0 d=0.1 t=2968
+encsbrn 	权限所	c=0 d=0.1 t=2967
+encsbtu 	权限重新	c=0 d=0.1 t=3082
+encsbuj 	权限问题	c=0 d=0.1 t=2941
+encsbuj 	要随意	c=0 d=0.1 t=2733
+encsbwd 	本阶段	c=0 d=0.1 t=6634
+encscda 	校验成功	c=0 d=0.1 t=4912
+encscdd 	可能存在	c=0 d=0.1 t=791
+encscde 	可能有	c=0 d=0.1 t=1588
+encscde 	检驼有	c=0 d=0.1 t=5437
+encscdf 	检驼有过	c=0 d=0.1 t=5438
+encscdh 	可能存	c=0 d=0.1 t=790
+encscdq 	可能有多	c=0 d=0.1 t=1589
+encscfp 	要通过	c=0 d=0.1 t=2908
+encscfs 	可能需要	c=0 d=0.1 t=2082
+encscgf 	相对于	c=0 d=0.1 t=476
+encscgv 	校验开始	c=0 d=0.1 t=2873
+encsckt 	相对路径	c=0 d=0.1 t=883
+encsclu 	相对较	c=0 d=0.1 t=1297
+encscly 	相对较为	c=0 d=0.1 t=1298
+encscri 	本对探测	c=0 d=0.1 t=3715
+encscrm 	校验失败	c=0 d=0.1 t=5365
+encscrq 	可能的	c=0 d=0.1 t=3134
+encscrq 	校验的	c=0 d=0.1 t=5399
+encscrw 	校验操作	c=0 d=0.1 t=5109
+encscwd 	可能会在	c=0 d=0.1 t=3613
+encscwf 	可能会	c=0 d=0.1 t=3829
+encscwj 	可能会是	c=0 d=0.1 t=3830
+encscwy 	板通信	c=0 d=0.1 t=6769
+encsdga 	要有一项	c=0 d=0.1 t=5240
+encsdgg 	要有一	c=0 d=0.1 t=5239
+encsdpg 	要确定	c=0 d=0.1 t=6427
+encsdwu 	要有任意	c=0 d=0.1 t=5085
+encsfaw 	模块工作	c=0 d=0.1 t=2340
+encsfce 	检未通	c=0 d=0.1 t=3224
+encsfcf 	检未通过	c=0 d=0.1 t=3225
+encsfcf 	模块对	c=0 d=0.1 t=1085
+encsfdp 	要雷达	c=0 d=0.1 t=5051
+encsffs 	模块需要	c=0 d=0.1 t=2369
+encsfft 	模块运行	c=0 d=0.1 t=2253
+encsfjg 	模块是	c=0 d=0.1 t=6771
+encsfjg 	模块是否	c=0 d=0.1 t=6772
+encsfjh 	要过早	c=0 d=0.1 t=4403
+encsfkt 	本地路径	c=0 d=0.1 t=6602
+encsfra 	本地报警	c=0 d=0.1 t=694
+encsfrq 	模块的	c=0 d=0.1 t=2393
+encsfru 	模块提交	c=0 d=0.1 t=1414
+encsftf 	要进行	c=0 d=0.1 t=698
+encsfyf 	要求启动	c=0 d=0.1 t=1928
+encsgab 	本节	c=0 d=0.1 t=1327
+encsgcf 	本对	c=0 d=0.1 t=3714
+encsgfb 	本地	c=0 d=0.1 t=6601
+encsgsk 	可不可	c=0 d=0.1 t=333
+encsgsn 	可不可以	c=0 d=0.1 t=334
+encsgwh 	样一个	c=0 d=0.1 t=4124
+encshtj 	想利	c=0 d=0.1 t=85
+encshwn 	板上修改	c=0 d=0.1 t=7046
+encsiey 	要涉及	c=0 d=0.1 t=1353
+encsigd 	相当于有	c=0 d=0.1 t=3682
+encsigf 	相当于	c=0 d=0.1 t=3681
+encsipb 	枚举字	c=0 d=0.1 t=1459
+encsjfi 	要显示	c=0 d=0.1 t=1455
+encsjfr 	要显示的	c=0 d=0.1 t=1456
+encsjpg 	要是写	c=0 d=0.1 t=96
+encsjpu 	要是写交	c=0 d=0.1 t=97
+encsjtr 	可是我	c=0 d=0.1 t=221
+encsjuq 	要是将	c=0 d=0.1 t=1158
+encskce 	可能	c=0 d=0.1 t=5120
+encskgi 	可不	c=0 d=0.1 t=332
+encskjg 	可是	c=0 d=0.1 t=220
+encskkh 	要跟踪	c=0 d=0.1 t=863
+encskny 	可以	c=0 d=0.1 t=7149
+encskqe 	可触	c=0 d=0.1 t=5098
+encsktf 	可行	c=0 d=0.1 t=5860
+encslad 	配置项	c=0 d=0.1 t=3199
+encslag 	配置项不	c=0 d=0.1 t=3036
+encslat 	配置项等	c=0 d=0.1 t=3200
+encslyw 	配置文件	c=1 d=1 t=5702
+encsmnt 	机改	c=0 d=0.1 t=2299
+encsnce 	可以通	c=0 d=0.1 t=6040
+encsncf 	可以通过	c=0 d=0.1 t=6041
+encsncr 	可以通的	c=0 d=0.1 t=3451
+encsndg 	可以大致	c=0 d=0.1 t=5521
+encsndh 	可以在	c=0 d=0.1 t=5822
+encsndh 	可以在此	c=0 d=0.1 t=5823
+encsnfe 	可以求助	c=0 d=0.1 t=3484
+encsnfi 	可以求	c=0 d=0.1 t=3483
+encsngi 	可以正常	c=0 d=0.1 t=2003
+encsnij 	可以清晰	c=0 d=0.1 t=925
+encsnir 	可以掌握	c=0 d=0.1 t=1313
+encsniy 	可以尝试	c=0 d=0.1 t=5679
+encsnqq 	可以多	c=0 d=0.1 t=7095
+encsnrg 	可以看到	c=0 d=0.1 t=3524
+encsnrh 	可以看	c=0 d=0.1 t=3523
+encsnrq 	可以的	c=0 d=0.1 t=23
+encsnrt 	可以的我	c=0 d=0.1 t=24
+encsntu 	可以重新	c=0 d=0.1 t=4659
+encsntv 	可以很	c=0 d=0.1 t=5404
+encsnuv 	可以立即	c=0 d=0.1 t=7150
+encsnwe 	可以使用	c=0 d=0.1 t=5686
+encsnyo 	机改变	c=0 d=0.1 t=2300
+encsobn 	材料了	c=0 d=0.1 t=7478
+encspdn 	要完成	c=0 d=0.1 t=2892
+encspdt 	要完成各	c=0 d=0.1 t=2893
+encspgm 	要实现	c=0 d=0.1 t=5543
+encspgt 	要实现我	c=0 d=0.1 t=5544
+encsqni 	可触发测	c=0 d=0.1 t=5100
+encsqnt 	可触发	c=0 d=0.1 t=5099
+encsqun 	可解决	c=0 d=0.1 t=4355
+encsqwy 	要包含	c=0 d=0.1 t=114
+encsrce 	板通	c=0 d=0.1 t=6768
+encsrdw 	根据硬件	c=0 d=0.1 t=2094
+encsrey 	模拟用户	c=0 d=0.1 t=3620
+encsrft 	查看进程	c=0 d=0.1 t=3455
+encsrhd 	根据上面	c=0 d=0.1 t=1472
+encsrhh 	板上	c=0 d=0.1 t=7045
+encsrhh 	根据上	c=0 d=0.1 t=5385
+encsrhr 	根据上报	c=0 d=0.1 t=714
+encsrhs 	根据上述	c=0 d=0.1 t=5386
+encsrik 	本探测器	c=0 d=0.1 t=5272
+encsrim 	本探测	c=0 d=0.1 t=5271
+encsrkt 	述的路径	c=0 d=0.1 t=6481
+encsrlk 	样的思路	c=0 d=0.1 t=4809
+encsrmr 	检失败的	c=0 d=0.1 t=3317
+encsrmt 	检失败	c=0 d=0.1 t=3316
+encsrrk 	样的接口	c=0 d=0.1 t=4235
+encsrrq 	样的打印	c=0 d=0.1 t=5347
+encsrrq 	模拟的	c=0 d=0.1 t=3645
+encsrsg 	板本	c=0 d=0.1 t=6158
+encsrtg 	查看管理	c=0 d=0.1 t=6753
+encsrth 	根据自	c=0 d=0.1 t=3730
+encsrtn 	根据自已	c=0 d=0.1 t=3731
+encsrtr 	根据我	c=0 d=0.1 t=7201
+encsrty 	根据航迹	c=0 d=0.1 t=902
+encsrwf 	板会	c=0 d=0.1 t=6361
+encsrye 	查看调用	c=0 d=0.1 t=4305
+encssfb 	板本地	c=0 d=0.1 t=6159
+encssgg 	检查一	c=0 d=0.1 t=6308
+encssgg 	检查一下	c=0 d=0.1 t=6309
+encsskh 	构想中	c=0 d=0.1 t=1271
+encssmq 	检查网	c=0 d=0.1 t=2605
+encssny 	检查以	c=0 d=0.1 t=2796
+encssyi 	检查方法	c=0 d=0.1 t=6670
+encstbo 	构造函数	c=0 d=0.1 t=4411
+encsteg 	想利用下	c=0 d=0.1 t=87
+encstet 	想利用	c=0 d=0.1 t=86
+encstjg 	要么是	c=0 d=0.1 t=3536
+encstrf 	要秉持	c=0 d=0.1 t=4390
+encstrg 	要延后	c=0 d=0.1 t=4387
+encstrq 	可行的	c=0 d=0.1 t=5861
+encstus 	要重新	c=0 d=0.1 t=5455
+encstxe 	要升级	c=0 d=0.1 t=2068
+encstxr 	板系统的	c=0 d=0.1 t=6256
+encstxy 	板系统	c=0 d=0.1 t=6255
+encsugg 	样一	c=0 d=0.1 t=4123
+encsugn 	覆盖与	c=0 d=0.1 t=2735
+encsugr 	机交互的	c=0 d=0.1 t=1283
+encsugx 	机交互	c=0 d=0.1 t=1282
+encsujg 	样问题	c=0 d=0.1 t=3907
+encsujy 	样问题就	c=0 d=0.1 t=3908
+encsupw 	相关字段	c=0 d=0.1 t=6368
+encsurq 	标准的	c=0 d=0.1 t=2045
+encsurq 	样的	c=0 d=0.1 t=6246
+encsurq 	相关的	c=0 d=0.1 t=7260
+encsusl 	相关配置	c=0 d=0.1 t=5708
+encsuwd 	相关代码	c=0 d=0.1 t=6947
+encsuyi 	样就	c=0 d=0.1 t=4707
+encsuyy 	相关设计	c=0 d=0.1 t=1316
+encsvab 	要节	c=0 d=0.1 t=7248
+encsvce 	要通	c=0 d=0.1 t=2907
+encsvde 	要有	c=0 d=0.1 t=5238
+encsvfl 	要雷	c=0 d=0.1 t=5050
+encsvfp 	要过	c=0 d=0.1 t=4402
+encsvjg 	要是	c=0 d=0.1 t=1157
+encsvpf 	要完	c=0 d=0.1 t=2891
+encsvtc 	要么	c=0 d=0.1 t=3535
+encsvth 	要延	c=0 d=0.1 t=4386
+encsvwd 	要做	c=0 d=0.1 t=3696
+encswad 	检项	c=0 d=0.1 t=3265
+encswdc 	板代码	c=0 d=0.1 t=2699
+encswdc 	要代码	c=0 d=0.1 t=4111
+encswfi 	检未	c=0 d=0.1 t=3223
+encswhh 	相信上	c=0 d=0.1 t=7398
+encswhr 	相信上手	c=0 d=0.1 t=7399
+encswif 	述作法	c=0 d=0.1 t=1983
+encswnt 	要修改	c=0 d=0.1 t=2748
+encswrp 	板会按	c=0 d=0.1 t=6362
+encswrq 	要做的	c=0 d=0.1 t=3697
+encswrt 	要做的第	c=0 d=0.1 t=3698
+encswvi 	板登录	c=0 d=0.1 t=2770
+encsyet 	要调用	c=0 d=0.1 t=4875
+encsyfc 	可启动	c=0 d=0.1 t=2815
+encsyfc 	机启动	c=0 d=0.1 t=2781
+encsyfr 	机启动的	c=0 d=0.1 t=2782
+encsygk 	样就带	c=0 d=0.1 t=3904
+encsykl 	核识别	c=0 d=0.1 t=1255
+encsyrg 	核后	c=0 d=0.1 t=1107
+encsyrq 	述的	c=0 d=0.1 t=6480
+encsytl 	本设备	c=0 d=0.1 t=3583
+encsytr 	本设备的	c=0 d=0.1 t=3584
+encsywd 	样就会存	c=0 d=0.1 t=4709
+encsywf 	样就会	c=0 d=0.1 t=4708
+encsyyl 	标记为	c=0 d=0.1 t=1890
+encsyyu 	标记为闪	c=0 d=0.1 t=1891
+enctaaa 	入警戒	c=0 d=0.1 t=5734
+enctabc 	先获取	c=0 d=0.1 t=3914
+enctabg 	先获取到	c=0 d=0.1 t=3915
+enctahu 	等工具将	c=0 d=0.1 t=2704
+enctahw 	等工具	c=0 d=0.1 t=2703
+enctaqq 	长鑫	c=0 d=0.1 t=7562
+enctauj 	种区间	c=0 d=0.1 t=62
+enctaur 	种区间打	c=0 d=0.1 t=63
+enctawt 	和工作	c=0 d=0.1 t=7458
+enctayp 	长亮	c=0 d=0.1 t=1550
+enctbgi 	我也不	c=0 d=0.1 t=5546
+enctcfc 	入驱动	c=0 d=0.1 t=2221
+enctcfc 	和驱动	c=0 d=0.1 t=2285
+enctcfp 	等通过	c=0 d=0.1 t=6336
+enctcfp 	算通过	c=0 d=0.1 t=3807
+enctcfr 	入驱动所	c=0 d=0.1 t=2222
+enctcgh 	私下	c=0 d=0.1 t=7080
+enctcjg 	么是	c=0 d=0.1 t=3536
+enctcyp 	么这	c=0 d=0.1 t=5167
+enctdbo 	生成函数	c=0 d=0.1 t=2449
+enctdpg 	先确定	c=0 d=0.1 t=7179
+enctdrg 	生成的一	c=0 d=0.1 t=2139
+enctdrq 	生成的	c=0 d=0.1 t=6791
+enctegg 	利用下班	c=0 d=0.1 t=88
+enctegh 	利用下	c=0 d=0.1 t=87
+enctegi 	般不	c=0 d=0.1 t=5930
+enctejg 	般是	c=0 d=0.1 t=4242
+enctfce 	等通	c=0 d=0.1 t=6335
+enctfdp 	入雷达	c=0 d=0.1 t=412
+enctfft 	自动进入	c=0 d=0.1 t=5491
+enctfhs 	移动目标	c=0 d=0.1 t=4960
+enctfjg 	等是	c=0 d=0.1 t=5716
+enctfnt 	先发	c=0 d=0.1 t=1445
+enctfqe 	先触	c=0 d=0.1 t=646
+enctfrg 	先后	c=0 d=0.1 t=3890
+enctfrh 	先看	c=0 d=0.1 t=7311
+enctfrq 	移动的	c=0 d=0.1 t=5039
+enctfrq 	行的	c=0 d=0.1 t=5861
+enctfrw 	自动操作	c=0 d=0.1 t=5450
+enctftd 	自动生成	c=0 d=0.1 t=2448
+enctftf 	等等	c=0 d=0.1 t=7294
+enctftm 	先向	c=0 d=0.1 t=3922
+enctfyc 	丢弃	c=0 d=0.1 t=4043
+enctfyl 	行为	c=0 d=0.1 t=2168
+enctgbo 	处理函数	c=1 d=1 t=1958
+enctgch 	向平台上	c=0 d=0.1 t=298
+enctgck 	向平台	c=0 d=0.1 t=297
+enctgey 	处理及	c=0 d=0.1 t=5397
+enctgey 	我到月底	c=0 d=0.1 t=7448
+enctgfl 	处理靐	c=0 d=0.1 t=575
+enctgft 	管理都	c=0 d=0.1 t=1295
+enctggc 	管理平台	c=0 d=0.1 t=6974
+enctggu 	管理平	c=0 d=0.1 t=6973
+enctghc 	系列步骤	c=0 d=0.1 t=5463
+enctgit 	处理流程	c=0 d=0.1 t=4469
+enctgit 	处理消息	c=0 d=0.1 t=4482
+enctgiw 	私下流传	c=0 d=0.1 t=7081
+enctgjf 	生时	c=0 d=0.1 t=2390
+enctgjg 	我不是	c=0 d=0.1 t=6735
+enctgjt 	我不是很	c=0 d=0.1 t=6736
+enctgju 	第一时间	c=0 d=0.1 t=5745
+enctgkh 	处理路	c=1 d=1 t=1837
+enctgkh 	处理踢	c=0 d=0.1 t=657
+enctgkh 	循环中	c=0 d=0.1 t=4873
+enctgli 	处理办法	c=0 d=0.1 t=7275
+enctgng 	利于快速	c=0 d=0.1 t=7164
+enctgnt 	重发	c=0 d=0.1 t=4531
+enctgrg 	处理后	c=0 d=0.1 t=5220
+enctgrq 	处理的	c=0 d=0.1 t=1845
+enctgrr 	处理后的	c=0 d=0.1 t=5221
+enctgrw 	得到摄像	c=0 d=0.1 t=896
+enctgsf 	管理模块	c=0 d=0.1 t=1366
+enctgtf 	第一行	c=0 d=0.1 t=2167
+enctgts 	第一条	c=0 d=0.1 t=4081
+enctgty 	第一行为	c=0 d=0.1 t=2168
+enctgua 	处理并	c=0 d=0.1 t=2428
+enctgun 	第一次收	c=0 d=0.1 t=4506
+enctguq 	第一次	c=0 d=0.1 t=4816
+enctgvg 	处理如下	c=1 d=1 t=4905
+enctgwb 	般不会出	c=0 d=0.1 t=5932
+enctgwd 	处理代码	c=1 d=1 t=568
+enctgwf 	处理佞	c=0 d=0.1 t=2016
+enctgwf 	我一会	c=0 d=0.1 t=315
+enctgwf 	般不会	c=0 d=0.1 t=5931
+enctgwg 	第一件事	c=0 d=0.1 t=3701
+enctgwh 	向整个	c=0 d=0.1 t=2625
+enctgwh 	第一个	c=0 d=0.1 t=2150
+enctgwq 	我一会儿	c=0 d=0.1 t=316
+enctgwr 	第一件	c=0 d=0.1 t=3700
+enctgwy 	处理佞为	c=0 d=0.1 t=2017
+enctgyg 	处理主	c=0 d=0.1 t=1155
+enctgys 	处理主要	c=0 d=0.1 t=1156
+enctgyw 	处不方便	c=0 d=0.1 t=5834
+encthbn 	算了	c=0 d=0.1 t=353
+encthce 	算通	c=0 d=0.1 t=3806
+encthdm 	和上面	c=0 d=0.1 t=5149
+encthdr 	和上面的	c=0 d=0.1 t=5150
+encthgf 	自于	c=0 d=0.1 t=4510
+encthgi 	处不	c=0 d=0.1 t=5833
+encthjg 	片是	c=0 d=0.1 t=6168
+encthnn 	自已	c=0 d=0.1 t=3731
+encthsf 	入目标	c=0 d=0.1 t=2709
+encthsw 	自检	c=0 d=0.1 t=3264
+encthtm 	自身	c=0 d=0.1 t=3791
+encthww 	自从	c=0 d=0.1 t=4639
+enctieg 	移涉及互	c=0 d=0.1 t=4339
+enctiey 	移涉及	c=0 d=0.1 t=4338
+enctijg 	算法是	c=0 d=0.1 t=748
+enctilk 	处添加	c=0 d=0.1 t=5874
+enctilo 	处添加断	c=0 d=0.1 t=5875
+enctjet 	利用	c=0 d=0.1 t=86
+enctjgc 	得到	c=0 d=0.1 t=895
+enctjgd 	我昨天	c=0 d=0.1 t=7202
+enctjgf 	利于	c=0 d=0.1 t=7163
+enctjgf 	我昨天过	c=0 d=0.1 t=70
+enctjgh 	片是否上	c=0 d=0.1 t=6170
+enctjgi 	片是否	c=0 d=0.1 t=6169
+enctjhh 	我早上	c=0 d=0.1 t=240
+enctjhi 	我早上没	c=0 d=0.1 t=241
+enctjsv 	入时要	c=0 d=0.1 t=2742
+enctjxw 	复给	c=0 d=0.1 t=6929
+enctkbo 	入口函数	c=0 d=0.1 t=1011
+enctkhh 	和上	c=0 d=0.1 t=5148
+enctkod 	各类	c=0 d=0.1 t=2911
+enctkod 	种类	c=0 d=0.1 t=1731
+enctkwh 	各个	c=0 d=0.1 t=7238
+enctleg 	各辅助	c=0 d=0.1 t=2531
+enctlem 	各辅助网	c=0 d=0.1 t=2532
+enctlst 	很轻松得	c=0 d=0.1 t=5406
+enctlsw 	很轻松	c=0 d=0.1 t=5405
+enctlue 	第四章及	c=0 d=0.1 t=7533
+enctluj 	第四章	c=0 d=0.1 t=7532
+enctmgu 	向平	c=0 d=0.1 t=296
+enctmih 	微波	c=0 d=0.1 t=7543
+enctmpx 	向它	c=0 d=0.1 t=3739
+enctmqh 	向外	c=0 d=0.1 t=499
+enctmrq 	身的	c=0 d=0.1 t=3792
+enctnit 	重发消息	c=0 d=0.1 t=4532
+enctnrq 	自己的	c=0 d=0.1 t=3760
+enctnrq 	自已的	c=0 d=0.1 t=3732
+enctnug 	种情况一	c=0 d=0.1 t=4240
+enctnug 	种情况下	c=0 d=0.1 t=6717
+enctnug 	般情况下	c=0 d=0.1 t=5047
+enctnuj 	种情况时	c=0 d=0.1 t=3437
+enctnuk 	种情况	c=0 d=0.1 t=6716
+enctnuk 	般情况	c=0 d=0.1 t=5046
+enctnuq 	种情况多	c=0 d=0.1 t=2958
+enctorq 	各类的	c=0 d=0.1 t=2912
+enctpdc 	和密码	c=0 d=0.1 t=6489
+enctpdg 	和密码与	c=0 d=0.1 t=6490
+enctpnb 	向它发出	c=0 d=0.1 t=3741
+enctpnt 	向它发	c=0 d=0.1 t=3740
+enctprq 	特定按键	c=1 d=1 t=2424
+enctpwd 	各字段	c=0 d=0.1 t=6458
+enctpwg 	行实例	c=0 d=0.1 t=1614
+enctpwj 	各字段是	c=0 d=0.1 t=6459
+enctpww 	行实例化	c=0 d=0.1 t=1615
+enctqbm 	移出	c=0 d=0.1 t=4350
+enctqgc 	移至	c=0 d=0.1 t=4346
+enctqnt 	先触发	c=0 d=0.1 t=647
+enctqny 	先触发就	c=0 d=0.1 t=648
+enctqrq 	很多的	c=0 d=0.1 t=5623
+enctqyi 	自然就	c=0 d=0.1 t=3935
+enctqyj 	自然就是	c=0 d=0.1 t=1025
+enctqyn 	自然就收	c=0 d=0.1 t=3936
+enctrbn 	我也	c=0 d=0.1 t=5545
+enctrde 	每所有	c=0 d=0.1 t=7257
+enctrde 	每所有及	c=0 d=0.1 t=7258
+enctrek 	选择用哪	c=0 d=0.1 t=358
+enctret 	选择用	c=0 d=0.1 t=357
+enctrfn 	我年志	c=0 d=0.1 t=10
+enctrft 	身的进行	c=0 d=0.1 t=3793
+enctrgc 	我到	c=0 d=0.1 t=7447
+enctrgg 	先看一	c=0 d=0.1 t=7312
+enctrgg 	先看一下	c=0 d=0.1 t=7313
+enctrgg 	我一	c=0 d=0.1 t=314
+enctrgi 	我不	c=0 d=0.1 t=6734
+enctrik 	各探测器	c=0 d=0.1 t=2695
+enctrim 	各探测	c=0 d=0.1 t=2694
+enctrjh 	我早	c=0 d=0.1 t=239
+enctrpw 	行的定位	c=0 d=0.1 t=5862
+enctrrh 	我看	c=0 d=0.1 t=2
+enctrrq 	选择的	c=0 d=0.1 t=850
+enctrrw 	选择摄像	c=0 d=0.1 t=839
+enctrsh 	我想	c=0 d=0.1 t=84
+enctrti 	选择算法	c=0 d=0.1 t=747
+enctrut 	先后关系	c=0 d=0.1 t=3891
+enctrwe 	选择使用	c=0 d=0.1 t=720
+enctrwu 	我们	c=0 d=0.1 t=6274
+enctryb 	选择离	c=0 d=0.1 t=762
+enctryi 	我就	c=0 d=0.1 t=25
+enctsad 	自检项	c=0 d=0.1 t=3309
+enctscd 	自检驼有	c=0 d=0.1 t=5437
+enctsfc 	自检未通	c=0 d=0.1 t=3224
+enctsfi 	自检未	c=0 d=0.1 t=3223
+enctsrg 	复核后	c=0 d=0.1 t=1107
+enctsrm 	自检失败	c=0 d=0.1 t=3316
+enctssg 	先检查一	c=0 d=0.1 t=2347
+enctssj 	先检查	c=0 d=0.1 t=2346
+enctstc 	版本私	c=0 d=0.1 t=7079
+enctste 	我想利用	c=0 d=0.1 t=86
+enctstg 	版本私下	c=0 d=0.1 t=7080
+enctstj 	我想利	c=0 d=0.1 t=85
+enctsuk 	重要部	c=0 d=0.1 t=1285
+enctsuw 	重要部分	c=0 d=0.1 t=1286
+enctsyk 	复核识别	c=0 d=0.1 t=1255
+enctsym 	版本调	c=0 d=0.1 t=2060
+enctsyy 	版本调试	c=0 d=0.1 t=2061
+encttey 	等待用户	c=0 d=0.1 t=3576
+encttfd 	等待雷达	c=0 d=0.1 t=2852
+encttfl 	等待雷	c=0 d=0.1 t=2851
+encttgg 	向管理平	c=0 d=0.1 t=3333
+encttgj 	向管理	c=0 d=0.1 t=3332
+encttnt 	重复发	c=0 d=0.1 t=4092
+encttnu 	重复发送	c=0 d=0.1 t=4093
+encttrq 	自身的	c=0 d=0.1 t=3792
+encttrs 	重复描述	c=1 d=1 t=6696
+encttuj 	很简单	c=0 d=0.1 t=6250
+encttxy 	等待编译	c=0 d=0.1 t=2810
+encttyc 	待程序	c=0 d=0.1 t=7137
+enctufd 	知道朝右	c=0 d=0.1 t=29
+enctuft 	重新运行	c=0 d=0.1 t=3083
+enctuft 	重新进行	c=0 d=0.1 t=1166
+enctugb 	简单列出	c=0 d=0.1 t=6747
+enctugq 	简单列	c=0 d=0.1 t=6746
+enctuia 	知道漠	c=0 d=0.1 t=14
+enctulg 	重新回到	c=0 d=0.1 t=1197
+enctulk 	重新回	c=0 d=0.1 t=1196
+enctulr 	重新转换	c=0 d=0.1 t=854
+enctunr 	简单怕	c=1 d=1 t=5378
+encturq 	重新打包	c=0 d=0.1 t=6961
+encturt 	重新执行	c=0 d=0.1 t=5456
+enctuww 	重新优化	c=0 d=0.1 t=4660
+enctuym 	重新调	c=0 d=0.1 t=2084
+enctvqq 	很多	c=0 d=0.1 t=5622
+enctvsf 	盘鼠标	c=0 d=0.1 t=2329
+enctwbn 	身份了	c=0 d=0.1 t=3684
+enctwdc 	入代码	c=0 d=0.1 t=4167
+enctwdw 	入代码悠	c=0 d=0.1 t=3163
+enctwfq 	每个无	c=0 d=0.1 t=2130
+enctwfs 	我们需要	c=0 d=0.1 t=3440
+enctwgd 	我今天	c=0 d=0.1 t=222
+enctwgf 	我今天去	c=0 d=0.1 t=223
+enctwhc 	各个步骤	c=0 d=0.1 t=7239
+enctwhc 	每个步骤	c=0 d=0.1 t=7244
+enctwhs 	入侵目标	c=0 d=0.1 t=5731
+enctwiu 	我们当前	c=0 d=0.1 t=6137
+enctwkg 	射信号	c=0 d=0.1 t=4519
+enctwkx 	射信号给	c=0 d=0.1 t=1450
+enctwos 	每个灯	c=0 d=0.1 t=1630
+enctwrq 	我们的	c=0 d=0.1 t=6275
+enctwrq 	身份的	c=0 d=0.1 t=3689
+enctwsc 	我们可能	c=0 d=0.1 t=3611
+enctwsk 	我们可	c=0 d=0.1 t=3610
+enctwwf 	我们会	c=0 d=0.1 t=4692
+enctwwn 	我们假	c=0 d=0.1 t=3874
+enctwwt 	我们会先	c=0 d=0.1 t=4693
+enctwww 	我们从	c=0 d=0.1 t=544
+enctwwy 	我们假设	c=0 d=0.1 t=3875
+enctwyb 	我们为了	c=0 d=0.1 t=4677
+enctwyl 	我们为	c=0 d=0.1 t=4676
+enctwyt 	每个设备	c=0 d=0.1 t=2639
+enctwyt 	自从设备	c=0 d=0.1 t=4640
+enctwyy 	我们应该	c=0 d=0.1 t=3520
+enctxfg 	第二	c=0 d=0.1 t=2170
+enctxft 	系统进入	c=0 d=0.1 t=5069
+enctxgg 	第一	c=0 d=0.1 t=5744
+enctxkh 	系统中	c=0 d=0.1 t=2627
+enctxkr 	系统中的	c=0 d=0.1 t=2628
+enctxlh 	第四	c=0 d=0.1 t=7531
+enctxmq 	系统网	c=0 d=0.1 t=2511
+enctxmr 	系统内所	c=0 d=0.1 t=4134
+enctxms 	系统内核	c=0 d=0.1 t=2126
+enctxmw 	系统内	c=0 d=0.1 t=4133
+enctxmx 	系统网络	c=0 d=0.1 t=2512
+enctxpf 	系统完	c=0 d=0.1 t=5470
+enctxpv 	系统初始	c=0 d=0.1 t=3066
+enctxrn 	每所	c=0 d=0.1 t=7256
+enctxrq 	系统的	c=0 d=0.1 t=7129
+enctxwf 	系统会	c=0 d=0.1 t=5425
+enctxwh 	每个	c=0 d=0.1 t=7243
+enctxwl 	系统会回	c=0 d=0.1 t=5426
+enctxym 	系统调	c=0 d=0.1 t=7219
+enctxyn 	系统高层	c=0 d=0.1 t=2464
+enctxyy 	系统调试	c=0 d=0.1 t=7235
+enctyde 	程序有	c=0 d=0.1 t=6731
+enctydp 	程序确实	c=0 d=0.1 t=5887
+enctyfc 	先启动	c=0 d=0.1 t=4694
+enctyfl 	入雷	c=0 d=0.1 t=411
+enctyft 	程序运行	c=0 d=0.1 t=7118
+enctyft 	程序进行	c=0 d=0.1 t=6538
+enctyfy 	先启动主	c=0 d=0.1 t=4695
+enctyga 	程序与工	c=0 d=0.1 t=6765
+enctygg 	我就不不	c=0 d=0.1 t=27
+enctygi 	我就不	c=0 d=0.1 t=26
+enctygn 	程序与	c=0 d=0.1 t=6764
+enctyhj 	程序此时	c=0 d=0.1 t=3574
+enctyhx 	程序此	c=0 d=0.1 t=3573
+enctyit 	航迹消息	c=0 d=0.1 t=6997
+enctyjf 	入时	c=0 d=0.1 t=2741
+enctykh 	程序中	c=0 d=0.1 t=3615
+enctykk 	程序中只	c=0 d=0.1 t=3256
+enctykl 	待识别	c=1 d=1 t=6572
+enctykr 	待识别的	c=0 d=0.1 t=6573
+enctyni 	程序异常	c=0 d=0.1 t=7138
+enctyon 	程序烟怕	c=0 d=0.1 t=7110
+enctyor 	航迹数据	c=0 d=0.1 t=5754
+enctysi 	篇文档	c=0 d=0.1 t=7396
+enctytl 	各设备	c=0 d=0.1 t=2600
+enctytl 	向设备	c=0 d=0.1 t=1545
+enctytl 	等设备	c=0 d=0.1 t=2989
+enctytw 	各设备依	c=0 d=0.1 t=2565
+enctyui 	么这次测	c=0 d=0.1 t=5169
+enctyuq 	么这次	c=0 d=0.1 t=5168
+enctywv 	入侵	c=0 d=0.1 t=5762
+enctyyf 	程序启动	c=0 d=0.1 t=3386
+encuace 	并通	c=0 d=0.1 t=2375
+encuadh 	并在	c=0 d=0.1 t=1602
+encuaeg 	并且	c=0 d=0.1 t=7160
+encuajb 	并最	c=0 d=0.1 t=6957
+encuajf 	效工时	c=0 d=0.1 t=7514
+encuajo 	效工时数	c=0 d=0.1 t=7515
+encuakh 	章节中	c=0 d=0.1 t=2361
+encuany 	并以	c=0 d=0.1 t=1059
+encuarh 	将其掉	c=0 d=0.1 t=3465
+encuarp 	将工控	c=0 d=0.1 t=7043
+encuars 	将工控板	c=0 d=0.1 t=7044
+encuaru 	将其提交	c=0 d=0.1 t=6526
+encuarx 	并指	c=0 d=0.1 t=1790
+encuatj 	并得	c=0 d=0.1 t=894
+encuaue 	并前	c=0 d=0.1 t=3467
+encuauq 	并将	c=0 d=0.1 t=2231
+encuawh 	将某个	c=0 d=0.1 t=4325
+encuawo 	将某个类	c=0 d=0.1 t=4326
+encuayb 	将共享	c=0 d=0.1 t=6327
+encubfg 	产出都列	c=0 d=0.1 t=7462
+encubft 	产出都	c=0 d=0.1 t=7461
+encuchs 	头对目标	c=0 d=0.1 t=774
+encudad 	并在其	c=0 d=0.1 t=1603
+encudag 	凑七	c=0 d=0.1 t=5634
+encudcf 	头对	c=0 d=0.1 t=773
+encudfp 	头过	c=0 d=0.1 t=786
+encudft 	头都	c=0 d=0.1 t=5967
+encudgc 	送到	c=0 d=0.1 t=4031
+encudgc 	送至	c=0 d=0.1 t=6941
+encudgg 	送一	c=0 d=0.1 t=4094
+encudgi 	状态不	c=0 d=0.1 t=7304
+encudgi 	状态正常	c=0 d=0.1 t=5921
+encudgj 	状态不是	c=0 d=0.1 t=7305
+encudit 	减少	c=0 d=0.1 t=7084
+encudjf 	状态时	c=0 d=0.1 t=1443
+encudjf 	状态显示	c=0 d=0.1 t=1407
+encudjg 	状态是	c=0 d=0.1 t=5027
+encudjg 	状态是否	c=0 d=0.1 t=5028
+encudmg 	状态同	c=0 d=0.1 t=4103
+encudmh 	状态同步	c=0 d=0.1 t=4104
+encudni 	状态异常	c=0 d=0.1 t=5901
+encudpe 	头厂家	c=0 d=0.1 t=6105
+encudrg 	头后	c=0 d=0.1 t=846
+encudrm 	状态失败	c=0 d=0.1 t=3403
+encudrq 	关的	c=0 d=0.1 t=2291
+encudrq 	前面的	c=0 d=0.1 t=2359
+encudrq 	头的	c=0 d=0.1 t=6076
+encudrq 	状态的	c=0 d=0.1 t=1555
+encudrq 	送的	c=0 d=0.1 t=4766
+encudsi 	状态枚举	c=0 d=0.1 t=1458
+encudsk 	头可	c=0 d=0.1 t=923
+encudtk 	状态种	c=0 d=0.1 t=1730
+encudto 	状态种类	c=0 d=0.1 t=1731
+encudxw 	送给	c=0 d=0.1 t=279
+encudyg 	送请	c=0 d=0.1 t=2634
+encuecf 	并且对	c=0 d=0.1 t=1734
+encuecg 	并且对于	c=0 d=0.1 t=1735
+encuede 	并且有	c=0 d=0.1 t=7161
+encuedm 	前面	c=0 d=0.1 t=2358
+encuedt 	并且有利	c=0 d=0.1 t=7162
+encuehj 	前旧	c=0 d=0.1 t=5531
+encuenr 	章及以后	c=0 d=0.1 t=7535
+encueny 	章及以	c=0 d=0.1 t=7534
+encuerg 	前后	c=0 d=0.1 t=3468
+encuexw 	前给	c=0 d=0.1 t=7406
+encufjg 	半是	c=0 d=0.1 t=2960
+encufrp 	头过近	c=0 d=0.1 t=787
+encufwv 	头都登录	c=0 d=0.1 t=5968
+encuggh 	问一下	c=0 d=0.1 t=48
+encugrq 	交互的	c=0 d=0.1 t=1283
+encugtg 	送至管理	c=0 d=0.1 t=6942
+encuguq 	送一次	c=0 d=0.1 t=4095
+encuhjn 	次上电	c=0 d=0.1 t=2568
+encuhrq 	前旧的	c=0 d=0.1 t=5532
+encuikh 	次测距	c=0 d=0.1 t=5170
+encuirq 	关注的	c=0 d=0.1 t=5647
+encuith 	次消息	c=0 d=0.1 t=4096
+encuith 	送消息	c=0 d=0.1 t=3973
+encujey 	章及	c=0 d=0.1 t=7533
+encujey 	问题及	c=0 d=0.1 t=3502
+encujhx 	遵照此	c=0 d=0.1 t=2574
+encujld 	半是因	c=0 d=0.1 t=2961
+encujly 	半是因为	c=0 d=0.1 t=2962
+encujpp 	问题之	c=0 d=0.1 t=5912
+encujpr 	问题之后	c=0 d=0.1 t=5913
+encujpw 	问题定位	c=0 d=0.1 t=7157
+encujrq 	问题的	c=0 d=0.1 t=7371
+encujrq 	间的	c=0 d=0.1 t=2041
+encujtf 	遵照先	c=0 d=0.1 t=2545
+encujvc 	问题即	c=0 d=0.1 t=2925
+encujxt 	并最终	c=0 d=0.1 t=6958
+encujyg 	问题就来	c=0 d=0.1 t=3909
+encujyi 	问题就	c=0 d=0.1 t=3908
+encukgg 	问一	c=0 d=0.1 t=47
+encukkg 	端口号	c=0 d=0.1 t=5714
+encukkh 	头跟踪	c=0 d=0.1 t=372
+encukkt 	端口号等	c=0 d=0.1 t=5715
+encukwv 	部分	c=0 d=0.1 t=7020
+encukyf 	总计	c=0 d=0.1 t=7529
+encungc 	次收到	c=0 d=0.1 t=4507
+encungg 	次收到来	c=0 d=0.1 t=4508
+encunnt 	效属性	c=0 d=0.1 t=1648
+encuofg 	闪烁都更	c=0 d=0.1 t=1747
+encuoft 	闪烁都	c=0 d=0.1 t=1746
+encuogi 	闪烁不	c=0 d=0.1 t=1713
+encuogw 	闪烁不但	c=0 d=0.1 t=1714
+encuorr 	判断指挥	c=0 d=0.1 t=2589
+encuorr 	闪烁控制	c=0 d=0.1 t=1866
+encuotg 	闪烁处理	c=0 d=0.1 t=1844
+encuotx 	判断系统	c=0 d=0.1 t=7128
+encupuk 	头实况	c=0 d=0.1 t=6051
+encuqaa 	将工	c=0 d=0.1 t=7042
+encuqad 	将其	c=0 d=0.1 t=6525
+encuqaf 	将某	c=0 d=0.1 t=4324
+encuqah 	关键节点	c=0 d=0.1 t=7285
+encuqfg 	单独起一	c=0 d=0.1 t=996
+encuqfh 	单独起	c=0 d=0.1 t=995
+encuqhh 	次上	c=0 d=0.1 t=2567
+encuqim 	次测	c=0 d=0.1 t=5169
+encuqnh 	次收	c=0 d=0.1 t=4506
+encuqnt 	将发	c=0 d=0.1 t=3784
+encuqrq 	交换	c=0 d=0.1 t=2616
+encuqrq 	效的	c=0 d=0.1 t=5338
+encuqrr 	将抓	c=0 d=0.1 t=1071
+encuqtk 	将各	c=0 d=0.1 t=2563
+encuqwf 	将会	c=0 d=0.1 t=3819
+encuqyi 	效就	c=0 d=0.1 t=5243
+encurbc 	将抓取	c=0 d=0.1 t=194
+encurbg 	交接了一	c=0 d=0.1 t=74
+encurbn 	交接了	c=0 d=0.1 t=73
+encurft 	前后运行	c=0 d=0.1 t=3469
+encurhx 	送的此	c=0 d=0.1 t=4767
+encurik 	将探测器	c=0 d=0.1 t=2521
+encurim 	将探测	c=0 d=0.1 t=2520
+encurmt 	头失败	c=0 d=0.1 t=5656
+encurpb 	并指定了	c=0 d=0.1 t=1792
+encurpg 	并指定	c=0 d=0.1 t=1791
+encurrg 	将抓拍到	c=0 d=0.1 t=1073
+encurrm 	头控制	c=0 d=0.1 t=915
+encurrp 	头控制完	c=0 d=0.1 t=916
+encurrr 	头的控制	c=0 d=0.1 t=899
+encurrr 	将抓拍	c=0 d=0.1 t=1072
+encursm 	交换机	c=0 d=0.1 t=2617
+encurta 	并执行其	c=0 d=0.1 t=2401
+encurtf 	并执行	c=0 d=0.1 t=2400
+encurtg 	送的第一	c=0 d=0.1 t=4080
+encurtx 	送的第	c=0 d=0.1 t=4079
+encuruq 	资提交	c=0 d=0.1 t=7409
+encurur 	资提交的	c=0 d=0.1 t=7410
+encurwq 	将摄像	c=0 d=0.1 t=167
+encurys 	交接文档	c=0 d=0.1 t=99
+encuryy 	头的调度	c=0 d=0.1 t=6001
+encusny 	头可以	c=0 d=0.1 t=924
+encusrh 	并查看	c=0 d=0.1 t=4304
+encusud 	头相关	c=0 d=0.1 t=5707
+encusuu 	新立	c=0 d=0.1 t=398
+encutaw 	准备工作	c=0 d=0.1 t=2500
+encutgc 	并得到	c=0 d=0.1 t=895
+encutrq 	关系的	c=0 d=0.1 t=3892
+encutss 	首先检查	c=0 d=0.1 t=6653
+encutsv 	首先要	c=0 d=0.1 t=6426
+encutus 	将重新	c=0 d=0.1 t=6960
+encutus 	并重新	c=0 d=0.1 t=6936
+encutwd 	首先会有	c=0 d=0.1 t=5185
+encutwf 	首先会	c=0 d=0.1 t=5184
+encutyg 	首先请	c=0 d=0.1 t=5022
+encutyo 	将航迹	c=0 d=0.1 t=302
+encutyr 	首先这抚	c=0 d=0.1 t=1035
+encutyt 	将各设备	c=0 d=0.1 t=2564
+encuudy 	头状态	c=0 d=0.1 t=5670
+encuurg 	并前后	c=0 d=0.1 t=3468
+encuutj 	新立得	c=0 d=0.1 t=399
+encuutj 	立得	c=0 d=0.1 t=399
+encuuxy 	并将编译	c=0 d=0.1 t=2232
+encuvpw 	立即定位	c=0 d=0.1 t=7151
+encuwaw 	部分工作	c=0 d=0.1 t=77
+encuwdc 	将代码	c=0 d=0.1 t=2705
+encuwoq 	闪烁	c=0 d=0.1 t=1745
+encuwrg 	将会看到	c=0 d=0.1 t=3821
+encuwrh 	将会看	c=0 d=0.1 t=3820
+encuxjs 	将结果	c=0 d=0.1 t=6932
+encuxtg 	送给管理	c=0 d=0.1 t=280
+encuxwu 	前给人资	c=0 d=0.1 t=7408
+encuxww 	前给人	c=0 d=0.1 t=7407
+encuxyc 	将编译	c=0 d=0.1 t=2232
+encuxyp 	将编译完	c=0 d=0.1 t=2233
+encuyaq 	头盲区	c=0 d=0.1 t=795
+encuyet 	并调用	c=0 d=0.1 t=6370
+encuyfc 	并启动	c=0 d=0.1 t=2785
+encuyfi 	送请求	c=0 d=0.1 t=3339
+encuygg 	咨询一	c=0 d=0.1 t=6101
+encuygg 	咨询一下	c=0 d=0.1 t=6102
+encuyka 	头调嘛工	c=0 d=0.1 t=5945
+encuysk 	效就可	c=0 d=0.1 t=5244
+encuysn 	效就可以	c=0 d=0.1 t=5245
+encuytl 	并设备	c=0 d=0.1 t=2855
+encuyya 	头调度	c=0 d=0.1 t=6033
+encuyyc 	将放弃	c=0 d=0.1 t=6626
+encuyyg 	头调度与	c=0 d=0.1 t=6034
+encuyyt 	将放弃向	c=0 d=0.1 t=6627
+encvbwu 	她们	c=0 d=0.1 t=7430
+encvcjg 	即是	c=0 d=0.1 t=3219
+encvcsk 	即可	c=0 d=0.1 t=5097
+encvcwf 	即会	c=0 d=0.1 t=5489
+encvcyu 	即说	c=0 d=0.1 t=3394
+encvegc 	退至	c=0 d=0.1 t=5428
+encvfsv 	即需要	c=0 d=0.1 t=5448
+encvftc 	那么	c=0 d=0.1 t=5311
+encvftr 	那我	c=0 d=0.1 t=313
+encvfwh 	那个	c=0 d=0.1 t=770
+encvfyg 	那主	c=0 d=0.1 t=3900
+encvfyi 	那就	c=0 d=0.1 t=6289
+encvgfd 	退至雷达	c=0 d=0.1 t=5430
+encvgfl 	退至雷	c=0 d=0.1 t=5429
+encvgmp 	如下内容	c=0 d=0.1 t=2097
+encvgmt 	如下几	c=0 d=0.1 t=116
+encvgmw 	如下几个	c=0 d=0.1 t=117
+encvgrk 	如下接口	c=0 d=0.1 t=6372
+encvgrq 	如下打印	c=0 d=0.1 t=4946
+encvgrq 	如下的	c=0 d=0.1 t=4966
+encvjaf 	如果某	c=0 d=0.1 t=3598
+encvjaw 	如果某个	c=0 d=0.1 t=3599
+encvjay 	如果共享	c=0 d=0.1 t=6419
+encvjbg 	如果出现	c=0 d=0.1 t=6086
+encvjbm 	如果出	c=0 d=0.1 t=6085
+encvjce 	如果通	c=0 d=0.1 t=3815
+encvjcf 	如果通过	c=0 d=0.1 t=3816
+encvjcf 	如果驱动	c=0 d=0.1 t=2293
+encvjde 	如果有	c=0 d=0.1 t=6280
+encvjdh 	如果在	c=0 d=0.1 t=4987
+encvjdr 	如果在看	c=0 d=0.1 t=4988
+encvjdt 	如果有入	c=0 d=0.1 t=5758
+encvjfd 	如果雷达	c=0 d=0.1 t=5918
+encvjfl 	如果雷	c=0 d=0.1 t=5917
+encvjgi 	如果不	c=0 d=0.1 t=5629
+encvjgi 	如果正常	c=0 d=0.1 t=5179
+encvjhs 	如果目标	c=0 d=0.1 t=782
+encvjht 	如果频繁	c=0 d=0.1 t=6089
+encvjik 	如果测距	c=0 d=0.1 t=5363
+encvjim 	如果没	c=0 d=0.1 t=5293
+encvjim 	如果测	c=0 d=0.1 t=5362
+encvjiu 	如果当前	c=0 d=0.1 t=660
+encvjiv 	如果没那	c=0 d=0.1 t=5165
+encvjjg 	如果是	c=0 d=0.1 t=591
+encvjjy 	如果是主	c=0 d=0.1 t=592
+encvjng 	如果发现	c=0 d=0.1 t=6186
+encvjnt 	如果发	c=0 d=0.1 t=6185
+encvjny 	如果以	c=0 d=0.1 t=4193
+encvjrg 	如果后	c=0 d=0.1 t=2065
+encvjri 	如果探测	c=0 d=0.1 t=4907
+encvjrm 	如果失败	c=0 d=0.1 t=5349
+encvjrx 	如果后续	c=0 d=0.1 t=2066
+encvjsg 	如果本	c=0 d=0.1 t=6633
+encvjtx 	如果第	c=0 d=0.1 t=5962
+encvjty 	如果程序	c=0 d=0.1 t=5886
+encvjyp 	如果这	c=0 d=0.1 t=6619
+encvjyt 	即是设备	c=0 d=0.1 t=3220
+encvjyt 	如果这条	c=0 d=0.1 t=4072
+encvjyw 	如果这个	c=0 d=0.1 t=6620
+encvktx 	如第	c=0 d=0.1 t=2165
+encvkyy 	如该	c=0 d=0.1 t=3033
+encvrak 	如报警器	c=0 d=0.1 t=1292
+encvraq 	如报警	c=0 d=0.1 t=1291
+encvrpr 	寻找它的	c=0 d=0.1 t=3706
+encvrpx 	寻找它	c=0 d=0.1 t=3705
+encvrwq 	好摄像	c=0 d=0.1 t=844
+encvrwu 	好摄像头	c=0 d=0.1 t=845
+encvsqe 	即可触	c=0 d=0.1 t=5098
+encvsqn 	即可触发	c=0 d=0.1 t=5099
+encvsqu 	即可解决	c=0 d=0.1 t=4355
+encvsyf 	即可启动	c=0 d=0.1 t=2815
+encvtgg 	如第一	c=0 d=0.1 t=2166
+encvtgg 	那我一	c=0 d=0.1 t=314
+encvtgt 	如第一行	c=0 d=0.1 t=2167
+encvtgw 	那我一会	c=0 d=0.1 t=315
+encvtyp 	那么这	c=0 d=0.1 t=5167
+encvtyu 	那么这次	c=0 d=0.1 t=5168
+encvwrs 	她们打	c=0 d=0.1 t=7431
+encvwrw 	她们打个	c=0 d=0.1 t=7432
+encvwrw 	那个摄像	c=0 d=0.1 t=771
+encvwtf 	即会自动	c=0 d=0.1 t=5490
+encvycf 	建议对	c=0 d=0.1 t=4365
+encvyet 	即调用	c=0 d=0.1 t=2900
+encvyet 	即调用各	c=0 d=0.1 t=2901
+encvyfs 	那就需要	c=0 d=0.1 t=6220
+encvyje 	即说明	c=0 d=0.1 t=3395
+encvysl 	如该配置	c=0 d=0.1 t=3034
+encvyua 	建议将工	c=0 d=0.1 t=7042
+encvyuq 	建议将	c=0 d=0.1 t=7041
+encvyyj 	那就说明	c=0 d=0.1 t=6290
+encwabc 	们获取	c=0 d=0.1 t=3880
+encwahx 	侧某些	c=0 d=0.1 t=2582
+encwawt 	分工作	c=0 d=0.1 t=77
+encwbgl 	会出现因	c=0 d=0.1 t=3306
+encwbgm 	会出现	c=0 d=0.1 t=5933
+encwbwh 	会出个	c=0 d=0.1 t=7451
+encwcce 	仅通	c=0 d=0.1 t=1307
+encwcde 	仅有	c=0 d=0.1 t=4617
+encwcfp 	仅通过	c=0 d=0.1 t=1308
+encwcov 	个参数	c=0 d=0.1 t=2174
+encwcvy 	俊婷	c=0 d=0.1 t=44
+encwcyg 	仅主	c=0 d=0.1 t=129
+encwdaf 	停在某	c=0 d=0.1 t=4227
+encwdaw 	停在某个	c=0 d=0.1 t=4228
+encwdbg 	从而出现	c=0 d=0.1 t=2994
+encwdbm 	从而出	c=0 d=0.1 t=2993
+encwddg 	代码大致	c=0 d=0.1 t=4831
+encwddh 	代码在	c=0 d=0.1 t=5827
+encwddh 	会存在	c=0 d=0.1 t=4710
+encwddw 	从而确保	c=0 d=0.1 t=4099
+encwddy 	会存在主	c=0 d=0.1 t=4711
+encwdgm 	会有正迪	c=0 d=0.1 t=5189
+encwdhh 	代码上	c=0 d=0.1 t=4836
+encwdhv 	代码目录	c=0 d=0.1 t=3149
+encwdhy 	代码上讲	c=0 d=0.1 t=4837
+encwdif 	做法	c=0 d=0.1 t=753
+encwdih 	段小	c=0 d=0.1 t=7510
+encwdjd 	代码里面	c=0 d=0.1 t=5535
+encwdjf 	代码里	c=0 d=0.1 t=5534
+encwdkt 	代码路径	c=0 d=0.1 t=2700
+encwdmg 	代码同	c=0 d=0.1 t=7051
+encwdmh 	代码同步	c=0 d=0.1 t=7052
+encwdny 	代码以	c=0 d=0.1 t=4555
+encwdpp 	段之	c=0 d=0.1 t=5865
+encwdrq 	做的	c=0 d=0.1 t=3697
+encwdtg 	会在第一	c=0 d=0.1 t=5744
+encwdtx 	会在第	c=0 d=0.1 t=5743
+encwdty 	会在程序	c=0 d=0.1 t=3614
+encwdvg 	代码如下	c=0 d=0.1 t=6948
+encwdvg 	伴有如下	c=0 d=0.1 t=6954
+encwdvk 	会有如	c=0 d=0.1 t=5342
+encwdwg 	代码合	c=0 d=0.1 t=2679
+encwdwh 	代码悠	c=0 d=0.1 t=3163
+encwdwj 	代码悠时	c=0 d=0.1 t=3164
+encwdwn 	代码修改	c=0 d=0.1 t=2802
+encwdwr 	代码保持	c=0 d=0.1 t=7073
+encwdwt 	代码合入	c=0 d=0.1 t=2680
+encwdwt 	会有什么	c=0 d=0.1 t=6013
+encwdyi 	代码就	c=0 d=0.1 t=1310
+encwdyj 	会有说明	c=0 d=0.1 t=1922
+encwdyl 	代码库	c=0 d=0.1 t=7067
+encwdys 	代码就可	c=0 d=0.1 t=1311
+encwebn 	使用了	c=0 d=0.1 t=1978
+encweft 	使用远程	c=0 d=0.1 t=2761
+encwegi 	个月还	c=0 d=0.1 t=7439
+encwegj 	个月还是	c=0 d=0.1 t=7440
+encweij 	使用浏览	c=0 d=0.1 t=5687
+encwejf 	使用时	c=0 d=0.1 t=4392
+encwejg 	使用时再	c=0 d=0.1 t=4393
+encwekg 	使用哪一	c=0 d=0.1 t=722
+encwekv 	使用哪	c=0 d=0.1 t=721
+encwely 	使用默认	c=0 d=0.1 t=2116
+encweny 	仍以	c=0 d=0.1 t=1506
+encweox 	使用数组	c=0 d=0.1 t=4427
+encwerq 	使用的	c=0 d=0.1 t=4590
+encweti 	华腾微波	c=0 d=0.1 t=7543
+encwetm 	华腾微	c=0 d=0.1 t=7542
+encweym 	使用调	c=0 d=0.1 t=7140
+encweyy 	使用该	c=0 d=0.1 t=2089
+encweyy 	使用调试	c=0 d=0.1 t=7141
+encwfak 	份考勤	c=0 d=0.1 t=7484
+encwfbm 	会出	c=0 d=0.1 t=7450
+encwfde 	会有	c=0 d=0.1 t=6012
+encwfdg 	从雷达不	c=0 d=0.1 t=496
+encwfdh 	从雷达上	c=0 d=0.1 t=1232
+encwfdh 	会在	c=0 d=0.1 t=5742
+encwfdh 	会存	c=0 d=0.1 t=4709
+encwfdp 	从雷达	c=0 d=0.1 t=1231
+encwfgc 	传到	c=0 d=0.1 t=6172
+encwfgd 	分支不存	c=0 d=0.1 t=7612
+encwfgg 	值一	c=0 d=0.1 t=3591
+encwfgh 	会下	c=0 d=0.1 t=6322
+encwfgi 	分支不	c=0 d=0.1 t=7611
+encwfhh 	会上	c=0 d=0.1 t=442
+encwfjg 	会是	c=0 d=0.1 t=3830
+encwflk 	会回	c=0 d=0.1 t=5426
+encwfnt 	会发	c=0 d=0.1 t=4515
+encwfnt 	会改	c=0 d=0.1 t=2307
+encwfpf 	会完	c=0 d=0.1 t=1490
+encwfpu 	会被	c=0 d=0.1 t=2397
+encwfqe 	会触	c=0 d=0.1 t=3053
+encwfqt 	会儿	c=0 d=0.1 t=316
+encwfrh 	会看	c=0 d=0.1 t=5161
+encwfrp 	会按	c=0 d=0.1 t=6362
+encwfru 	他直接	c=0 d=0.1 t=229
+encwfsf 	们需要雷	c=0 d=0.1 t=3441
+encwfsv 	仅需要	c=0 d=0.1 t=2092
+encwfsv 	们需要	c=0 d=0.1 t=3440
+encwftc 	个过程又	c=0 d=0.1 t=161
+encwftf 	会先	c=0 d=0.1 t=4693
+encwftf 	会进行	c=0 d=0.1 t=7004
+encwftg 	会重	c=0 d=0.1 t=4530
+encwftk 	个过程	c=0 d=0.1 t=160
+encwftn 	会进行展	c=0 d=0.1 t=7005
+encwfuq 	会将	c=0 d=0.1 t=6900
+encwfwu 	会伴	c=0 d=0.1 t=6952
+encwfwy 	会停	c=0 d=0.1 t=4176
+encwfxc 	会经	c=0 d=0.1 t=431
+encwfyc 	会填充	c=0 d=0.1 t=4493
+encwfyg 	个地方不	c=0 d=0.1 t=4183
+encwfyl 	佞为	c=0 d=0.1 t=2017
+encwfym 	会调	c=0 d=0.1 t=1849
+encwfyy 	个地方	c=0 d=0.1 t=4182
+encwgab 	今天花了	c=0 d=0.1 t=7211
+encwgaw 	今天花	c=0 d=0.1 t=7210
+encwgbn 	传到了	c=0 d=0.1 t=6173
+encwgdh 	体现在	c=0 d=0.1 t=873
+encwgdm 	像下面	c=0 d=0.1 t=5308
+encwgdr 	体现在抓	c=0 d=0.1 t=874
+encwgdr 	像下面的	c=0 d=0.1 t=5309
+encwgfc 	今天去	c=0 d=0.1 t=223
+encwgfr 	今天去打	c=0 d=0.1 t=224
+encwgga 	今天到期	c=0 d=0.1 t=7417
+encwggc 	今天到	c=0 d=0.1 t=7416
+encwggf 	依赖于	c=0 d=0.1 t=3287
+encwghd 	拿睚	c=0 d=0.1 t=4021
+encwgkr 	全听	c=1 d=1 t=4018
+encwgqk 	命名	c=1 d=1 t=1056
+encwgsh 	偏理想	c=0 d=0.1 t=3852
+encwgst 	个表格	c=0 d=0.1 t=7452
+encwgsw 	偏理想化	c=0 d=0.1 t=3853
+encwgte 	值一般	c=0 d=0.1 t=3592
+encwgty 	合入	c=0 d=0.1 t=3161
+encwgud 	今天状态	c=0 d=0.1 t=7303
+encwgwy 	命令	c=1 d=1 t=6446
+encwhcb 	个步骤	c=0 d=0.1 t=7244
+encwhcr 	个步骤的	c=0 d=0.1 t=7245
+encwhee 	个月	c=0 d=0.1 t=7438
+encwhfq 	个无	c=0 d=0.1 t=2130
+encwhjf 	悠时	c=0 d=0.1 t=3164
+encwhjg 	个是	c=0 d=0.1 t=2193
+encwhmg 	拿睚同	c=0 d=0.1 t=4022
+encwhod 	个类	c=0 d=0.1 t=4326
+encwhos 	个灯	c=0 d=0.1 t=1630
+encwhrb 	会上报	c=0 d=0.1 t=443
+encwhrv 	个招	c=0 d=0.1 t=7433
+encwhse 	侵目标及	c=0 d=0.1 t=106
+encwhsf 	侵目标	c=0 d=0.1 t=5731
+encwhsf 	侵目标进	c=0 d=0.1 t=5732
+encwhth 	个自	c=0 d=0.1 t=3263
+encwilk 	便添加	c=0 d=0.1 t=5839
+encwitj 	个消息时	c=0 d=0.1 t=4465
+encwiue 	们当前	c=0 d=0.1 t=6137
+encwiuj 	们当前是	c=0 d=0.1 t=6138
+encwiwd 	从源代码	c=0 d=0.1 t=3148
+encwiyp 	佃潮这	c=0 d=0.1 t=4005
+encwjfc 	但是却	c=0 d=0.1 t=5005
+encwjfr 	但是却看	c=0 d=0.1 t=5006
+encwjgd 	低电平有	c=0 d=0.1 t=1646
+encwjgd 	你明天	c=0 d=0.1 t=326
+encwjgr 	你明天看	c=0 d=0.1 t=327
+encwjgu 	低电平	c=0 d=0.1 t=1645
+encwjjg 	但是	c=0 d=0.1 t=6200
+encwjng 	会是以下	c=0 d=0.1 t=3832
+encwjny 	会是以	c=0 d=0.1 t=3831
+encwjtg 	但是管理	c=0 d=0.1 t=6201
+encwjvj 	但是如果	c=0 d=0.1 t=5628
+encwjwj 	但是但	c=0 d=0.1 t=5765
+encwjyy 	个是该	c=0 d=0.1 t=2194
+encwkfs 	人员需要	c=0 d=0.1 t=5453
+encwkft 	人员进行	c=0 d=0.1 t=7012
+encwkgc 	侦听到	c=0 d=0.1 t=4636
+encwkgg 	侦听到来	c=0 d=0.1 t=4637
+encwkgn 	信号与	c=0 d=0.1 t=1426
+encwktc 	个路径	c=0 d=0.1 t=6621
+encwktg 	人员处理	c=0 d=0.1 t=6849
+encwkty 	个路径为	c=0 d=0.1 t=6622
+encwkwf 	信号会	c=0 d=0.1 t=1477
+encwkwk 	信号信号	c=0 d=0.1 t=4520
+encwkwq 	信号会触	c=0 d=0.1 t=1478
+encwkxw 	信号给	c=0 d=0.1 t=1450
+encwlif 	佃潮	c=1 d=1 t=4004
+encwljf 	传输时	c=0 d=0.1 t=4558
+encwlve 	会回退	c=0 d=0.1 t=5427
+encwlvg 	会回退至	c=0 d=0.1 t=5428
+encwmaf 	侧某	c=0 d=0.1 t=2581
+encwnbn 	修改了	c=0 d=0.1 t=3169
+encwndh 	修改在	c=0 d=0.1 t=7047
+encwnfn 	修改均已	c=0 d=0.1 t=2804
+encwnfq 	修改均	c=0 d=0.1 t=2803
+encwngc 	会导致	c=0 d=0.1 t=5842
+encwnjf 	修改时	c=0 d=0.1 t=3166
+encwnjj 	仍以电量	c=0 d=0.1 t=1507
+encwnnt 	从属性	c=0 d=0.1 t=2861
+encwnpe 	会以家	c=0 d=0.1 t=668
+encwnpf 	修改完	c=0 d=0.1 t=2200
+encwntg 	会发生	c=0 d=0.1 t=2335
+encwnvg 	从以如下	c=0 d=0.1 t=509
+encwnvg 	修改如下	c=0 d=0.1 t=2096
+encwnwd 	修改代码	c=0 d=0.1 t=4554
+encwnwg 	修改合	c=0 d=0.1 t=2707
+encwnwt 	修改合入	c=0 d=0.1 t=2708
+encwnym 	假设	c=0 d=0.1 t=3875
+encwnyo 	会改变	c=0 d=0.1 t=2308
+encwobg 	个类出现	c=0 d=0.1 t=4317
+encwobm 	个类出	c=0 d=0.1 t=4316
+encwocy 	个灯对应	c=0 d=0.1 t=1631
+encwone 	个数必须	c=0 d=0.1 t=2109
+encworq 	个类的	c=0 d=0.1 t=4327
+encwoxe 	个数组	c=0 d=0.1 t=4125
+encwpgg 	段之一	c=0 d=0.1 t=5866
+encwpye 	会被调用	c=0 d=0.1 t=2398
+encwqff 	会儿过去	c=0 d=0.1 t=318
+encwqfm 	命名规则	c=0 d=0.1 t=1057
+encwqfp 	会儿过	c=0 d=0.1 t=317
+encwqgh 	像下	c=0 d=0.1 t=5307
+encwqjn 	低电	c=0 d=0.1 t=1644
+encwqno 	会触发断	c=0 d=0.1 t=3055
+encwqnt 	会触发	c=0 d=0.1 t=3054
+encwqsk 	你可	c=0 d=0.1 t=5119
+encwqyl 	保留为	c=0 d=0.1 t=6778
+encwrfy 	会按协议	c=0 d=0.1 t=6363
+encwrga 	会看到其	c=0 d=0.1 t=4224
+encwrgc 	会看到	c=0 d=0.1 t=5124
+encwrgk 	件事	c=0 d=0.1 t=3701
+encwrgy 	会看到这	c=0 d=0.1 t=3822
+encwrik 	个探测器	c=0 d=0.1 t=5089
+encwrim 	个探测	c=0 d=0.1 t=5088
+encwrit 	们的消息	c=0 d=0.1 t=3946
+encwrjb 	保持最	c=0 d=0.1 t=7074
+encwrji 	保持最小	c=0 d=0.1 t=4565
+encwrju 	保持最新	c=0 d=0.1 t=7075
+encwrmr 	会失败的	c=0 d=0.1 t=5177
+encwrmt 	会失败	c=0 d=0.1 t=5176
+encwrmt 	化失败	c=0 d=0.1 t=3068
+encwrna 	但扩展	c=0 d=0.1 t=1715
+encwrnb 	但扩展了	c=0 d=0.1 t=1716
+encwrqg 	会打印	c=0 d=0.1 t=5620
+encwrqt 	会打印很	c=0 d=0.1 t=5621
+encwrre 	人所接受	c=0 d=0.1 t=1755
+encwrrf 	们的挂载	c=0 d=0.1 t=6276
+encwrru 	人所接	c=0 d=0.1 t=1754
+encwrsa 	个排查项	c=0 d=0.1 t=6751
+encwrsj 	个排查	c=0 d=0.1 t=6750
+encwrtf 	会执行	c=0 d=0.1 t=6066
+encwrtg 	做的第一	c=0 d=0.1 t=3699
+encwrtr 	会执行抓	c=0 d=0.1 t=6067
+encwrtx 	做的第	c=0 d=0.1 t=3698
+encwrwh 	们打个	c=0 d=0.1 t=7432
+encwrwq 	个摄像	c=0 d=0.1 t=5654
+encwrwr 	们打个招	c=0 d=0.1 t=7433
+encwrwu 	个摄像头	c=0 d=0.1 t=5655
+encwsbm 	分析出	c=0 d=0.1 t=3094
+encwsbq 	分析出错	c=0 d=0.1 t=3095
+encwsce 	们可能	c=0 d=0.1 t=3611
+encwsce 	你可能	c=0 d=0.1 t=5120
+encwscw 	们可能会	c=0 d=0.1 t=3612
+encwsfj 	信模块是	c=0 d=0.1 t=6771
+encwsfn 	信模块	c=0 d=0.1 t=6770
+encwsis 	分析清楚	c=0 d=0.1 t=4308
+encwsla 	个配置项	c=0 d=0.1 t=3182
+encwslf 	个配置	c=0 d=0.1 t=3181
+encwstf 	从构造	c=0 d=0.1 t=4331
+encwsug 	人机交互	c=0 d=0.1 t=1282
+encwtbo 	信息函数	c=0 d=0.1 t=4489
+encwtey 	任务及	c=0 d=0.1 t=7520
+encwtfc 	会自动	c=0 d=0.1 t=5490
+encwtfd 	合入雷达	c=0 d=0.1 t=412
+encwtfl 	合入雷	c=0 d=0.1 t=411
+encwtfs 	什么需要	c=0 d=0.1 t=1916
+encwtft 	信息都	c=0 d=0.1 t=429
+encwtfw 	信息都会	c=0 d=0.1 t=430
+encwtgi 	什么不	c=0 d=0.1 t=7319
+encwthh 	信息上	c=0 d=0.1 t=6966
+encwthr 	信息上报	c=0 d=0.1 t=6967
+encwths 	合入目标	c=0 d=0.1 t=2709
+encwtif 	作法	c=0 d=0.1 t=750
+encwtjf 	合入时	c=0 d=0.1 t=2741
+encwtjs 	合入时要	c=0 d=0.1 t=2742
+encwtni 	什么异常	c=0 d=0.1 t=4189
+encwtnt 	会重发	c=0 d=0.1 t=4531
+encwtsa 	个自检项	c=0 d=0.1 t=3265
+encwtsw 	个自检	c=0 d=0.1 t=3264
+encwttg 	信息处理	c=0 d=0.1 t=4481
+encwtub 	任务产出	c=0 d=0.1 t=7460
+encwtuj 	什么问题	c=0 d=0.1 t=6014
+encwtwd 	合入代码	c=0 d=0.1 t=3162
+encwtxj 	候选结果	c=0 d=0.1 t=5225
+encwtyc 	停程序	c=0 d=0.1 t=4301
+encwtyf 	优先启动	c=0 d=0.1 t=2602
+encwtyf 	会先启动	c=0 d=0.1 t=4694
+encwtyl 	作为	c=0 d=0.1 t=1387
+encwuay 	会将共享	c=0 d=0.1 t=6327
+encwucf 	依次对	c=0 d=0.1 t=1608
+encwude 	伴有	c=0 d=0.1 t=6953
+encwugg 	任意一	c=0 d=0.1 t=5086
+encwugw 	任意一个	c=0 d=0.1 t=5087
+encwuhh 	依次上	c=0 d=0.1 t=2567
+encwuhj 	依次上电	c=0 d=0.1 t=2568
+encwuon 	会判断	c=0 d=0.1 t=2588
+encwurq 	们的	c=0 d=0.1 t=6275
+encwurs 	们打	c=0 d=0.1 t=7431
+encwuru 	人资提交	c=0 d=0.1 t=7409
+encwusk 	们可	c=0 d=0.1 t=3610
+encwuwf 	们会	c=0 d=0.1 t=4692
+encwuwn 	们假	c=0 d=0.1 t=3874
+encwuww 	们从	c=0 d=0.1 t=544
+encwuyl 	们为	c=0 d=0.1 t=4676
+encwvaf 	登录某	c=0 d=0.1 t=5652
+encwvaw 	登录某个	c=0 d=0.1 t=5653
+encwvfd 	登录雷达	c=0 d=0.1 t=3446
+encwvfl 	登录雷	c=0 d=0.1 t=3445
+encwvjr 	但如果后	c=0 d=0.1 t=2065
+encwvjs 	但如果	c=0 d=0.1 t=2064
+encwvrd 	创建所有	c=0 d=0.1 t=1618
+encwvrg 	登录后	c=0 d=0.1 t=2776
+encwvrn 	创建所	c=0 d=0.1 t=1617
+encwvrq 	创建的	c=0 d=0.1 t=2266
+encwvtk 	登录各	c=0 d=0.1 t=2693
+encwvyl 	分为	c=0 d=0.1 t=2021
+encwwdc 	从代码	c=0 d=0.1 t=4835
+encwwdd 	会停大	c=0 d=0.1 t=4177
+encwwde 	会伴有	c=0 d=0.1 t=6953
+encwwdh 	从代码上	c=0 d=0.1 t=4836
+encwwdm 	从而	c=0 d=0.1 t=4098
+encwwfl 	从雷	c=0 d=0.1 t=1230
+encwwft 	们会进行	c=0 d=0.1 t=4068
+encwwgd 	会体现在	c=0 d=0.1 t=873
+encwwgg 	优化一	c=0 d=0.1 t=4661
+encwwgg 	优化一下	c=0 d=0.1 t=4662
+encwwgh 	命令下	c=0 d=0.1 t=6350
+encwwgm 	会体现	c=0 d=0.1 t=872
+encwwgn 	命令下发	c=0 d=0.1 t=6351
+encwwhk 	任何点	c=0 d=0.1 t=5143
+encwwhy 	任何点迹	c=0 d=0.1 t=5144
+encwwid 	从源	c=0 d=0.1 t=3147
+encwwkg 	会侦听到	c=0 d=0.1 t=4636
+encwwkm 	人员	c=0 d=0.1 t=7011
+encwwkr 	会侦听	c=0 d=0.1 t=4635
+encwwny 	从以	c=0 d=0.1 t=508
+encwwqy 	仍保留	c=0 d=0.1 t=6777
+encwwqy 	仍保留为	c=0 d=0.1 t=6778
+encwwrn 	人所	c=0 d=0.1 t=1753
+encwwsm 	人机	c=0 d=0.1 t=1281
+encwwst 	化从构造	c=0 d=0.1 t=4331
+encwwtf 	个候选	c=0 d=0.1 t=5224
+encwwtf 	们会先	c=0 d=0.1 t=4693
+encwwuq 	人资	c=0 d=0.1 t=7408
+encwwvf 	化创建	c=0 d=0.1 t=1616
+encwwvr 	化创建所	c=0 d=0.1 t=1617
+encwwwd 	们从代码	c=0 d=0.1 t=545
+encwwym 	们假设	c=0 d=0.1 t=3875
+encwwyy 	们假设为	c=0 d=0.1 t=3876
+encwxeu 	华腾	c=0 d=0.1 t=7626
+encwxjk 	个结果只	c=0 d=0.1 t=5236
+encwxjs 	个结果	c=0 d=0.1 t=5235
+encwxrq 	化的	c=0 d=0.1 t=3854
+encwxsq 	个结构	c=0 d=0.1 t=2141
+encwxsw 	个结构体	c=0 d=0.1 t=2142
+encwxww 	化从	c=0 d=0.1 t=4330
+encwxyf 	会经主雷	c=0 d=0.1 t=433
+encwxyg 	会经主	c=0 d=0.1 t=432
+encwxyg 	化主	c=0 d=0.1 t=2889
+encwybn 	们为了	c=0 d=0.1 t=4677
+encwydd 	停大	c=0 d=0.1 t=4177
+encwydh 	停在	c=0 d=0.1 t=4226
+encwyet 	会调用	c=0 d=0.1 t=1850
+encwyfc 	会启动	c=0 d=0.1 t=1897
+encwygh 	分为两步	c=0 d=0.1 t=2023
+encwygm 	分为两	c=0 d=0.1 t=2022
+encwygw 	保证整个	c=0 d=0.1 t=1987
+encwyot 	作为业务	c=0 d=0.1 t=1388
+encwysi 	个文档	c=0 d=0.1 t=7316
+encwysp 	化主要完	c=0 d=0.1 t=2891
+encwysv 	化主要	c=0 d=0.1 t=2890
+encwytd 	从设备而	c=0 d=0.1 t=4607
+encwytf 	个设备都	c=0 d=0.1 t=2640
+encwyth 	个设备上	c=0 d=0.1 t=3601
+encwytk 	从设备中	c=0 d=0.1 t=760
+encwytl 	个设备	c=0 d=0.1 t=3600
+encwytl 	从设备	c=0 d=0.1 t=4829
+encwytl 	从设备因	c=0 d=0.1 t=4757
+encwytr 	从设备的	c=0 d=0.1 t=4822
+encwytx 	登记系统	c=0 d=0.1 t=4132
+encwyty 	从设备主	c=0 d=0.1 t=4681
+encwyvi 	会记录	c=0 d=0.1 t=1856
+encwyww 	保证从	c=0 d=0.1 t=4679
+encwyyl 	假设为	c=0 d=0.1 t=3876
+encwyys 	们应该可	c=0 d=0.1 t=3521
+encwyyt 	仅主设备	c=0 d=0.1 t=130
+encwyyy 	们应该	c=0 d=0.1 t=3520
+encxaqc 	红色	c=0 d=0.1 t=1539
+encxbbn 	继承了	c=0 d=0.1 t=2973
+encxccb 	经预	c=0 d=0.1 t=5201
+encxctg 	经预处理	c=0 d=0.1 t=5202
+encxcyg 	经主	c=0 d=0.1 t=432
+encxemq 	组网	c=0 d=0.1 t=2502
+encxfjc 	终都是通	c=0 d=0.1 t=1684
+encxfjg 	终都是	c=0 d=0.1 t=1683
+encxfog 	给专业	c=0 d=0.1 t=6846
+encxfow 	给专业人	c=0 d=0.1 t=6847
+encxfsk 	续可	c=0 d=0.1 t=4657
+encxfsv 	续要	c=0 d=0.1 t=2067
+encxftd 	给运行在	c=0 d=0.1 t=6529
+encxftf 	给运行	c=0 d=0.1 t=6528
+encxfui 	引起关注	c=0 d=0.1 t=5646
+encxgrg 	结束后	c=0 d=0.1 t=7039
+encxhfh 	引起	c=0 d=0.1 t=5645
+encxhnt 	引发	c=0 d=0.1 t=3061
+encxjft 	结果进行	c=0 d=0.1 t=6933
+encxjkh 	结果中	c=0 d=0.1 t=6266
+encxjks 	结果只要	c=0 d=0.1 t=5237
+encxjkw 	结果只	c=0 d=0.1 t=5236
+encxjrg 	结果后	c=0 d=0.1 t=7002
+encxjua 	结果并	c=0 d=0.1 t=6855
+encxjwt 	结果信息	c=0 d=0.1 t=6965
+encxlrj 	络连接是	c=0 d=0.1 t=3365
+encxlru 	络连接	c=0 d=0.1 t=3371
+encxnaw 	引发其他	c=0 d=0.1 t=3062
+encxqrf 	纸质	c=0 d=0.1 t=7476
+encxqta 	红色长	c=0 d=0.1 t=1540
+encxqta 	绿色长	c=0 d=0.1 t=1549
+encxqty 	红色长亮	c=0 d=0.1 t=1541
+encxqty 	绿色长亮	c=0 d=0.1 t=1550
+encxrik 	给探测器	c=0 d=0.1 t=1139
+encxrim 	给探测	c=0 d=0.1 t=1138
+encxrqg 	续打印	c=0 d=0.1 t=3208
+encxrrh 	络拓扑	c=0 d=0.1 t=2513
+encxrrl 	络拓扑图	c=0 d=0.1 t=2514
+encxrso 	纸质材料	c=0 d=0.1 t=7477
+encxsny 	续可以	c=0 d=0.1 t=4658
+encxstx 	续要升级	c=0 d=0.1 t=2068
+encxsws 	结构体	c=0 d=0.1 t=2142
+encxtft 	终都	c=0 d=0.1 t=1682
+encxtgg 	给管理平	c=0 d=0.1 t=281
+encxtgj 	经处理	c=0 d=0.1 t=5219
+encxtgj 	给管理	c=0 d=0.1 t=1173
+encxtgr 	经处理后	c=0 d=0.1 t=5220
+encxthg 	线程上下	c=0 d=0.1 t=1965
+encxthh 	线程上	c=0 d=0.1 t=1964
+encxtrq 	线程的	c=0 d=0.1 t=1008
+encxtrq 	终的	c=0 d=0.1 t=1529
+encxubb 	终端子	c=0 d=0.1 t=2489
+encxufj 	终端进	c=0 d=0.1 t=2219
+encxuft 	终端进入	c=0 d=0.1 t=2220
+encxugn 	终端与	c=0 d=0.1 t=3356
+encxuhh 	终端上	c=0 d=0.1 t=6598
+encxuhr 	终端上的	c=0 d=0.1 t=6599
+encxujg 	终端是	c=0 d=0.1 t=6472
+encxujg 	终端是否	c=0 d=0.1 t=6473
+encxumq 	终端网	c=0 d=0.1 t=3362
+encxumx 	终端网络	c=0 d=0.1 t=3363
+encxunt 	终端发	c=0 d=0.1 t=3337
+encxunu 	终端发送	c=0 d=0.1 t=3338
+encxurq 	终端的	c=0 d=0.1 t=6206
+encxutg 	终端处理	c=0 d=0.1 t=1144
+encxuwa 	终端侧某	c=0 d=0.1 t=2581
+encxuwm 	终端侧	c=0 d=0.1 t=2580
+encxuyt 	终端设备	c=0 d=0.1 t=1279
+encxvji 	比如监测	c=0 d=0.1 t=1461
+encxvqc 	绿色	c=0 d=0.1 t=1548
+encxvqt 	比如键盘	c=0 d=0.1 t=2328
+encxvqv 	比如键	c=0 d=0.1 t=2327
+encxwgu 	给平	c=0 d=0.1 t=307
+encxwik 	结合测距	c=0 d=0.1 t=5393
+encxwim 	结合测	c=0 d=0.1 t=5392
+encxwth 	结合自	c=0 d=0.1 t=3790
+encxwtt 	结合自身	c=0 d=0.1 t=3791
+encxwuq 	给人资	c=0 d=0.1 t=7408
+encxwww 	给人	c=0 d=0.1 t=7407
+encxyfd 	经主雷达	c=0 d=0.1 t=434
+encxyfl 	经主雷	c=0 d=0.1 t=433
+encxypd 	编译完成	c=0 d=0.1 t=2812
+encxypf 	编译完	c=0 d=0.1 t=2811
+encxytl 	络设备	c=0 d=0.1 t=2536
+encxyyu 	比方说	c=0 d=0.1 t=58
+encyagn 	度与	c=0 d=0.1 t=5948
+encyatb 	就获得了	c=0 d=0.1 t=3669
+encyayb 	该共享	c=0 d=0.1 t=6238
+encyayk 	让其识别	c=0 d=0.1 t=205
+encybbg 	读取了不	c=0 d=0.1 t=3194
+encybbn 	读取了	c=0 d=0.1 t=3193
+encybjb 	为了最	c=0 d=0.1 t=4561
+encybok 	该函数中	c=0 d=0.1 t=1488
+encybov 	该函数	c=1 d=1 t=1487
+encybwy 	为了保证	c=0 d=0.1 t=4678
+encybyt 	读取设备	c=0 d=0.1 t=3284
+encycfc 	该驱动	c=0 d=0.1 t=2090
+encycfs 	该驱动可	c=0 d=0.1 t=2080
+encycfw 	该驱动仅	c=0 d=0.1 t=2091
+encycmq 	请参见	c=0 d=0.1 t=7374
+encycpb 	为对实际	c=0 d=0.1 t=1501
+encycrg 	应能看到	c=0 d=0.1 t=4944
+encycrh 	应能看	c=0 d=0.1 t=4943
+encydyf 	请确认雷	c=0 d=0.1 t=5024
+encydyw 	请确认	c=0 d=0.1 t=5023
+encyeab 	调用获取	c=0 d=0.1 t=4154
+encyebn 	调用了	c=0 d=0.1 t=4277
+encyebo 	调用函数	c=0 d=0.1 t=2378
+encyego 	调用来	c=0 d=0.1 t=3618
+encyejg 	调用是	c=0 d=0.1 t=6190
+encyelt 	调用图	c=0 d=0.1 t=2457
+encyepu 	应用空间	c=0 d=0.1 t=2040
+encyepw 	应用空	c=0 d=0.1 t=2039
+encyerk 	调用接口	c=0 d=0.1 t=4876
+encyerm 	应用手册	c=0 d=0.1 t=2446
+encyert 	应用手	c=0 d=0.1 t=2445
+encyerw 	调用摄像	c=0 d=0.1 t=6074
+encyesg 	调用栈	c=0 d=0.1 t=4306
+encyetk 	调用各	c=0 d=0.1 t=2910
+encyeto 	调用各类	c=0 d=0.1 t=2911
+encyevg 	调用如下	c=0 d=0.1 t=6371
+encyfam 	请老黄	c=0 d=0.1 t=7343
+encyfat 	请老黄先	c=0 d=0.1 t=7310
+encyfdl 	主雷达转	c=0 d=0.1 t=472
+encyfdp 	主雷达	c=0 d=0.1 t=471
+encyfdw 	主雷达会	c=0 d=0.1 t=441
+encyfft 	为二者	c=0 d=0.1 t=1180
+encyfik 	主过滤嘴	c=1 d=1 t=6560
+encyfjf 	启动时	c=0 d=0.1 t=4174
+encyfjw 	启动时会	c=0 d=0.1 t=2587
+encyfkh 	请求中	c=0 d=0.1 t=6562
+encyfpg 	请求实现	c=0 d=0.1 t=3340
+encyfra 	就地报警	c=0 d=0.1 t=679
+encyfrq 	启动的	c=0 d=0.1 t=2782
+encyfsv 	就需要	c=0 d=0.1 t=6220
+encyftk 	试过程	c=0 d=0.1 t=7091
+encyftk 	试过程中	c=0 d=0.1 t=7092
+encyfty 	启动程序	c=0 d=0.1 t=2816
+encyfua 	启动并	c=0 d=0.1 t=2854
+encyfww 	启动从	c=0 d=0.1 t=4700
+encyfxy 	启动编译	c=0 d=0.1 t=2808
+encyfyg 	启动主	c=0 d=0.1 t=4695
+encygbn 	就来了	c=0 d=0.1 t=3910
+encygbw 	这一阶段	c=0 d=0.1 t=5606
+encygce 	就不能	c=0 d=0.1 t=2984
+encygfi 	请求	c=0 d=0.1 t=2635
+encygfi 	这表示	c=0 d=0.1 t=5128
+encygfl 	主雷	c=0 d=0.1 t=470
+encygft 	请老	c=0 d=0.1 t=7342
+encyggi 	主还	c=0 d=0.1 t=366
+encyggi 	就不不	c=0 d=0.1 t=27
+encyghf 	这一步都	c=0 d=0.1 t=5058
+encyghg 	这一步一	c=0 d=0.1 t=5928
+encyghi 	为两步	c=0 d=0.1 t=2023
+encyghi 	这一步	c=0 d=0.1 t=6128
+encyghk 	这一点	c=0 d=0.1 t=6018
+encyghr 	这一点后	c=0 d=0.1 t=4655
+encygrj 	请提	c=0 d=0.1 t=7324
+encygrr 	亮灭控制	c=0 d=0.1 t=1703
+encygrr 	度与抓	c=0 d=0.1 t=5949
+encygrr 	度与抓拍	c=0 d=0.1 t=5950
+encygsm 	主机	c=0 d=0.1 t=190
+encygsv 	主要	c=0 d=0.1 t=7247
+encygtf 	请先	c=0 d=0.1 t=2345
+encygty 	这两篇	c=0 d=0.1 t=7395
+encyguk 	这一部	c=0 d=0.1 t=7019
+encyguw 	这一部分	c=0 d=0.1 t=7020
+encygww 	主从	c=0 d=0.1 t=2860
+encyhad 	让其	c=0 d=0.1 t=204
+encyhsf 	离目标	c=0 d=0.1 t=763
+encyhwd 	库上代码	c=0 d=0.1 t=7072
+encyibm 	方法也同	c=0 d=0.1 t=6672
+encyibn 	就了	c=0 d=0.1 t=6728
+encyibn 	方法也	c=0 d=0.1 t=6671
+encyice 	应能	c=0 d=0.1 t=4942
+encyide 	为没有	c=0 d=0.1 t=2964
+encyide 	就有	c=0 d=0.1 t=344
+encyidn 	为没有以	c=0 d=0.1 t=2965
+encyifb 	就地	c=0 d=0.1 t=678
+encyigi 	就不	c=0 d=0.1 t=2983
+encyigk 	就带	c=0 d=0.1 t=3904
+encyigo 	就来	c=0 d=0.1 t=3909
+encyijg 	就是	c=0 d=0.1 t=6605
+encyinh 	就收	c=0 d=0.1 t=3936
+encyipf 	就完	c=0 d=0.1 t=1189
+encyipu 	就补	c=0 d=0.1 t=4825
+encyisk 	就可	c=0 d=0.1 t=5402
+encyisv 	就要	c=0 d=0.1 t=697
+encyith 	就算	c=0 d=0.1 t=352
+encyith 	该消息	c=1 d=1 t=3749
+encyitk 	该消息中	c=0 d=0.1 t=3750
+encyitv 	方法很	c=0 d=0.1 t=6249
+encyiwf 	就会	c=0 d=0.1 t=6899
+encyjde 	就是有	c=0 d=0.1 t=3560
+encyjdh 	就是在	c=0 d=0.1 t=5869
+encyjdy 	就是在这	c=0 d=0.1 t=5870
+encyjee 	就是采用	c=0 d=0.1 t=4802
+encyjey 	试电脑	c=0 d=0.1 t=2757
+encyjfd 	说明雷达	c=0 d=0.1 t=5898
+encyjfl 	说明雷	c=0 d=0.1 t=5897
+encyjfs 	这里需要	c=0 d=0.1 t=6543
+encyjgg 	这里不再	c=0 d=0.1 t=3508
+encyjgi 	这里不	c=0 d=0.1 t=5555
+encyjid 	说明没有	c=0 d=0.1 t=6292
+encyjim 	说明没	c=0 d=0.1 t=6291
+encyjjg 	说明是	c=0 d=0.1 t=6709
+encyjji 	说明是没	c=0 d=0.1 t=6710
+encyjkw 	这里只	c=0 d=0.1 t=6743
+encyjld 	这是因	c=0 d=0.1 t=3860
+encyjly 	这是因为	c=0 d=0.1 t=3861
+encyjmg 	说明由于	c=0 d=0.1 t=1924
+encyjmh 	说明由	c=0 d=0.1 t=1923
+encyjoo 	说明火焰	c=0 d=0.1 t=7186
+encyjrf 	说明挂载	c=0 d=0.1 t=6284
+encyjrj 	这里的是	c=0 d=0.1 t=1016
+encyjrq 	就是的	c=0 d=0.1 t=6606
+encyjrq 	这里的	c=0 d=0.1 t=6581
+encyjsc 	就是本对	c=0 d=0.1 t=3714
+encyjsg 	就是本	c=0 d=0.1 t=3713
+encyjso 	说明材料	c=0 d=0.1 t=7414
+encyjut 	这里首先	c=0 d=0.1 t=1031
+encyjvr 	就是寻找	c=0 d=0.1 t=3704
+encyjvy 	这里建议	c=0 d=0.1 t=4364
+encyjwe 	论是使用	c=0 d=0.1 t=3988
+encyjwv 	说明登录	c=0 d=0.1 t=5651
+encyjwv 	这里创建	c=0 d=0.1 t=1020
+encyjxc 	这是经	c=0 d=0.1 t=5218
+encyjyu 	就是说	c=0 d=0.1 t=4259
+encykaa 	调嘛工	c=1 d=1 t=5945
+encykja 	序号日期	c=0 d=0.1 t=7505
+encykrg 	识别后	c=0 d=0.1 t=6897
+encyktb 	该路径也	c=0 d=0.1 t=6611
+encyktc 	该路径	c=0 d=0.1 t=6610
+encyktj 	识别复	c=0 d=0.1 t=1105
+encykts 	识别复核	c=0 d=0.1 t=6510
+encykwc 	识别俊	c=0 d=0.1 t=41
+encykwv 	识别俊婷	c=0 d=0.1 t=42
+encykxj 	识别结果	c=0 d=0.1 t=7001
+encykyf 	识别请求	c=0 d=0.1 t=6650
+encykyg 	识别主	c=0 d=0.1 t=108
+encylad 	说回若	c=0 d=0.1 t=4666
+encylar 	说回若按	c=0 d=0.1 t=4667
+encylbn 	为了	c=0 d=0.1 t=4677
+encylcf 	为对	c=0 d=0.1 t=1500
+encylfg 	为二	c=0 d=0.1 t=1179
+encylgm 	为两	c=0 d=0.1 t=2022
+encylhh 	库上	c=0 d=0.1 t=7071
+encylim 	为没	c=0 d=0.1 t=2963
+encylit 	设置流程	c=0 d=0.1 t=6662
+encylnh 	为收	c=0 d=0.1 t=4715
+encylpd 	设置完成	c=0 d=0.1 t=1688
+encylpf 	设置完	c=0 d=0.1 t=1687
+encylpw 	为空	c=0 d=0.1 t=6623
+encylqa 	为错	c=0 d=0.1 t=4759
+encylrq 	设置的	c=0 d=0.1 t=6617
+encylrw 	设置摄像	c=0 d=0.1 t=169
+encylsv 	为要	c=0 d=0.1 t=1454
+encyltd 	该图片在	c=0 d=0.1 t=6591
+encylth 	该图片	c=1 d=1 t=6590
+encyltr 	为我	c=0 d=0.1 t=238
+encyluq 	为将	c=0 d=0.1 t=165
+encyluw 	为闪	c=0 d=0.1 t=1891
+encylwg 	为例	c=0 d=0.1 t=1511
+encylww 	为人	c=0 d=0.1 t=1752
+encylyp 	为这	c=0 d=0.1 t=5516
+encymhi 	这几步	c=0 d=0.1 t=5518
+encymya 	调度	c=1 d=1 t=6033
+encymya 	调试	c=0 d=0.1 t=7572
+encymyl 	设为	c=0 d=0.1 t=3876
+encyngb 	为收到了	c=0 d=0.1 t=4717
+encyngc 	为收到	c=0 d=0.1 t=4716
+encyngg 	就收不到	c=0 d=0.1 t=3938
+encyngi 	就收不	c=0 d=0.1 t=3937
+encynwy 	记信	c=0 d=0.1 t=1200
+encyorn 	迹数据	c=0 d=0.1 t=5210
+encyotl 	为业务	c=0 d=0.1 t=1388
+encyowq 	麻烦你	c=0 d=0.1 t=7424
+encyoyl 	变为	c=0 d=0.1 t=474
+encypdb 	就完成了	c=0 d=0.1 t=1191
+encypdn 	就完成	c=0 d=0.1 t=1190
+encypge 	这表	c=0 d=0.1 t=5127
+encypgg 	这一	c=0 d=0.1 t=7018
+encypgm 	这两	c=0 d=0.1 t=7394
+encypgo 	亮来	c=0 d=0.1 t=1674
+encypgo 	亮灭	c=0 d=0.1 t=1702
+encypjf 	这里	c=0 d=0.1 t=6742
+encypjg 	这是	c=0 d=0.1 t=5217
+encypmt 	这几	c=0 d=0.1 t=5517
+encypng 	就补发至	c=0 d=0.1 t=4827
+encypnt 	就补发	c=0 d=0.1 t=4826
+encypor 	方案数据	c=0 d=0.1 t=416
+encypqk 	这句	c=0 d=0.1 t=6703
+encyprf 	这抚	c=1 d=1 t=1035
+encyprg 	设定后	c=0 d=0.1 t=5459
+encyprq 	该宏的	c=0 d=0.1 t=2145
+encyprr 	设定后的	c=0 d=0.1 t=5460
+encyprt 	该宏的每	c=0 d=0.1 t=2146
+encypsu 	这样	c=0 d=0.1 t=6245
+encyptk 	这和	c=0 d=0.1 t=5147
+encyptk 	这种	c=0 d=0.1 t=6715
+encypts 	这条	c=0 d=0.1 t=4072
+encypuq 	这次	c=0 d=0.1 t=7469
+encypwh 	这个	c=0 d=0.1 t=7437
+encypyt 	设定设备	c=0 d=0.1 t=2865
+encypyu 	这说	c=0 d=0.1 t=5649
+encyqfb 	为错过了	c=0 d=0.1 t=4761
+encyqfp 	为错过	c=0 d=0.1 t=4760
+encyqrg 	该键后	c=0 d=0.1 t=2183
+encyrbm 	请提出	c=0 d=0.1 t=7325
+encyrkk 	该接口	c=1 d=1 t=3377
+encyrkk 	该接口中	c=0 d=0.1 t=1854
+encyrkl 	该接口回	c=0 d=0.1 t=3378
+encyrqr 	该按键的	c=0 d=0.1 t=2196
+encyrqv 	该按键	c=0 d=0.1 t=2195
+encyrwq 	离摄像	c=0 d=0.1 t=784
+encyrwu 	离摄像头	c=0 d=0.1 t=785
+encyrxf 	试打结	c=0 d=0.1 t=7221
+encysaa 	试模式	c=0 d=0.1 t=7142
+encysab 	主要节	c=0 d=0.1 t=7248
+encysah 	主要节点	c=0 d=0.1 t=7249
+encysaw 	这样划分	c=0 d=0.1 t=5527
+encysbl 	详述了车	c=0 d=0.1 t=7227
+encysbn 	详述了	c=0 d=0.1 t=7226
+encysce 	主要通	c=0 d=0.1 t=2907
+encyscf 	为相对	c=0 d=0.1 t=475
+encyscf 	主要通过	c=0 d=0.1 t=2908
+encyscg 	为相对于	c=0 d=0.1 t=476
+encysde 	主要有	c=0 d=0.1 t=2928
+encysfn 	该模块	c=1 d=1 t=2054
+encysft 	就要进行	c=0 d=0.1 t=698
+encysgg 	这样一	c=0 d=0.1 t=4123
+encysgw 	这样一个	c=0 d=0.1 t=4124
+encysie 	主要涉及	c=0 d=0.1 t=1353
+encysjf 	为要显示	c=0 d=0.1 t=1455
+encysjg 	主要是	c=0 d=0.1 t=1157
+encysjp 	主要是写	c=0 d=0.1 t=96
+encysju 	主要是将	c=0 d=0.1 t=1158
+encysla 	该配置项	c=0 d=0.1 t=3035
+encyslf 	该配置	c=0 d=0.1 t=3034
+encysnt 	就可以很	c=0 d=0.1 t=5404
+encysny 	就可以	c=0 d=0.1 t=5403
+encyspd 	主要完成	c=0 d=0.1 t=2892
+encyspf 	主要完	c=0 d=0.1 t=2891
+encyspg 	主要实现	c=0 d=0.1 t=5543
+encysqw 	主要包含	c=0 d=0.1 t=114
+encysrq 	这样的	c=0 d=0.1 t=6246
+encyssj 	请检查	c=0 d=0.1 t=5043
+encyssj 	这检查	c=0 d=0.1 t=2604
+encyssm 	这检查网	c=0 d=0.1 t=2605
+encyswd 	主要代码	c=0 d=0.1 t=4111
+encysyg 	这样就带	c=0 d=0.1 t=3904
+encysyi 	这样就	c=0 d=0.1 t=4707
+encysyp 	文档这	c=0 d=0.1 t=100
+encysyt 	文档这种	c=0 d=0.1 t=101
+encysyw 	这样就会	c=0 d=0.1 t=4708
+encytad 	设备若	c=0 d=0.1 t=4813
+encytah 	设备节点	c=0 d=0.1 t=2990
+encytat 	设备若第	c=0 d=0.1 t=4814
+encytau 	这种区间	c=0 d=0.1 t=62
+encytbm 	计算出	c=0 d=0.1 t=3735
+encytbn 	就算了	c=0 d=0.1 t=353
+encytdm 	设备而	c=0 d=0.1 t=4607
+encytdy 	设备而言	c=0 d=0.1 t=4608
+encytfc 	设备都能	c=0 d=0.1 t=2641
+encytft 	设备都	c=0 d=0.1 t=2640
+encytgi 	设备还	c=0 d=0.1 t=728
+encytgj 	设备还是	c=0 d=0.1 t=729
+encythd 	这和上面	c=0 d=0.1 t=5149
+encythh 	设备上	c=0 d=0.1 t=3601
+encythh 	这和上	c=0 d=0.1 t=5148
+encythr 	设备上的	c=0 d=0.1 t=3602
+encytjh 	为我早	c=0 d=0.1 t=239
+encytjh 	为我早上	c=0 d=0.1 t=240
+encytjj 	设备电量	c=0 d=0.1 t=3285
+encytkh 	设备中	c=0 d=0.1 t=760
+encytld 	设备因	c=0 d=0.1 t=4757
+encytlr 	设备连接	c=0 d=0.1 t=2537
+encytly 	设备因为	c=0 d=0.1 t=4758
+encytmq 	设备网	c=0 d=0.1 t=3321
+encytmx 	设备网络	c=0 d=0.1 t=3322
+encytnt 	设备发	c=0 d=0.1 t=4764
+encytnu 	设备发送	c=0 d=0.1 t=4765
+encytnu 	这种情况	c=0 d=0.1 t=6716
+encytnx 	设备已经	c=0 d=0.1 t=4925
+encytpg 	试稳定	c=0 d=0.1 t=2062
+encytrq 	设备的	c=0 d=0.1 t=5274
+encytrw 	计算摄像	c=0 d=0.1 t=149
+encytry 	设备的就	c=0 d=0.1 t=677
+encytss 	请先检查	c=0 d=0.1 t=2346
+encyttg 	设备处理	c=0 d=0.1 t=131
+encytth 	设备自	c=0 d=0.1 t=3314
+encytts 	设备自检	c=0 d=0.1 t=3315
+encytud 	设备状态	c=0 d=0.1 t=1361
+encytuj 	为简单	c=0 d=0.1 t=1299
+encytwd 	熟悉代码	c=0 d=0.1 t=7167
+encytwl 	设备位置	c=0 d=0.1 t=2866
+encytws 	设备人机	c=0 d=0.1 t=1281
+encytwt 	设备优先	c=0 d=0.1 t=2601
+encytwu 	设备依次	c=0 d=0.1 t=2566
+encytww 	设备人	c=0 d=0.1 t=1280
+encytwy 	设备依	c=0 d=0.1 t=2565
+encytyg 	设备主	c=0 d=0.1 t=4681
+encytyw 	设备主从	c=0 d=0.1 t=2860
+encyuik 	这次测距	c=0 d=0.1 t=5170
+encyuim 	这次测	c=0 d=0.1 t=5169
+encyulk 	说回	c=0 d=0.1 t=4665
+encyurq 	订阅按键	c=0 d=0.1 t=2381
+encyutf 	请首先	c=0 d=0.1 t=6652
+encyuyv 	访问诸如	c=0 d=0.1 t=2986
+encyvjs 	为如果	c=0 d=0.1 t=779
+encywdd 	就会存在	c=0 d=0.1 t=4710
+encywde 	就会有	c=0 d=0.1 t=5341
+encywdh 	就会存	c=0 d=0.1 t=4709
+encywdv 	就会有如	c=0 d=0.1 t=5342
+encywee 	这个月	c=0 d=0.1 t=7438
+encyweg 	这个月还	c=0 d=0.1 t=7439
+encywfy 	就会填充	c=0 d=0.1 t=4493
+encywhv 	文件目录	c=0 d=0.1 t=2225
+encywjg 	论是	c=0 d=0.1 t=3987
+encywkg 	该信号	c=1 d=1 t=4526
+encywkr 	就全听	c=0 d=0.1 t=4018
+encywkr 	该信号的	c=0 d=0.1 t=4527
+encywkt 	这个路径	c=0 d=0.1 t=6621
+encywlf 	该位置	c=0 d=0.1 t=870
+encywnb 	误修改了	c=0 d=0.1 t=3169
+encywnn 	主从属性	c=0 d=0.1 t=2861
+encywnt 	就会发	c=0 d=0.1 t=4515
+encywnt 	误修改	c=0 d=0.1 t=3168
+encywpu 	就会被	c=0 d=0.1 t=2397
+encywpu 	文件安装	c=0 d=0.1 t=2239
+encywrg 	就会看到	c=0 d=0.1 t=4916
+encywrh 	就会看	c=0 d=0.1 t=4915
+encywrn 	为人所	c=0 d=0.1 t=1753
+encywrr 	为人所接	c=0 d=0.1 t=1754
+encywrt 	就会执行	c=0 d=0.1 t=6066
+encywsb 	请分析出	c=0 d=0.1 t=3094
+encywsr 	请分析	c=0 d=0.1 t=3093
+encywtc 	为什么	c=0 d=0.1 t=6305
+encywuq 	就会将	c=0 d=0.1 t=6900
+encywxj 	这个结果	c=0 d=0.1 t=5235
+encywyf 	就会启动	c=0 d=0.1 t=1897
+encywys 	这个文档	c=0 d=0.1 t=7316
+encywyt 	主从设备	c=0 d=0.1 t=759
+encyxgk 	试结束	c=0 d=0.1 t=7031
+encyxum 	为终端	c=0 d=0.1 t=2579
+encyxuw 	为终端侧	c=0 d=0.1 t=2580
+encyyah 	调试工具	c=0 d=0.1 t=2792
+encyybn 	应该也	c=0 d=0.1 t=7401
+encyyft 	调试过程	c=0 d=0.1 t=7091
+encyygn 	调度与	c=0 d=0.1 t=6034
+encyyhh 	设计上	c=0 d=0.1 t=1981
+encyyhs 	设计上述	c=0 d=0.1 t=1982
+encyyje 	就说明	c=0 d=0.1 t=6290
+encyyje 	调试电脑	c=0 d=0.1 t=7060
+encyyje 	这说明	c=0 d=0.1 t=7185
+encyyjf 	这说明雷	c=0 d=0.1 t=3399
+encyyji 	就说明没	c=0 d=0.1 t=6291
+encyykh 	文中	c=0 d=0.1 t=1995
+encyylk 	设计思路	c=0 d=0.1 t=1317
+encyymh 	为这几步	c=0 d=0.1 t=5518
+encyymt 	为这几	c=0 d=0.1 t=5517
+encyyng 	调试发现	c=0 d=0.1 t=6642
+encyynt 	调试发	c=0 d=0.1 t=6641
+encyypd 	该宏	c=0 d=0.1 t=2144
+encyyqn 	语言包	c=0 d=0.1 t=7595
+encyyqv 	该键	c=1 d=1 t=2182
+encyyrf 	调试指南	c=0 d=0.1 t=2497
+encyyrq 	调试的	c=0 d=0.1 t=7236
+encyyrr 	调度控制	c=0 d=0.1 t=6059
+encyyrt 	调试的各	c=0 d=0.1 t=7237
+encyyrx 	调试打结	c=0 d=0.1 t=7221
+encyysa 	调试模式	c=0 d=0.1 t=7142
+encyysc 	变为相对	c=0 d=0.1 t=475
+encyysk 	应该可	c=0 d=0.1 t=3521
+encyysn 	应该可以	c=0 d=0.1 t=3522
+encyyss 	设计构想	c=0 d=0.1 t=1270
+encyyta 	主设备若	c=0 d=0.1 t=4813
+encyytd 	主设备而	c=0 d=0.1 t=4603
+encyytg 	主设备还	c=0 d=0.1 t=728
+encyytl 	主设备	c=1 d=1 t=4844
+encyytl 	主设备因	c=0 d=0.1 t=4713
+encyytm 	放弃向	c=0 d=0.1 t=6627
+encyytn 	主设备发	c=0 d=0.1 t=4764
+encyytp 	调试稳定	c=0 d=0.1 t=2062
+encyytr 	主设备的	c=0 d=0.1 t=4845
+encyyxg 	调试结束	c=0 d=0.1 t=7038

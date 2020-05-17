@@ -1,0 +1,17 @@
+#wubi86 custom settings
+#encoding: utf8 without BOM
+
+patch:
+  speller/auto_select: true
+  speller/auto_select_unique_candidate: true
+  punctuator/half_shape:
+    "/": ["/"]
+    "\\": ["、"]
+  punctuator/import_preset: symbols
+  recognizer/patterns/punct: "^/[a-z0-9][a-z]*$"
+  key_binder:
+    bindings:
+      - {accept: minus, send: Page_Up, when: has_menu}
+      - {accept: equal, send: Page_Down, when: has_menu}
+      - {when: paging, accept: comma, send: comma}
+      - {when: has_menu, accept: period, send: period}
