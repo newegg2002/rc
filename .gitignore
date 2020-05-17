@@ -1,0 +1,15 @@
+#rc scripts of utils
+
+#ignore all the dir & files BUT
+/*
+
+#this file
+!.gitignore
+
+#submodules
+.gitmodules
+
+#vim
+/.vim/**/.git/
+!/.vim/
+!/.vimrc
