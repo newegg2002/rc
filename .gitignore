@@ -7,7 +7,7 @@
 !.gitignore
 
 #submodules
-.gitmodules
+!.gitmodules
 
 #vim
 /.vim/**/.git/
