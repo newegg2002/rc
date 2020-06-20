@@ -6,7 +6,7 @@ set timeoutlen=250             " Time to wait after ESC (default causes an annoy
 set clipboard+=unnamed         " Yanks go on clipboard instead.
 set pastetoggle=<F10>          " toggle between paste and normal: for 'safer' pasting from keyboard
 set shiftround                 " round indent to multiple of 'shiftwidth'
-set tags=./tags;$HOME       " consider the repo tags first, then
+set tags=./.tags;$HOME,.tags   " consider the repo tags first, then
                                " walk directory tree upto $HOME looking for tags
                                " note `;` sets the stop folder. :h file-search
 
@@ -187,13 +187,13 @@ Plugin 'gmarik/ingretu'
 Plugin 'gmarik/snipmate.vim'
 Plugin 'honza/vim-snippets'
 Plugin 'mattn/emmet-vim'
-Plugin 'scrooloose/nerdtree'
+Plugin 'preservim/nerdtree'
 Plugin 'vim-scripts/YankRing.vim'
 Plugin 'vim-scripts/taglist.vim'
 Plugin 'Lokaltog/vim-powerline'
-
+Plugin 'Yggdroot/LeaderF'
+Plugin 'mhinz/vim-startify'
 " Mine
-Plugin 'kien/ctrlp.vim'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -219,4 +219,22 @@ set stl+=[%{&ff}]             " show fileformat
 set stl+=%y%m%r%=
 set stl+=%-14.(%l,%c%V%)\ %P
 set wildmenu
+
+" NERDTree
+map <C-k><C-b> :NERDTreeToggle<CR>
+" open NERDTree automatically when vim starts up on opening a directory
+autocmd StdinReadPre * let s:std_in=1
+autocmd VimEnter * if argc() == 1 && isdirectory(argv()[0]) && !exists("s:std_in") | exe 'NERDTree' argv()[0] | wincmd p | ene | exe 'cd '.argv()[0] | endif
+" lose vim if the only window left open is a NERDTree
+autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
+
+" Leaderf
+let g:Lf_ShortcutF = '<leader>f'
+let g:Lf_ShortcutB = '<leader>b'
+noremap <leader>r :LeaderfFunction!<cr>
+noremap <leader>t :LeaderfBufTag<cr>
+noremap <leader>m :<C-U><C-R>=printf("Leaderf mru %s", "")<CR><CR>
+noremap <leader>s :<C-U><C-R>=printf("Leaderf! rg -e %s ", expand("<cword>"))<CR>
+
+let g:Lf_ShowDevIcons=1
 
