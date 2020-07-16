@@ -182,18 +182,19 @@ Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
 
 " Programming
+Plugin 'ludovicchabant/vim-gutentags'
+Plugin 'vim-scripts/taglist.vim'
+Plugin 'tpope/vim-fugitive'
 
 " Snippets
 Plugin 'gmarik/snipmate.vim'
 Plugin 'honza/vim-snippets'
 Plugin 'mattn/emmet-vim'
 Plugin 'vim-scripts/YankRing.vim'
-Plugin 'vim-scripts/taglist.vim'
 
 " Mine
 Plugin 'Yggdroot/LeaderF'
 Plugin 'mhinz/vim-startify'
-Plugin 'tpope/vim-fugitive'
 Plugin 'preservim/nerdtree'
 
 " All of your Plugins must be added before the following line
