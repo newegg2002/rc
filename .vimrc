@@ -160,7 +160,6 @@ Plugin 'VundleVim/Vundle.vim'
 " The following are examples of different formats supported.
 " Keep Plugin commands between vundle#begin/end.
 " plugin on GitHub repo
-Plugin 'tpope/vim-fugitive'
 " plugin from http://vim-scripts.org/vim/scripts.html
 " Plugin 'L9'
 " Git plugin not hosted on GitHub
@@ -175,25 +174,27 @@ Plugin 'tpope/vim-fugitive'
 " Plugin 'ascenator/L9', {'name': 'newL9'}
 
 " original repos on GitHub
+
 " Colorscheme
-" Bundle 'molokai'
 Plugin 'tomasr/molokai'
-Plugin 'nelstrom/vim-mac-classic-theme'
-Plugin 'altercation/vim-colors-solarized'
-Plugin 'gmarik/ingretu'
+" Plugin 'Lokaltog/vim-powerline'
+Plugin 'vim-airline/vim-airline'
+Plugin 'vim-airline/vim-airline-themes'
+
 " Programming
 
 " Snippets
 Plugin 'gmarik/snipmate.vim'
 Plugin 'honza/vim-snippets'
 Plugin 'mattn/emmet-vim'
-Plugin 'preservim/nerdtree'
 Plugin 'vim-scripts/YankRing.vim'
 Plugin 'vim-scripts/taglist.vim'
-Plugin 'Lokaltog/vim-powerline'
+
+" Mine
 Plugin 'Yggdroot/LeaderF'
 Plugin 'mhinz/vim-startify'
-" Mine
+Plugin 'tpope/vim-fugitive'
+Plugin 'preservim/nerdtree'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
@@ -210,7 +211,6 @@ filetype plugin indent on    " required
 " see :h vundle for more details or wiki for FAQ
 " Put your non-Plugin stuff after this line
 
-colorscheme molokai
 let g:molokai_original = 1
 let g:rehash256 = 1
 
@@ -221,11 +221,11 @@ set stl+=%-14.(%l,%c%V%)\ %P
 set wildmenu
 
 " NERDTree
-map <C-k><C-b> :NERDTreeToggle<CR>
+noremap <leader>kb :NERDTreeToggle<CR>
 " open NERDTree automatically when vim starts up on opening a directory
 autocmd StdinReadPre * let s:std_in=1
 autocmd VimEnter * if argc() == 1 && isdirectory(argv()[0]) && !exists("s:std_in") | exe 'NERDTree' argv()[0] | wincmd p | ene | exe 'cd '.argv()[0] | endif
-" lose vim if the only window left open is a NERDTree
+" close vim if the only window left open is a NERDTree
 autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
 
 " Leaderf
@@ -234,7 +234,8 @@ let g:Lf_ShortcutB = '<leader>b'
 noremap <leader>r :LeaderfFunction!<cr>
 noremap <leader>t :LeaderfBufTag<cr>
 noremap <leader>m :<C-U><C-R>=printf("Leaderf mru %s", "")<CR><CR>
-noremap <leader>s :<C-U><C-R>=printf("Leaderf! rg -e %s ", expand("<cword>"))<CR>
+noremap <leader>s :<C-U><C-R>=printf("Leaderf rg -e %s ", expand("<cword>"))<CR>
 
 let g:Lf_ShowDevIcons=1
+colorscheme molokai
 
