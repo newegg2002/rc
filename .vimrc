@@ -6,7 +6,7 @@ set timeoutlen=250             " Time to wait after ESC (default causes an annoy
 set clipboard+=unnamed         " Yanks go on clipboard instead.
 set pastetoggle=<F10>          " toggle between paste and normal: for 'safer' pasting from keyboard
 set shiftround                 " round indent to multiple of 'shiftwidth'
-set tags=./.tags;$HOME,.tags   " consider the repo tags first, then
+set tags=./tags;$HOME,tags     " consider the repo tags first, then
                                " walk directory tree upto $HOME looking for tags
                                " note `;` sets the stop folder. :h file-search
 
@@ -101,8 +101,9 @@ set shortmess=atI             " shortens messages
 set showcmd                   " display an incomplete command in statusline
 
 set foldenable                " Turn on folding
-set foldmethod=marker         " Fold on the marker
+set foldmethod=syntax         " Fold on syntax
 set foldlevel=100             " Don't autofold anything (but I can still fold manually)
+set foldcolumn=2
 
 set foldopen=block,hor,tag    " what movements open folds
 set foldopen+=percent,mark
@@ -180,6 +181,7 @@ Plugin 'tomasr/molokai'
 " Plugin 'Lokaltog/vim-powerline'
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
+Plugin 'edkolev/tmuxline.vim'
 
 " Programming
 Plugin 'ludovicchabant/vim-gutentags'
@@ -191,6 +193,7 @@ Plugin 'gmarik/snipmate.vim'
 Plugin 'honza/vim-snippets'
 Plugin 'mattn/emmet-vim'
 Plugin 'vim-scripts/YankRing.vim'
+Plugin 'taylor/vim-zoomwin'
 
 " Mine
 Plugin 'Yggdroot/LeaderF'
@@ -238,5 +241,9 @@ noremap <leader>m :<C-U><C-R>=printf("Leaderf mru %s", "")<CR><CR>
 noremap <leader>s :<C-U><C-R>=printf("Leaderf rg -e %s ", expand("<cword>"))<CR>
 
 let g:Lf_ShowDevIcons=1
+
+" Air-line theme
+let g:airline_theme='hybridline'
+
 colorscheme molokai
 
