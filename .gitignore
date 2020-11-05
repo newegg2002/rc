@@ -9,6 +9,9 @@
 #submodules
 !.gitmodules
 
+#tmux
+!.tmux.conf
+
 #vim
 /.vim/**/.git/
 !/.vim/

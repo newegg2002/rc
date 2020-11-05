@@ -247,3 +247,7 @@ let g:airline_theme='hybridline'
 
 colorscheme molokai
 
+" Customize highlight for trailing whitespace
+highlight ExtraWhitespace ctermbg=red guibg=red
+match ExtraWhitespace /\s\+$/
+
